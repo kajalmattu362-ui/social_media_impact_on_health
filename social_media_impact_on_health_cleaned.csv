@@ -1,0 +1,1706 @@
+Student_ID,Age,Gender,Academic_Level,Country,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score,Overall_Impact,Usage_Group,Sleep_Group,Mental_Group
+232,21,Male,Undergraduate,Other,4.0,Facebook,No,6.7,6.8,Neutral,Moderate,Moderate Sleep,Average
+564,23,Female,Undergraduate,Other,1.6,LinkedIn,No,8.6,7.6,Positive,Low,Adequate Sleep,Good
+788,22,Male,Graduate,Canada,4.6,Instagram,No,6.7,7.0,Neutral,Moderate,Moderate Sleep,Average
+686,18,Male,Undergraduate,Other,7.0,Snapchat,Yes,5.4,5.3,Negative,High,Moderate Sleep,Average
+608,24,Female,High School,Other,7.5,Facebook,Yes,5.0,4.4,Negative,High,Low Sleep,Average
+370,19,Female,High School,Other,4.1,Twitter,Yes,6.8,6.8,Neutral,Moderate,Moderate Sleep,Average
+862,22,Female,Graduate,Other,8.0,Instagram,Yes,5.2,5.3,Negative,High,Moderate Sleep,Average
+520,21,Female,Graduate,Other,6.0,Facebook,Yes,5.7,4.7,Negative,Moderate,Moderate Sleep,Average
+703,24,Male,Undergraduate,USA,4.7,YouTube,No,7.0,6.2,Neutral,Moderate,Moderate Sleep,Average
+33,19,Male,High School,Other,3.6,TikTok,No,8.1,8.6,Positive,Moderate,Adequate Sleep,Good
+519,18,Male,Graduate,Other,4.1,LinkedIn,No,7.3,6.8,Neutral,Moderate,Adequate Sleep,Average
+738,18,Male,High School,Other,7.6,Snapchat,Yes,5.3,5.5,Negative,High,Moderate Sleep,Average
+119,20,Male,Undergraduate,Other,2.4,Facebook,No,8.8,8.5,Positive,Low,Adequate Sleep,Good
+287,23,Female,Undergraduate,Other,6.2,LinkedIn,No,5.3,5.4,Negative,High,Moderate Sleep,Average
+610,24,Male,Graduate,India,2.7,Instagram,No,8.6,7.8,Positive,Low,Adequate Sleep,Good
+383,18,Female,Graduate,Other,5.2,Twitter,Yes,7.0,6.3,Neutral,Moderate,Moderate Sleep,Average
+699,22,Female,Graduate,USA,6.5,YouTube,Yes,5.4,5.0,Negative,High,Moderate Sleep,Average
+302,21,Male,High School,Australia,6.8,YouTube,Yes,5.7,5.0,Negative,High,Moderate Sleep,Average
+277,21,Male,Graduate,Canada,6.9,Facebook,Yes,5.9,5.0,Negative,High,Moderate Sleep,Average
+631,20,Male,Undergraduate,Other,5.5,Instagram,No,6.8,6.8,Neutral,Moderate,Moderate Sleep,Average
+567,23,Female,High School,Other,2.0,Facebook,No,7.9,7.1,Positive,Low,Adequate Sleep,Good
+110,19,Female,Undergraduate,Other,5.1,Snapchat,Yes,7.1,6.5,Neutral,Moderate,Adequate Sleep,Average
+261,24,Male,Undergraduate,Other,2.0,Facebook,Yes,7.8,8.5,Positive,Low,Adequate Sleep,Good
+691,23,Male,Undergraduate,India,2.0,TikTok,No,7.2,8.6,Positive,Low,Adequate Sleep,Good
+109,23,Female,Graduate,Other,7.1,LinkedIn,Yes,5.4,5.1,Negative,High,Moderate Sleep,Average
+537,21,Male,Undergraduate,Other,6.2,Instagram,Yes,4.7,5.7,Negative,High,Low Sleep,Average
+824,20,Female,Undergraduate,Other,2.8,LinkedIn,No,8.3,8.2,Positive,Low,Adequate Sleep,Good
+270,21,Female,High School,Other,7.4,TikTok,Yes,4.6,4.7,Negative,High,Low Sleep,Average
+932,20,Female,Graduate,USA,5.6,TikTok,Yes,5.7,5.1,Negative,Moderate,Moderate Sleep,Average
+2,23,Female,Undergraduate,USA,2.7,YouTube,No,7.8,7.7,Positive,Low,Adequate Sleep,Good
+808,20,Male,High School,Australia,7.3,YouTube,No,6.0,5.7,Negative,High,Moderate Sleep,Average
+143,24,Male,Graduate,Other,2.3,Snapchat,No,8.2,8.1,Positive,Low,Adequate Sleep,Good
+671,19,Male,High School,India,5.6,LinkedIn,No,6.9,6.6,Neutral,Moderate,Moderate Sleep,Average
+363,22,Female,Graduate,India,7.5,Facebook,Yes,5.2,4.0,Negative,High,Moderate Sleep,Poor
+725,24,Male,High School,UK,5.9,TikTok,No,5.9,4.9,Negative,Moderate,Moderate Sleep,Average
+120,18,Male,Undergraduate,UK,6.8,Instagram,Yes,5.5,4.2,Negative,High,Moderate Sleep,Average
+925,23,Male,High School,Other,6.7,Snapchat,Yes,5.5,5.0,Negative,High,Moderate Sleep,Average
+223,22,Male,Graduate,Other,4.5,Instagram,No,6.1,6.6,Neutral,Moderate,Moderate Sleep,Average
+305,22,Male,Graduate,USA,5.7,LinkedIn,Yes,6.8,6.3,Neutral,Moderate,Moderate Sleep,Average
+70,19,Female,Undergraduate,Other,2.3,Facebook,No,8.0,8.5,Positive,Low,Adequate Sleep,Good
+890,24,Male,Undergraduate,Other,8.3,Twitter,Yes,5.5,4.3,Negative,High,Moderate Sleep,Average
+84,21,Female,Undergraduate,Other,6.5,Twitter,Yes,5.7,4.2,Negative,High,Moderate Sleep,Average
+246,22,Female,Graduate,Other,6.9,Twitter,Yes,5.3,4.5,Negative,High,Moderate Sleep,Average
+64,20,Male,Undergraduate,Other,8.1,TikTok,No,4.5,5.7,Negative,High,Low Sleep,Average
+851,20,Female,High School,Other,7.2,Instagram,No,4.8,4.2,Negative,High,Low Sleep,Average
+827,20,Male,Graduate,Other,4.1,Twitter,Yes,6.6,6.7,Neutral,Moderate,Moderate Sleep,Average
+104,18,Male,Graduate,Other,7.2,LinkedIn,Yes,4.5,5.9,Negative,High,Low Sleep,Average
+103,19,Female,High School,Other,5.2,Twitter,No,7.5,6.4,Neutral,Moderate,Adequate Sleep,Average
+577,20,Male,High School,UK,7.4,Instagram,Yes,5.2,5.0,Negative,High,Moderate Sleep,Average
+692,21,Male,High School,Germany,3.6,Instagram,No,7.1,8.5,Positive,Moderate,Adequate Sleep,Good
+124,22,Female,High School,Other,8.0,YouTube,Yes,5.4,4.7,Negative,High,Moderate Sleep,Average
+78,19,Female,Undergraduate,Other,7.9,Twitter,No,5.0,4.9,Negative,High,Low Sleep,Average
+315,21,Female,Undergraduate,India,6.8,YouTube,Yes,5.3,4.6,Negative,High,Moderate Sleep,Average
+483,22,Male,High School,Australia,7.3,Twitter,Yes,5.5,4.7,Negative,High,Moderate Sleep,Average
+512,21,Male,Undergraduate,Other,3.4,LinkedIn,No,8.6,8.8,Positive,Moderate,Adequate Sleep,Good
+147,21,Female,Graduate,UK,4.4,LinkedIn,Yes,6.4,6.6,Neutral,Moderate,Moderate Sleep,Average
+603,22,Male,Graduate,Other,5.9,Twitter,No,4.7,5.4,Negative,Moderate,Low Sleep,Average
+102,23,Male,Graduate,UK,6.0,TikTok,No,4.8,5.5,Negative,Moderate,Low Sleep,Average
+654,24,Female,High School,Other,3.0,TikTok,No,8.1,8.0,Positive,Low,Adequate Sleep,Good
+614,19,Male,High School,Other,2.7,Instagram,No,8.5,7.6,Positive,Low,Adequate Sleep,Good
+552,24,Male,Undergraduate,Other,1.7,Instagram,No,7.7,8.7,Positive,Low,Adequate Sleep,Good
+441,22,Female,Graduate,Other,6.2,YouTube,Yes,5.3,5.5,Negative,High,Moderate Sleep,Average
+847,21,Male,Undergraduate,Other,1.8,TikTok,No,7.9,8.1,Positive,Low,Adequate Sleep,Good
+23,24,Female,High School,Other,7.1,Twitter,Yes,5.2,4.8,Negative,High,Moderate Sleep,Average
+46,20,Female,High School,India,6.5,Snapchat,Yes,5.7,4.1,Negative,High,Moderate Sleep,Average
+620,22,Male,High School,Other,7.6,Snapchat,Yes,5.9,6.0,Negative,High,Moderate Sleep,Average
+845,19,Female,High School,Other,4.9,LinkedIn,No,6.8,6.6,Neutral,Moderate,Moderate Sleep,Average
+434,24,Female,High School,Other,8.2,Instagram,No,5.3,4.4,Negative,High,Moderate Sleep,Average
+933,21,Male,Undergraduate,Other,5.2,Snapchat,Yes,6.4,6.1,Neutral,Moderate,Moderate Sleep,Average
+7,19,Female,Graduate,Other,2.9,Instagram,No,7.9,7.7,Positive,Low,Adequate Sleep,Good
+30,23,Female,High School,Other,4.4,YouTube,No,7.3,6.2,Neutral,Moderate,Adequate Sleep,Average
+395,20,Female,Undergraduate,Other,4.0,Snapchat,No,7.5,7.2,Positive,Moderate,Adequate Sleep,Good
+425,23,Male,High School,Other,6.4,TikTok,Yes,5.2,4.6,Negative,High,Moderate Sleep,Average
+865,22,Male,Undergraduate,UK,8.2,Facebook,Yes,4.6,4.1,Negative,High,Low Sleep,Average
+776,22,Male,Undergraduate,Other,5.1,Twitter,No,6.5,6.9,Neutral,Moderate,Moderate Sleep,Average
+867,19,Male,Graduate,Other,2.5,YouTube,No,7.6,8.4,Positive,Low,Adequate Sleep,Good
+295,22,Male,High School,Other,6.5,Facebook,No,5.8,5.5,Negative,High,Moderate Sleep,Average
+786,24,Female,Graduate,Australia,7.5,YouTube,Yes,4.7,5.3,Negative,High,Low Sleep,Average
+809,24,Male,Graduate,Other,3.2,LinkedIn,No,7.1,8.6,Positive,Moderate,Adequate Sleep,Good
+156,23,Male,Undergraduate,Germany,7.3,Facebook,Yes,5.7,5.3,Negative,High,Moderate Sleep,Average
+778,18,Female,High School,USA,5.7,Instagram,No,5.1,4.9,Negative,Moderate,Moderate Sleep,Average
+814,23,Female,Undergraduate,Other,4.7,Instagram,Yes,6.1,6.6,Neutral,Moderate,Moderate Sleep,Average
+100,22,Male,Graduate,Other,5.9,Twitter,No,6.0,7.0,Neutral,Moderate,Moderate Sleep,Average
+732,18,Male,High School,Other,7.4,YouTube,Yes,5.0,4.7,Negative,High,Low Sleep,Average
+43,18,Male,Undergraduate,India,8.4,TikTok,Yes,5.9,5.3,Negative,High,Moderate Sleep,Average
+708,19,Male,Undergraduate,India,8.1,Instagram,Yes,4.8,4.1,Negative,High,Low Sleep,Average
+337,22,Female,Undergraduate,Other,3.6,LinkedIn,No,8.6,8.6,Positive,Moderate,Adequate Sleep,Good
+904,20,Male,High School,Canada,5.8,Twitter,Yes,5.6,5.5,Negative,Moderate,Moderate Sleep,Average
+201,21,Female,Undergraduate,USA,8.0,Snapchat,Yes,5.8,5.1,Negative,High,Moderate Sleep,Average
+790,23,Male,High School,India,5.7,Snapchat,No,5.9,5.2,Negative,Moderate,Moderate Sleep,Average
+335,18,Male,Undergraduate,Australia,8.0,TikTok,No,4.6,5.8,Negative,High,Low Sleep,Average
+230,23,Male,Undergraduate,UK,3.7,Instagram,No,8.4,7.2,Positive,Moderate,Adequate Sleep,Good
+4,20,Male,Undergraduate,Other,3.4,Facebook,Yes,8.6,8.7,Positive,Moderate,Adequate Sleep,Good
+161,23,Female,Graduate,Australia,3.3,Facebook,Yes,8.6,8.3,Positive,Moderate,Adequate Sleep,Good
+73,18,Female,Undergraduate,Canada,3.1,Snapchat,No,7.8,7.5,Positive,Moderate,Adequate Sleep,Good
+489,21,Male,Graduate,Other,8.2,LinkedIn,Yes,6.0,5.4,Negative,High,Moderate Sleep,Average
+679,20,Male,Graduate,USA,4.1,LinkedIn,No,7.2,6.8,Neutral,Moderate,Adequate Sleep,Average
+118,18,Female,High School,Other,3.5,TikTok,No,7.0,6.5,Neutral,Moderate,Moderate Sleep,Average
+130,21,Male,High School,Other,5.9,Facebook,No,6.0,6.7,Neutral,Moderate,Moderate Sleep,Average
+970,22,Male,High School,Germany,5.6,YouTube,Yes,5.6,5.7,Negative,Moderate,Moderate Sleep,Average
+220,22,Male,Graduate,Canada,3.8,YouTube,No,7.5,7.9,Positive,Moderate,Adequate Sleep,Good
+209,20,Male,Undergraduate,Other,3.8,Facebook,No,7.6,8.7,Positive,Moderate,Adequate Sleep,Good
+188,21,Female,Graduate,Other,5.8,Facebook,Yes,5.8,4.9,Negative,Moderate,Moderate Sleep,Average
+706,18,Male,Undergraduate,Other,3.7,Snapchat,Yes,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+328,20,Female,High School,Other,2.9,LinkedIn,No,8.3,8.4,Positive,Low,Adequate Sleep,Good
+662,21,Male,High School,India,4.5,LinkedIn,Yes,7.5,7.0,Neutral,Moderate,Adequate Sleep,Average
+400,21,Male,High School,Other,3.8,Snapchat,Yes,7.2,6.1,Neutral,Moderate,Adequate Sleep,Average
+931,20,Male,Undergraduate,Other,2.9,Twitter,No,8.2,7.6,Positive,Low,Adequate Sleep,Good
+752,23,Male,Undergraduate,Other,5.0,Twitter,No,6.7,6.8,Neutral,Moderate,Moderate Sleep,Average
+542,21,Male,Undergraduate,Other,6.5,Instagram,Yes,5.6,4.3,Negative,High,Moderate Sleep,Average
+570,22,Female,High School,UK,3.6,Instagram,Yes,7.1,6.0,Neutral,Moderate,Adequate Sleep,Average
+369,18,Male,Graduate,Other,6.9,LinkedIn,Yes,5.9,4.9,Negative,High,Moderate Sleep,Average
+48,23,Female,Graduate,Other,2.3,TikTok,No,8.3,8.8,Positive,Low,Adequate Sleep,Good
+444,19,Male,Undergraduate,Other,2.6,Snapchat,No,7.8,8.8,Positive,Low,Adequate Sleep,Good
+352,22,Male,Graduate,Other,6.2,Instagram,Yes,4.8,5.9,Negative,High,Low Sleep,Average
+644,24,Female,Graduate,Australia,3.8,Instagram,No,7.3,6.5,Neutral,Moderate,Adequate Sleep,Average
+296,20,Female,Graduate,Other,7.5,Instagram,Yes,4.7,4.6,Negative,High,Low Sleep,Average
+866,20,Male,Graduate,India,3.8,Instagram,No,8.2,7.8,Positive,Moderate,Adequate Sleep,Good
+183,21,Female,Undergraduate,Other,8.4,TikTok,No,5.3,5.9,Negative,High,Moderate Sleep,Average
+557,24,Female,Undergraduate,Other,5.9,Twitter,Yes,4.9,4.1,Negative,Moderate,Low Sleep,Average
+971,22,Male,High School,Australia,6.0,YouTube,Yes,6.8,6.9,Neutral,Moderate,Moderate Sleep,Average
+458,23,Male,Undergraduate,Other,3.5,TikTok,Yes,8.5,7.3,Positive,Moderate,Adequate Sleep,Good
+864,21,Male,Undergraduate,Other,3.1,LinkedIn,No,8.5,8.5,Positive,Moderate,Adequate Sleep,Good
+504,19,Female,Undergraduate,Canada,4.5,Instagram,Yes,6.1,6.6,Neutral,Moderate,Moderate Sleep,Average
+987,21,Female,Graduate,Other,5.6,Instagram,Yes,5.4,5.1,Negative,Moderate,Moderate Sleep,Average
+419,21,Female,Undergraduate,Other,3.6,Facebook,No,7.2,9.0,Positive,Moderate,Adequate Sleep,Good
+869,18,Male,Undergraduate,UK,7.3,LinkedIn,No,5.3,4.0,Negative,High,Moderate Sleep,Poor
+117,21,Female,High School,Other,8.3,YouTube,Yes,5.1,4.2,Negative,High,Moderate Sleep,Average
+800,20,Female,High School,India,5.1,LinkedIn,No,6.3,6.1,Neutral,Moderate,Moderate Sleep,Average
+6,24,Female,Undergraduate,India,3.4,YouTube,No,8.0,7.5,Positive,Moderate,Adequate Sleep,Good
+558,22,Female,High School,Other,8.0,Instagram,Yes,4.9,4.0,Negative,High,Low Sleep,Poor
+983,18,Male,High School,Other,3.7,LinkedIn,Yes,6.9,6.9,Neutral,Moderate,Moderate Sleep,Average
+79,18,Female,Graduate,Other,3.3,Instagram,No,8.3,8.5,Positive,Moderate,Adequate Sleep,Good
+225,21,Male,High School,Other,5.3,Twitter,Yes,7.3,6.7,Neutral,Moderate,Adequate Sleep,Average
+3,23,Female,High School,USA,3.8,Instagram,No,7.4,7.1,Positive,Moderate,Adequate Sleep,Good
+634,24,Male,High School,Other,3.7,Instagram,No,7.4,8.7,Positive,Moderate,Adequate Sleep,Good
+712,22,Female,High School,Other,1.9,Twitter,No,9.0,8.6,Positive,Low,Adequate Sleep,Good
+656,21,Female,Undergraduate,Germany,4.4,Facebook,Yes,6.5,6.5,Neutral,Moderate,Moderate Sleep,Average
+873,18,Female,Graduate,UK,4.0,LinkedIn,No,6.9,6.1,Neutral,Moderate,Moderate Sleep,Average
+975,20,Male,Undergraduate,Other,5.6,YouTube,Yes,5.3,5.4,Negative,Moderate,Moderate Sleep,Average
+469,22,Female,High School,Other,3.2,YouTube,No,8.3,7.5,Positive,Moderate,Adequate Sleep,Good
+421,21,Female,Undergraduate,UK,6.1,Snapchat,Yes,4.5,4.1,Negative,High,Low Sleep,Average
+325,18,Female,Graduate,Australia,5.3,TikTok,Yes,7.1,6.4,Neutral,Moderate,Adequate Sleep,Average
+76,18,Female,Undergraduate,Other,5.6,LinkedIn,Yes,5.9,5.2,Negative,Moderate,Moderate Sleep,Average
+371,24,Male,Undergraduate,Other,6.3,TikTok,Yes,5.5,5.6,Negative,High,Moderate Sleep,Average
+617,23,Female,High School,Other,5.8,Snapchat,No,6.9,6.1,Neutral,Moderate,Moderate Sleep,Average
+101,23,Male,Undergraduate,Canada,2.8,Twitter,Yes,7.7,8.1,Positive,Low,Adequate Sleep,Good
+831,18,Female,Undergraduate,Other,6.5,YouTube,No,5.6,4.3,Negative,High,Moderate Sleep,Average
+900,23,Female,Undergraduate,Australia,4.6,Snapchat,Yes,6.9,6.6,Neutral,Moderate,Moderate Sleep,Average
+828,18,Female,Undergraduate,USA,7.0,TikTok,No,4.9,5.4,Negative,High,Low Sleep,Average
+312,18,Male,Undergraduate,Other,1.8,Twitter,No,8.0,8.0,Positive,Low,Adequate Sleep,Good
+583,18,Male,High School,Other,3.7,Instagram,No,6.3,6.5,Neutral,Moderate,Moderate Sleep,Average
+285,18,Male,Graduate,Other,7.9,TikTok,Yes,5.9,4.7,Negative,High,Moderate Sleep,Average
+267,22,Male,Undergraduate,India,4.6,Snapchat,Yes,6.6,6.9,Neutral,Moderate,Moderate Sleep,Average
+460,20,Female,Undergraduate,Other,8.2,Twitter,Yes,5.8,4.6,Negative,High,Moderate Sleep,Average
+248,21,Female,Undergraduate,Other,8.4,TikTok,No,5.9,5.0,Negative,High,Moderate Sleep,Average
+652,22,Female,Undergraduate,Other,3.7,TikTok,Yes,7.1,6.7,Neutral,Moderate,Adequate Sleep,Average
+385,23,Female,Graduate,Other,7.3,TikTok,Yes,5.5,5.7,Negative,High,Moderate Sleep,Average
+909,24,Female,Undergraduate,Other,2.9,Twitter,Yes,7.7,8.1,Positive,Low,Adequate Sleep,Good
+422,18,Male,Undergraduate,Other,1.8,Twitter,No,8.9,8.6,Positive,Low,Adequate Sleep,Good
+767,23,Female,Undergraduate,Other,6.3,Snapchat,Yes,5.7,5.9,Negative,High,Moderate Sleep,Average
+950,19,Male,Undergraduate,Other,3.4,YouTube,No,8.6,7.6,Positive,Moderate,Adequate Sleep,Good
+16,24,Male,High School,Other,5.7,Facebook,Yes,6.8,6.6,Neutral,Moderate,Moderate Sleep,Average
+546,24,Female,Graduate,Other,3.8,Facebook,No,7.4,6.3,Neutral,Moderate,Adequate Sleep,Average
+199,21,Male,High School,Other,3.6,TikTok,No,7.4,7.8,Positive,Moderate,Adequate Sleep,Good
+496,18,Female,Graduate,Other,6.5,Facebook,No,4.7,4.8,Negative,High,Low Sleep,Average
+364,24,Female,Undergraduate,Other,7.8,YouTube,Yes,5.4,5.6,Negative,High,Moderate Sleep,Average
+587,22,Male,Graduate,USA,3.7,TikTok,No,7.1,7.5,Positive,Moderate,Adequate Sleep,Good
+838,18,Male,High School,Other,3.7,LinkedIn,Yes,6.7,6.2,Neutral,Moderate,Moderate Sleep,Average
+155,19,Male,Undergraduate,India,5.7,Facebook,Yes,7.2,6.2,Neutral,Moderate,Adequate Sleep,Average
+956,18,Female,Undergraduate,USA,3.3,Facebook,No,8.0,8.8,Positive,Moderate,Adequate Sleep,Good
+632,21,Female,Undergraduate,Other,3.3,Facebook,No,8.2,8.6,Positive,Moderate,Adequate Sleep,Good
+897,20,Male,Undergraduate,Other,1.8,Snapchat,No,8.5,7.5,Positive,Low,Adequate Sleep,Good
+457,23,Female,Graduate,Canada,5.4,Snapchat,Yes,7.1,6.5,Neutral,Moderate,Adequate Sleep,Average
+358,20,Female,High School,Other,5.9,YouTube,Yes,4.9,5.1,Negative,Moderate,Low Sleep,Average
+842,20,Male,High School,Australia,3.3,LinkedIn,No,8.8,7.9,Positive,Moderate,Adequate Sleep,Good
+432,24,Male,Undergraduate,Other,7.2,Snapchat,Yes,4.7,5.4,Negative,High,Low Sleep,Average
+688,18,Male,Graduate,Other,1.6,Snapchat,No,8.1,8.6,Positive,Low,Adequate Sleep,Good
+777,24,Female,High School,Other,3.4,YouTube,No,8.2,8.2,Positive,Moderate,Adequate Sleep,Good
+982,22,Female,Undergraduate,Other,2.6,Twitter,No,7.5,8.5,Positive,Low,Adequate Sleep,Good
+548,20,Female,Undergraduate,USA,5.1,Twitter,Yes,6.5,6.9,Neutral,Moderate,Moderate Sleep,Average
+15,23,Female,Undergraduate,Other,5.8,Instagram,No,6.2,6.2,Neutral,Moderate,Moderate Sleep,Average
+815,19,Male,Undergraduate,Australia,4.3,Instagram,Yes,6.7,6.3,Neutral,Moderate,Moderate Sleep,Average
+914,20,Female,Undergraduate,Other,2.5,TikTok,Yes,7.7,8.5,Positive,Low,Adequate Sleep,Good
+375,22,Female,Graduate,Other,5.8,YouTube,Yes,6.0,4.7,Negative,Moderate,Moderate Sleep,Average
+859,20,Male,High School,Other,2.5,LinkedIn,No,7.4,8.2,Positive,Low,Adequate Sleep,Good
+834,19,Female,Graduate,Australia,6.4,TikTok,Yes,5.5,4.4,Negative,High,Moderate Sleep,Average
+965,20,Male,Undergraduate,Other,7.8,Twitter,Yes,5.2,5.2,Negative,High,Moderate Sleep,Average
+678,20,Male,Graduate,USA,6.5,Twitter,Yes,4.5,4.2,Negative,High,Low Sleep,Average
+791,22,Female,Graduate,India,3.0,YouTube,Yes,8.9,7.1,Positive,Low,Adequate Sleep,Good
+377,24,Female,Undergraduate,Other,1.5,Facebook,Yes,7.2,7.6,Positive,Low,Adequate Sleep,Good
+368,19,Female,Undergraduate,Other,8.1,TikTok,Yes,5.6,5.5,Negative,High,Moderate Sleep,Average
+193,21,Female,High School,Other,2.6,Snapchat,Yes,7.4,7.4,Positive,Low,Adequate Sleep,Good
+782,18,Male,High School,Other,2.7,Snapchat,No,8.5,7.6,Positive,Low,Adequate Sleep,Good
+442,23,Female,Undergraduate,Other,2.4,Snapchat,Yes,7.6,7.6,Positive,Low,Adequate Sleep,Good
+722,23,Female,High School,Other,6.6,TikTok,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+674,22,Male,Undergraduate,USA,3.8,YouTube,No,7.9,7.3,Positive,Moderate,Adequate Sleep,Good
+174,21,Female,Graduate,USA,5.8,LinkedIn,No,7.0,6.4,Neutral,Moderate,Moderate Sleep,Average
+374,20,Male,Undergraduate,Other,8.2,LinkedIn,Yes,6.0,5.7,Negative,High,Moderate Sleep,Average
+348,22,Male,High School,Other,4.5,Facebook,Yes,6.0,6.3,Neutral,Moderate,Moderate Sleep,Average
+730,18,Female,Graduate,Other,5.6,Twitter,Yes,4.8,5.9,Negative,Moderate,Low Sleep,Average
+281,20,Male,High School,Other,3.5,TikTok,No,7.9,7.8,Positive,Moderate,Adequate Sleep,Good
+957,23,Female,Graduate,Other,2.9,YouTube,Yes,7.3,8.5,Positive,Low,Adequate Sleep,Good
+819,19,Male,Undergraduate,USA,6.6,TikTok,Yes,5.9,5.0,Negative,High,Moderate Sleep,Average
+27,24,Male,Undergraduate,India,8.0,Twitter,Yes,5.1,5.3,Negative,High,Moderate Sleep,Average
+639,18,Male,Undergraduate,Other,7.3,LinkedIn,Yes,5.1,4.1,Negative,High,Moderate Sleep,Average
+826,19,Female,High School,Other,2.5,Twitter,No,7.3,8.3,Positive,Low,Adequate Sleep,Good
+723,19,Male,Graduate,Canada,2.6,TikTok,No,8.4,8.2,Positive,Low,Adequate Sleep,Good
+206,24,Male,Graduate,India,2.3,Twitter,No,8.3,8.9,Positive,Low,Adequate Sleep,Good
+28,21,Male,Undergraduate,Other,5.3,Twitter,Yes,7.3,6.1,Neutral,Moderate,Adequate Sleep,Average
+728,19,Female,High School,Other,7.7,Snapchat,Yes,5.7,5.3,Negative,High,Moderate Sleep,Average
+594,19,Female,High School,Other,4.6,Snapchat,No,6.2,6.2,Neutral,Moderate,Moderate Sleep,Average
+153,21,Male,Graduate,Other,5.9,YouTube,No,7.1,6.4,Neutral,Moderate,Adequate Sleep,Average
+784,18,Male,High School,Other,7.5,LinkedIn,Yes,5.0,5.4,Negative,High,Low Sleep,Average
+913,18,Male,Graduate,Canada,6.3,LinkedIn,Yes,6.0,6.0,Negative,High,Moderate Sleep,Average
+11,19,Male,Graduate,Other,5.3,YouTube,No,7.0,6.7,Neutral,Moderate,Moderate Sleep,Average
+451,23,Female,Undergraduate,Other,1.6,TikTok,Yes,8.7,8.9,Positive,Low,Adequate Sleep,Good
+985,20,Male,High School,Other,6.5,LinkedIn,Yes,4.5,4.7,Negative,High,Low Sleep,Average
+724,20,Female,Undergraduate,Other,8.2,Twitter,Yes,5.0,5.9,Negative,High,Low Sleep,Average
+239,23,Male,High School,Other,6.1,LinkedIn,Yes,5.9,4.8,Negative,High,Moderate Sleep,Average
+160,22,Male,Undergraduate,Other,5.7,LinkedIn,No,7.3,6.9,Neutral,Moderate,Adequate Sleep,Average
+793,19,Female,Undergraduate,Other,5.1,Twitter,Yes,7.1,6.6,Neutral,Moderate,Adequate Sleep,Average
+389,24,Male,Graduate,Other,3.8,Twitter,Yes,6.3,6.2,Neutral,Moderate,Moderate Sleep,Average
+437,20,Male,Graduate,India,5.7,YouTube,Yes,5.1,4.2,Negative,Moderate,Moderate Sleep,Average
+935,20,Female,Graduate,UK,6.6,Facebook,Yes,5.3,4.6,Negative,High,Moderate Sleep,Average
+321,20,Male,Undergraduate,USA,8.3,Instagram,Yes,5.1,5.8,Negative,High,Moderate Sleep,Average
+186,20,Male,Graduate,Other,7.1,Instagram,Yes,6.0,4.5,Negative,High,Moderate Sleep,Average
+123,18,Male,Graduate,Other,3.0,Facebook,No,8.4,7.9,Positive,Low,Adequate Sleep,Good
+198,22,Male,Graduate,Other,8.5,Instagram,No,6.0,5.3,Negative,High,Moderate Sleep,Average
+111,24,Female,Graduate,Other,3.5,Twitter,No,7.2,7.3,Positive,Moderate,Adequate Sleep,Good
+743,18,Female,Undergraduate,USA,3.8,Twitter,No,8.4,7.2,Positive,Moderate,Adequate Sleep,Good
+953,19,Male,Undergraduate,Other,2.0,Instagram,No,7.1,8.2,Positive,Low,Adequate Sleep,Good
+998,18,Female,Graduate,Other,4.2,Twitter,Yes,6.9,6.8,Neutral,Moderate,Moderate Sleep,Average
+802,21,Female,High School,Other,4.5,YouTube,No,6.1,6.3,Neutral,Moderate,Moderate Sleep,Average
+742,24,Female,Undergraduate,Other,4.2,YouTube,No,7.3,6.1,Neutral,Moderate,Adequate Sleep,Average
+224,24,Female,High School,Other,5.6,Facebook,Yes,5.5,4.1,Negative,Moderate,Moderate Sleep,Average
+131,21,Female,Undergraduate,India,3.1,Facebook,Yes,7.2,8.5,Positive,Moderate,Adequate Sleep,Good
+169,19,Female,Undergraduate,Other,5.9,Instagram,No,5.5,4.0,Negative,Moderate,Moderate Sleep,Poor
+382,22,Female,High School,India,7.5,YouTube,Yes,5.5,4.7,Negative,High,Moderate Sleep,Average
+918,20,Male,Graduate,Other,3.8,Snapchat,No,6.7,6.2,Neutral,Moderate,Moderate Sleep,Average
+593,21,Female,High School,Other,3.3,LinkedIn,No,8.9,7.9,Positive,Moderate,Adequate Sleep,Good
+52,24,Male,Graduate,Other,4.1,Facebook,No,6.1,6.0,Neutral,Moderate,Moderate Sleep,Average
+90,19,Female,Undergraduate,Other,6.8,YouTube,Yes,5.6,5.0,Negative,High,Moderate Sleep,Average
+60,23,Male,High School,Other,3.5,Snapchat,No,7.0,6.0,Neutral,Moderate,Moderate Sleep,Average
+338,19,Male,High School,Canada,3.4,YouTube,Yes,8.5,8.0,Positive,Moderate,Adequate Sleep,Good
+452,19,Male,High School,Other,5.8,LinkedIn,Yes,6.3,6.4,Neutral,Moderate,Moderate Sleep,Average
+736,19,Female,High School,India,6.0,TikTok,Yes,6.8,6.5,Neutral,Moderate,Moderate Sleep,Average
+746,23,Female,High School,Other,3.0,TikTok,No,8.6,7.7,Positive,Low,Adequate Sleep,Good
+44,19,Male,Undergraduate,USA,5.0,Twitter,No,7.5,6.6,Neutral,Moderate,Adequate Sleep,Average
+773,24,Female,Graduate,India,5.5,Twitter,Yes,4.6,5.1,Negative,Moderate,Low Sleep,Average
+721,20,Female,Undergraduate,India,5.3,TikTok,Yes,6.0,6.5,Neutral,Moderate,Moderate Sleep,Average
+129,21,Male,Undergraduate,Canada,5.6,Facebook,No,6.0,6.3,Neutral,Moderate,Moderate Sleep,Average
+606,19,Female,Undergraduate,India,5.8,Facebook,Yes,7.4,6.5,Neutral,Moderate,Adequate Sleep,Average
+961,18,Male,Undergraduate,Other,2.2,Twitter,No,8.3,7.4,Positive,Low,Adequate Sleep,Good
+780,24,Male,Graduate,Other,1.7,LinkedIn,No,8.4,7.6,Positive,Low,Adequate Sleep,Good
+215,21,Male,High School,India,3.0,Instagram,No,7.2,7.2,Positive,Low,Adequate Sleep,Good
+290,18,Female,Graduate,Other,4.7,TikTok,No,6.6,7.0,Neutral,Moderate,Moderate Sleep,Average
+53,23,Male,Graduate,Other,6.2,YouTube,No,5.9,5.6,Negative,High,Moderate Sleep,Average
+408,18,Male,Graduate,Other,6.2,TikTok,Yes,5.9,4.9,Negative,High,Moderate Sleep,Average
+310,20,Female,Graduate,Other,1.9,Instagram,No,7.8,7.8,Positive,Low,Adequate Sleep,Good
+702,23,Male,High School,UK,2.6,LinkedIn,No,8.8,8.1,Positive,Low,Adequate Sleep,Good
+660,18,Male,High School,Other,5.9,Facebook,No,6.1,6.2,Neutral,Moderate,Moderate Sleep,Average
+14,20,Male,Undergraduate,Other,3.9,LinkedIn,No,6.9,6.6,Neutral,Moderate,Moderate Sleep,Average
+288,22,Female,High School,India,7.1,Instagram,No,5.1,4.1,Negative,High,Moderate Sleep,Average
+350,19,Male,Undergraduate,USA,3.9,Twitter,Yes,6.1,6.0,Neutral,Moderate,Moderate Sleep,Average
+611,20,Male,Undergraduate,Other,8.0,TikTok,No,4.9,4.8,Negative,High,Low Sleep,Average
+735,24,Male,Graduate,Other,5.9,Snapchat,No,6.1,6.1,Neutral,Moderate,Moderate Sleep,Average
+402,24,Female,High School,Australia,8.4,Facebook,Yes,5.9,5.5,Negative,High,Moderate Sleep,Average
+488,21,Female,Graduate,Other,7.5,YouTube,Yes,4.7,6.0,Negative,High,Low Sleep,Average
+524,20,Female,Graduate,Australia,7.5,Snapchat,Yes,5.2,4.8,Negative,High,Moderate Sleep,Average
+535,19,Male,High School,India,5.3,Snapchat,Yes,7.0,6.8,Neutral,Moderate,Moderate Sleep,Average
+431,18,Male,Undergraduate,Canada,6.2,Twitter,No,4.7,4.2,Negative,High,Low Sleep,Average
+664,19,Male,High School,Other,5.2,Facebook,Yes,6.5,6.1,Neutral,Moderate,Moderate Sleep,Average
+572,21,Male,Undergraduate,Other,5.5,Facebook,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+428,20,Male,Undergraduate,Canada,7.9,Instagram,Yes,4.7,5.2,Negative,High,Low Sleep,Average
+430,23,Male,Graduate,Other,7.7,Snapchat,Yes,5.3,4.5,Negative,High,Moderate Sleep,Average
+238,20,Male,High School,Other,3.9,YouTube,Yes,6.7,6.0,Neutral,Moderate,Moderate Sleep,Average
+179,21,Female,High School,Other,3.9,LinkedIn,Yes,6.9,6.1,Neutral,Moderate,Moderate Sleep,Average
+289,21,Female,High School,Canada,5.9,YouTube,Yes,6.0,5.1,Negative,Moderate,Moderate Sleep,Average
+958,18,Male,High School,Other,3.8,Facebook,No,8.4,8.3,Positive,Moderate,Adequate Sleep,Good
+991,19,Male,Undergraduate,Other,7.4,TikTok,Yes,5.5,4.1,Negative,High,Moderate Sleep,Average
+894,20,Female,Undergraduate,Other,7.2,LinkedIn,Yes,5.9,4.2,Negative,High,Moderate Sleep,Average
+22,19,Male,Undergraduate,Other,6.1,TikTok,Yes,4.6,4.9,Negative,High,Low Sleep,Average
+919,22,Male,High School,India,3.9,Facebook,No,8.6,8.3,Positive,Moderate,Adequate Sleep,Good
+487,20,Female,Undergraduate,Australia,5.6,LinkedIn,Yes,4.9,5.9,Negative,Moderate,Low Sleep,Average
+177,22,Female,High School,Other,6.3,Snapchat,Yes,5.1,5.7,Negative,High,Moderate Sleep,Average
+405,22,Female,Graduate,Other,2.3,Facebook,No,9.0,7.1,Positive,Low,Adequate Sleep,Good
+45,19,Male,Undergraduate,India,6.4,YouTube,Yes,5.9,5.9,Negative,High,Moderate Sleep,Average
+682,19,Female,High School,USA,5.2,YouTube,No,7.0,6.7,Neutral,Moderate,Moderate Sleep,Average
+698,21,Female,Graduate,Germany,7.1,LinkedIn,Yes,5.5,4.4,Negative,High,Moderate Sleep,Average
+384,23,Female,Undergraduate,India,6.1,Instagram,Yes,4.6,5.2,Negative,High,Low Sleep,Average
+677,20,Male,High School,Other,7.9,Twitter,Yes,5.4,5.3,Negative,High,Moderate Sleep,Average
+858,19,Female,High School,Canada,7.4,Twitter,Yes,4.6,5.8,Negative,High,Low Sleep,Average
+283,20,Female,Graduate,UK,7.1,TikTok,Yes,5.9,4.2,Negative,High,Moderate Sleep,Average
+718,24,Male,Undergraduate,Other,5.2,YouTube,Yes,6.5,6.0,Neutral,Moderate,Moderate Sleep,Average
+936,21,Male,Graduate,Other,5.8,Twitter,No,5.4,4.9,Negative,Moderate,Moderate Sleep,Average
+98,21,Female,High School,Other,5.8,YouTube,Yes,4.9,4.1,Negative,Moderate,Low Sleep,Average
+895,19,Female,Undergraduate,Other,2.2,Twitter,No,7.6,8.9,Positive,Low,Adequate Sleep,Good
+242,24,Male,Graduate,Germany,6.9,Snapchat,Yes,5.3,4.3,Negative,High,Moderate Sleep,Average
+602,22,Female,High School,Other,6.9,Snapchat,Yes,4.6,4.3,Negative,High,Low Sleep,Average
+207,20,Female,Undergraduate,Other,6.3,Facebook,Yes,5.9,5.3,Negative,High,Moderate Sleep,Average
+185,24,Female,High School,Other,4.4,Twitter,No,6.2,6.2,Neutral,Moderate,Moderate Sleep,Average
+286,23,Male,Undergraduate,Germany,3.2,TikTok,No,8.9,8.0,Positive,Moderate,Adequate Sleep,Good
+926,21,Female,High School,UK,7.6,Facebook,No,5.9,4.7,Negative,High,Moderate Sleep,Average
+65,22,Female,Graduate,Other,3.5,Instagram,Yes,8.7,8.0,Positive,Moderate,Adequate Sleep,Good
+214,24,Male,High School,Australia,4.6,Snapchat,Yes,6.4,6.8,Neutral,Moderate,Moderate Sleep,Average
+997,21,Female,Undergraduate,Other,6.1,Twitter,Yes,4.5,5.3,Negative,High,Low Sleep,Average
+166,22,Male,Undergraduate,Other,3.3,TikTok,No,8.2,7.4,Positive,Moderate,Adequate Sleep,Good
+213,24,Male,High School,Other,5.2,LinkedIn,Yes,6.9,6.9,Neutral,Moderate,Moderate Sleep,Average
+977,20,Female,Graduate,UK,5.9,LinkedIn,Yes,5.5,4.3,Negative,Moderate,Moderate Sleep,Average
+856,23,Female,Undergraduate,Other,6.1,Twitter,Yes,5.1,4.9,Negative,High,Moderate Sleep,Average
+24,21,Male,Graduate,Other,3.9,TikTok,No,7.7,7.5,Positive,Moderate,Adequate Sleep,Good
+745,20,Male,Undergraduate,Other,7.2,Facebook,Yes,4.6,4.4,Negative,High,Low Sleep,Average
+574,22,Female,Undergraduate,Other,7.9,LinkedIn,No,5.6,5.3,Negative,High,Moderate Sleep,Average
+467,18,Female,Undergraduate,Other,7.5,TikTok,Yes,5.8,4.6,Negative,High,Moderate Sleep,Average
+157,24,Female,Undergraduate,USA,6.4,Twitter,Yes,6.0,5.2,Negative,High,Moderate Sleep,Average
+596,21,Male,Undergraduate,India,7.6,Facebook,Yes,5.8,4.8,Negative,High,Moderate Sleep,Average
+41,18,Female,High School,Other,5.8,Twitter,Yes,5.0,5.6,Negative,Moderate,Low Sleep,Average
+618,23,Female,Graduate,Canada,2.8,Twitter,No,7.4,8.4,Positive,Low,Adequate Sleep,Good
+392,20,Male,Undergraduate,UK,6.3,Facebook,No,4.7,4.3,Negative,High,Low Sleep,Average
+753,23,Female,Undergraduate,Canada,4.3,Snapchat,Yes,7.4,6.1,Neutral,Moderate,Adequate Sleep,Average
+530,20,Female,High School,Germany,8.2,Snapchat,Yes,4.8,4.0,Negative,High,Low Sleep,Poor
+518,18,Male,Graduate,Other,6.9,Twitter,Yes,5.9,4.1,Negative,High,Moderate Sleep,Average
+459,22,Male,Undergraduate,Other,5.7,Facebook,Yes,4.6,4.8,Negative,Moderate,Low Sleep,Average
+116,24,Female,High School,Other,5.9,TikTok,No,5.8,5.6,Negative,Moderate,Moderate Sleep,Average
+599,22,Female,High School,Other,1.9,Snapchat,No,8.4,8.1,Positive,Low,Adequate Sleep,Good
+272,23,Male,High School,Other,7.7,Snapchat,Yes,5.1,5.7,Negative,High,Moderate Sleep,Average
+630,24,Male,Undergraduate,Other,3.2,Twitter,No,7.8,8.4,Positive,Moderate,Adequate Sleep,Good
+672,24,Female,Graduate,Other,1.7,TikTok,No,8.7,8.0,Positive,Low,Adequate Sleep,Good
+453,21,Male,Graduate,India,7.8,TikTok,Yes,5.0,4.5,Negative,High,Low Sleep,Average
+549,21,Male,High School,Germany,1.9,Instagram,Yes,8.7,8.1,Positive,Low,Adequate Sleep,Good
+462,19,Male,Graduate,USA,7.5,TikTok,Yes,4.9,4.2,Negative,High,Low Sleep,Average
+426,21,Male,Undergraduate,USA,7.1,YouTube,Yes,5.9,4.7,Negative,High,Moderate Sleep,Average
+750,20,Female,High School,Canada,4.3,Facebook,No,6.4,6.2,Neutral,Moderate,Moderate Sleep,Average
+31,23,Male,Undergraduate,Other,8.2,Twitter,No,5.7,4.9,Negative,High,Moderate Sleep,Average
+391,21,Female,Undergraduate,Other,8.3,TikTok,No,4.6,4.8,Negative,High,Low Sleep,Average
+247,18,Female,High School,Other,8.1,Facebook,No,4.7,5.6,Negative,High,Low Sleep,Average
+219,19,Male,High School,Other,4.8,TikTok,Yes,7.0,6.1,Neutral,Moderate,Moderate Sleep,Average
+994,20,Female,Graduate,Other,2.7,YouTube,No,7.8,7.5,Positive,Low,Adequate Sleep,Good
+929,18,Male,Graduate,UK,7.5,LinkedIn,Yes,5.4,4.2,Negative,High,Moderate Sleep,Average
+107,24,Male,High School,Other,3.8,LinkedIn,No,7.9,8.8,Positive,Moderate,Adequate Sleep,Good
+218,21,Female,Undergraduate,Other,5.9,Instagram,Yes,4.9,5.6,Negative,Moderate,Low Sleep,Average
+57,23,Male,High School,Other,3.4,Instagram,No,8.4,7.3,Positive,Moderate,Adequate Sleep,Good
+576,19,Male,Undergraduate,USA,3.9,Twitter,Yes,6.6,6.9,Neutral,Moderate,Moderate Sleep,Average
+17,19,Male,Undergraduate,Other,7.9,TikTok,Yes,5.4,4.2,Negative,High,Moderate Sleep,Average
+765,24,Male,Graduate,Other,2.1,Instagram,Yes,7.2,7.2,Positive,Low,Adequate Sleep,Good
+260,18,Male,Undergraduate,Other,6.3,Snapchat,Yes,4.5,5.2,Negative,High,Low Sleep,Average
+189,24,Male,Undergraduate,Other,4.4,LinkedIn,Yes,7.5,6.8,Neutral,Moderate,Adequate Sleep,Average
+500,21,Female,Undergraduate,Australia,3.7,Twitter,No,6.7,6.6,Neutral,Moderate,Moderate Sleep,Average
+495,24,Female,High School,USA,7.4,YouTube,Yes,5.9,4.3,Negative,High,Moderate Sleep,Average
+663,21,Female,Undergraduate,India,4.4,LinkedIn,Yes,6.4,6.4,Neutral,Moderate,Moderate Sleep,Average
+774,23,Male,Undergraduate,Other,2.5,LinkedIn,No,7.1,8.8,Positive,Low,Adequate Sleep,Good
+915,19,Female,High School,Germany,6.5,Facebook,No,5.9,5.3,Negative,High,Moderate Sleep,Average
+739,21,Female,High School,Other,3.7,Twitter,No,8.2,7.3,Positive,Moderate,Adequate Sleep,Good
+40,22,Female,Graduate,Australia,7.6,TikTok,Yes,5.2,4.5,Negative,High,Moderate Sleep,Average
+152,18,Male,Graduate,India,6.8,Instagram,Yes,4.6,4.1,Negative,High,Low Sleep,Average
+684,23,Male,Graduate,Other,7.5,Instagram,Yes,5.7,4.5,Negative,High,Moderate Sleep,Average
+979,24,Female,High School,Other,7.1,YouTube,Yes,4.7,4.0,Negative,High,Low Sleep,Poor
+94,24,Male,High School,Canada,6.7,Twitter,Yes,6.0,4.5,Negative,High,Moderate Sleep,Average
+9,19,Male,Undergraduate,Other,3.6,Twitter,Yes,6.9,6.8,Neutral,Moderate,Moderate Sleep,Average
+72,21,Male,High School,Other,3.1,Snapchat,Yes,7.5,8.9,Positive,Moderate,Adequate Sleep,Good
+787,21,Male,Graduate,Other,5.2,TikTok,Yes,6.4,7.0,Neutral,Moderate,Moderate Sleep,Average
+764,18,Female,Undergraduate,Other,4.7,LinkedIn,No,6.2,6.4,Neutral,Moderate,Moderate Sleep,Average
+347,19,Male,High School,Other,2.9,YouTube,No,8.0,7.4,Positive,Low,Adequate Sleep,Good
+63,23,Female,Graduate,Other,3.6,Snapchat,No,8.4,8.4,Positive,Moderate,Adequate Sleep,Good
+758,20,Female,High School,USA,5.6,TikTok,No,6.8,6.5,Neutral,Moderate,Moderate Sleep,Average
+737,22,Male,Graduate,Other,5.2,Facebook,Yes,7.2,6.0,Neutral,Moderate,Adequate Sleep,Average
+892,24,Female,Undergraduate,Canada,1.7,YouTube,No,7.1,7.5,Positive,Low,Adequate Sleep,Good
+379,19,Male,Graduate,Other,3.7,YouTube,No,7.0,6.7,Neutral,Moderate,Moderate Sleep,Average
+406,22,Male,Undergraduate,Australia,1.5,Instagram,No,8.7,8.6,Positive,Low,Adequate Sleep,Good
+878,21,Male,Graduate,India,4.4,Instagram,No,7.3,6.1,Neutral,Moderate,Adequate Sleep,Average
+323,21,Male,Undergraduate,Other,7.4,Instagram,Yes,4.8,4.8,Negative,High,Low Sleep,Average
+146,22,Female,High School,Other,4.0,Facebook,Yes,6.0,6.2,Neutral,Moderate,Moderate Sleep,Average
+314,20,Male,Graduate,Other,2.0,Twitter,No,7.7,7.7,Positive,Low,Adequate Sleep,Good
+141,20,Male,High School,Other,5.7,LinkedIn,Yes,5.5,6.0,Negative,Moderate,Moderate Sleep,Average
+555,18,Male,Undergraduate,Other,4.5,LinkedIn,No,6.1,6.4,Neutral,Moderate,Moderate Sleep,Average
+751,24,Male,High School,Canada,3.2,TikTok,No,7.5,8.0,Positive,Moderate,Adequate Sleep,Good
+170,20,Female,High School,Other,6.7,Twitter,Yes,5.1,5.7,Negative,High,Moderate Sleep,Average
+343,21,Male,Undergraduate,Other,8.3,Snapchat,Yes,4.7,5.0,Negative,High,Low Sleep,Average
+959,18,Female,Undergraduate,Other,3.2,Snapchat,No,7.8,8.5,Positive,Moderate,Adequate Sleep,Good
+853,19,Female,High School,Other,5.9,TikTok,No,6.3,6.8,Neutral,Moderate,Moderate Sleep,Average
+619,21,Male,Undergraduate,Other,5.2,YouTube,Yes,6.6,6.3,Neutral,Moderate,Moderate Sleep,Average
+275,22,Male,Undergraduate,Other,3.5,LinkedIn,No,8.1,7.2,Positive,Moderate,Adequate Sleep,Good
+928,22,Male,High School,USA,8.0,YouTube,Yes,5.2,4.7,Negative,High,Moderate Sleep,Average
+294,21,Female,Graduate,Other,7.3,TikTok,Yes,5.8,5.6,Negative,High,Moderate Sleep,Average
+150,21,Male,Graduate,Other,6.3,YouTube,Yes,5.9,4.5,Negative,High,Moderate Sleep,Average
+300,21,Male,Graduate,Other,8.4,Snapchat,Yes,4.7,5.4,Negative,High,Low Sleep,Average
+257,19,Male,High School,USA,2.4,LinkedIn,No,7.2,8.6,Positive,Low,Adequate Sleep,Good
+5,23,Female,Graduate,Other,6.4,Instagram,Yes,5.4,5.4,Negative,High,Moderate Sleep,Average
+47,24,Female,High School,Other,4.8,LinkedIn,Yes,6.7,6.4,Neutral,Moderate,Moderate Sleep,Average
+627,23,Female,High School,Other,7.7,Snapchat,Yes,5.3,5.3,Negative,High,Moderate Sleep,Average
+575,21,Male,Undergraduate,Other,6.7,Facebook,Yes,4.6,4.5,Negative,High,Low Sleep,Average
+871,20,Female,High School,Other,2.9,Facebook,No,8.4,8.4,Positive,Low,Adequate Sleep,Good
+436,19,Female,High School,Other,8.3,LinkedIn,Yes,5.0,4.5,Negative,High,Low Sleep,Average
+106,18,Male,Undergraduate,Other,2.5,LinkedIn,No,8.7,8.6,Positive,Low,Adequate Sleep,Good
+990,18,Female,Graduate,Other,6.2,Facebook,Yes,5.1,5.2,Negative,High,Moderate Sleep,Average
+301,24,Male,Graduate,Other,2.8,Snapchat,No,8.5,7.6,Positive,Low,Adequate Sleep,Good
+917,18,Female,High School,Other,4.8,LinkedIn,Yes,6.8,6.3,Neutral,Moderate,Moderate Sleep,Average
+178,20,Male,High School,India,7.6,Instagram,Yes,5.4,4.1,Negative,High,Moderate Sleep,Average
+386,19,Female,Undergraduate,Other,4.5,Facebook,No,6.2,6.6,Neutral,Moderate,Moderate Sleep,Average
+840,21,Male,High School,Other,2.6,TikTok,No,7.4,8.9,Positive,Low,Adequate Sleep,Good
+168,22,Female,Undergraduate,Other,2.3,YouTube,No,8.8,9.0,Positive,Low,Adequate Sleep,Good
+843,20,Male,Undergraduate,Other,2.8,Twitter,No,8.2,7.3,Positive,Low,Adequate Sleep,Good
+355,19,Male,Graduate,Other,7.0,Instagram,Yes,4.7,5.5,Negative,High,Low Sleep,Average
+658,23,Female,Undergraduate,Other,5.6,YouTube,No,6.6,6.5,Neutral,Moderate,Moderate Sleep,Average
+539,21,Male,High School,UK,3.5,Instagram,No,8.5,8.4,Positive,Moderate,Adequate Sleep,Good
+566,18,Female,High School,USA,5.9,Twitter,No,4.5,5.8,Negative,Moderate,Low Sleep,Average
+37,19,Male,Graduate,Other,2.4,LinkedIn,No,8.4,7.6,Positive,Low,Adequate Sleep,Good
+515,20,Female,Graduate,Other,6.4,Facebook,No,5.5,4.3,Negative,High,Moderate Sleep,Average
+789,21,Female,Graduate,Other,2.7,Twitter,No,7.5,7.9,Positive,Low,Adequate Sleep,Good
+92,24,Male,High School,India,8.2,Instagram,Yes,4.8,4.5,Negative,High,Low Sleep,Average
+164,22,Male,Undergraduate,Other,1.9,Instagram,No,7.2,8.2,Positive,Low,Adequate Sleep,Good
+50,21,Male,High School,Other,5.4,Instagram,Yes,6.6,6.5,Neutral,Moderate,Moderate Sleep,Average
+20,21,Female,Undergraduate,USA,6.1,Snapchat,Yes,5.3,6.0,Negative,High,Moderate Sleep,Average
+85,23,Female,Graduate,Other,7.4,Instagram,No,5.3,5.5,Negative,High,Moderate Sleep,Average
+1000,24,Male,Undergraduate,Germany,7.1,LinkedIn,Yes,5.8,4.2,Negative,High,Moderate Sleep,Average
+941,21,Male,Undergraduate,Australia,5.7,Instagram,Yes,7.5,6.6,Neutral,Moderate,Adequate Sleep,Average
+13,20,Female,High School,Other,1.8,Twitter,No,7.2,7.5,Positive,Low,Adequate Sleep,Good
+532,22,Female,Undergraduate,Other,7.9,YouTube,Yes,5.1,4.9,Negative,High,Moderate Sleep,Average
+250,24,Male,Graduate,Other,8.1,Twitter,Yes,6.0,4.8,Negative,High,Moderate Sleep,Average
+889,24,Female,High School,Other,3.6,Instagram,No,6.9,6.5,Neutral,Moderate,Moderate Sleep,Average
+633,21,Male,Graduate,India,7.8,Facebook,Yes,5.5,5.7,Negative,High,Moderate Sleep,Average
+761,22,Female,Undergraduate,Other,7.0,Instagram,Yes,5.9,4.0,Negative,High,Moderate Sleep,Poor
+960,22,Female,Graduate,Canada,7.7,TikTok,Yes,5.8,4.2,Negative,High,Moderate Sleep,Average
+695,24,Female,Graduate,Other,5.7,Snapchat,Yes,6.9,6.4,Neutral,Moderate,Moderate Sleep,Average
+134,19,Female,Undergraduate,Other,4.9,LinkedIn,Yes,6.6,6.5,Neutral,Moderate,Moderate Sleep,Average
+231,24,Female,High School,USA,7.6,Instagram,No,5.3,4.9,Negative,High,Moderate Sleep,Average
+731,19,Female,High School,India,8.5,Snapchat,Yes,5.8,4.8,Negative,High,Moderate Sleep,Average
+144,22,Female,High School,India,6.6,TikTok,No,5.3,5.0,Negative,High,Moderate Sleep,Average
+475,20,Female,Graduate,Other,7.5,Snapchat,No,5.9,4.6,Negative,High,Moderate Sleep,Average
+927,24,Female,High School,Other,7.5,YouTube,Yes,4.8,5.4,Negative,High,Low Sleep,Average
+863,23,Male,Graduate,Other,8.2,Facebook,Yes,5.7,4.0,Negative,High,Moderate Sleep,Poor
+418,20,Female,Graduate,UK,5.3,YouTube,No,7.1,6.6,Neutral,Moderate,Adequate Sleep,Average
+353,22,Female,Undergraduate,Other,4.9,LinkedIn,Yes,7.0,6.7,Neutral,Moderate,Moderate Sleep,Average
+237,21,Female,High School,USA,5.8,Instagram,Yes,5.8,5.1,Negative,Moderate,Moderate Sleep,Average
+137,23,Male,Graduate,Other,6.4,LinkedIn,Yes,5.4,4.3,Negative,High,Moderate Sleep,Average
+477,18,Female,Graduate,Other,3.8,Snapchat,Yes,6.2,6.8,Neutral,Moderate,Moderate Sleep,Average
+592,22,Female,Graduate,USA,3.8,Facebook,Yes,6.9,6.5,Neutral,Moderate,Moderate Sleep,Average
+506,18,Male,Graduate,Australia,4.0,Twitter,Yes,7.4,6.5,Neutral,Moderate,Adequate Sleep,Average
+461,21,Male,Undergraduate,Other,8.0,LinkedIn,Yes,5.5,5.6,Negative,High,Moderate Sleep,Average
+330,23,Female,Undergraduate,Other,8.3,Snapchat,Yes,5.6,5.8,Negative,High,Moderate Sleep,Average
+559,19,Male,High School,USA,5.8,LinkedIn,Yes,5.3,5.0,Negative,Moderate,Moderate Sleep,Average
+922,23,Male,Graduate,Other,6.2,Snapchat,Yes,5.3,5.0,Negative,High,Moderate Sleep,Average
+329,18,Male,Undergraduate,Other,2.3,Snapchat,No,7.5,8.2,Positive,Low,Adequate Sleep,Good
+571,19,Female,High School,Other,6.2,YouTube,Yes,5.8,4.3,Negative,High,Moderate Sleep,Average
+883,20,Female,High School,Other,7.0,Instagram,No,4.5,5.9,Negative,High,Low Sleep,Average
+766,24,Male,High School,Other,3.8,LinkedIn,No,7.2,8.9,Positive,Moderate,Adequate Sleep,Good
+203,18,Female,High School,Other,3.3,TikTok,No,8.6,8.7,Positive,Moderate,Adequate Sleep,Good
+334,19,Female,High School,USA,1.5,Instagram,No,8.2,8.2,Positive,Low,Adequate Sleep,Good
+565,18,Male,Graduate,Other,6.7,YouTube,Yes,5.8,4.5,Negative,High,Moderate Sleep,Average
+182,23,Male,Graduate,India,2.9,YouTube,No,7.7,7.6,Positive,Low,Adequate Sleep,Good
+372,24,Female,Undergraduate,Other,3.2,YouTube,Yes,7.7,7.9,Positive,Moderate,Adequate Sleep,Good
+327,21,Female,Graduate,Other,6.0,Twitter,Yes,5.9,4.1,Negative,Moderate,Moderate Sleep,Average
+233,21,Female,Undergraduate,Other,3.2,YouTube,No,7.6,7.6,Positive,Moderate,Adequate Sleep,Good
+479,22,Male,Graduate,Other,2.3,Snapchat,Yes,8.1,7.3,Positive,Low,Adequate Sleep,Good
+357,22,Male,Undergraduate,Other,8.1,YouTube,Yes,5.6,5.4,Negative,High,Moderate Sleep,Average
+404,21,Male,Graduate,Other,3.5,Twitter,No,7.5,8.9,Positive,Moderate,Adequate Sleep,Good
+783,21,Male,Graduate,USA,5.8,TikTok,Yes,5.5,5.4,Negative,Moderate,Moderate Sleep,Average
+781,24,Female,Graduate,Other,2.9,Twitter,No,8.0,7.0,Positive,Low,Adequate Sleep,Average
+493,22,Male,Undergraduate,Other,6.0,YouTube,Yes,6.7,6.4,Neutral,Moderate,Moderate Sleep,Average
+854,19,Male,Graduate,USA,5.8,YouTube,Yes,5.3,5.8,Negative,Moderate,Moderate Sleep,Average
+108,19,Male,Graduate,Other,4.9,Facebook,No,6.0,6.3,Neutral,Moderate,Moderate Sleep,Average
+415,20,Male,High School,Other,5.6,TikTok,Yes,6.8,6.8,Neutral,Moderate,Moderate Sleep,Average
+176,18,Male,High School,Other,5.6,YouTube,Yes,4.5,5.7,Negative,Moderate,Low Sleep,Average
+140,19,Male,Undergraduate,Other,7.5,TikTok,Yes,4.7,4.1,Negative,High,Low Sleep,Average
+58,20,Female,High School,Other,8.2,Instagram,Yes,5.8,4.9,Negative,High,Moderate Sleep,Average
+715,18,Female,High School,Other,7.4,YouTube,Yes,5.8,4.7,Negative,High,Moderate Sleep,Average
+159,18,Female,High School,Australia,6.3,LinkedIn,Yes,5.9,5.4,Negative,High,Moderate Sleep,Average
+126,23,Female,High School,Other,2.1,LinkedIn,No,8.1,8.8,Positive,Low,Adequate Sleep,Good
+56,19,Male,High School,Australia,5.7,YouTube,Yes,6.0,5.8,Negative,Moderate,Moderate Sleep,Average
+646,21,Male,High School,Canada,7.1,TikTok,Yes,4.5,4.5,Negative,High,Low Sleep,Average
+986,23,Male,Graduate,Other,5.6,Snapchat,Yes,5.8,4.0,Negative,Moderate,Moderate Sleep,Poor
+579,23,Female,High School,Other,7.5,Instagram,Yes,5.9,5.2,Negative,High,Moderate Sleep,Average
+801,24,Female,Graduate,India,3.0,Snapchat,Yes,7.1,7.2,Positive,Low,Adequate Sleep,Good
+135,21,Female,High School,Germany,3.7,YouTube,No,8.7,8.6,Positive,Moderate,Adequate Sleep,Good
+874,21,Male,High School,Other,3.6,TikTok,Yes,8.5,7.1,Positive,Moderate,Adequate Sleep,Good
+562,19,Female,High School,Other,5.4,YouTube,No,6.4,6.6,Neutral,Moderate,Moderate Sleep,Average
+424,23,Male,Undergraduate,Other,2.0,Facebook,No,7.7,7.9,Positive,Low,Adequate Sleep,Good
+304,22,Female,Undergraduate,Other,5.8,TikTok,Yes,5.7,4.1,Negative,Moderate,Moderate Sleep,Average
+795,21,Female,Graduate,Other,4.5,Instagram,Yes,6.4,6.7,Neutral,Moderate,Moderate Sleep,Average
+554,24,Male,Graduate,Other,6.3,Snapchat,No,5.3,4.3,Negative,High,Moderate Sleep,Average
+568,23,Female,Undergraduate,Germany,7.9,Instagram,Yes,5.6,5.1,Negative,High,Moderate Sleep,Average
+420,24,Female,High School,Other,6.0,TikTok,Yes,4.9,5.4,Negative,Moderate,Low Sleep,Average
+244,19,Male,Graduate,Other,5.0,YouTube,Yes,6.2,6.4,Neutral,Moderate,Moderate Sleep,Average
+534,18,Female,Graduate,UK,6.7,Facebook,Yes,5.8,4.6,Negative,High,Moderate Sleep,Average
+511,23,Male,High School,India,7.2,Twitter,Yes,5.3,6.0,Negative,High,Moderate Sleep,Average
+837,21,Female,Graduate,India,3.8,LinkedIn,No,7.2,7.5,Positive,Moderate,Adequate Sleep,Good
+412,22,Female,High School,Other,4.6,YouTube,Yes,6.4,6.0,Neutral,Moderate,Moderate Sleep,Average
+380,22,Male,Graduate,Other,5.7,Snapchat,No,6.6,6.4,Neutral,Moderate,Moderate Sleep,Average
+920,22,Female,Undergraduate,Other,6.3,YouTube,Yes,5.6,5.0,Negative,High,Moderate Sleep,Average
+521,19,Male,Graduate,Other,7.9,LinkedIn,Yes,5.8,4.1,Negative,High,Moderate Sleep,Average
+291,23,Female,Graduate,Other,5.0,Snapchat,No,6.1,6.6,Neutral,Moderate,Moderate Sleep,Average
+447,21,Female,Graduate,Other,3.5,TikTok,Yes,7.5,9.0,Positive,Moderate,Adequate Sleep,Good
+741,22,Female,Graduate,Other,5.2,LinkedIn,Yes,7.2,6.3,Neutral,Moderate,Adequate Sleep,Average
+485,19,Female,Graduate,Other,2.7,YouTube,No,8.6,7.5,Positive,Low,Adequate Sleep,Good
+899,23,Female,Undergraduate,Other,6.5,Twitter,Yes,5.6,4.6,Negative,High,Moderate Sleep,Average
+852,23,Male,Undergraduate,Other,4.1,TikTok,Yes,7.4,6.9,Neutral,Moderate,Adequate Sleep,Average
+387,23,Male,Graduate,Other,2.4,LinkedIn,No,7.1,7.1,Positive,Low,Adequate Sleep,Good
+833,22,Male,High School,India,5.1,Twitter,Yes,6.3,6.9,Neutral,Moderate,Moderate Sleep,Average
+399,18,Male,Undergraduate,Other,5.9,Twitter,Yes,6.0,6.5,Neutral,Moderate,Moderate Sleep,Average
+868,19,Female,Undergraduate,Germany,5.7,TikTok,Yes,5.2,4.1,Negative,Moderate,Moderate Sleep,Average
+586,24,Female,Undergraduate,Other,8.2,Twitter,Yes,5.0,4.7,Negative,High,Low Sleep,Average
+397,19,Male,Undergraduate,Other,6.9,TikTok,No,5.0,5.6,Negative,High,Low Sleep,Average
+322,21,Male,High School,Other,7.6,Twitter,Yes,5.0,4.1,Negative,High,Low Sleep,Average
+906,19,Male,Undergraduate,UK,2.0,Snapchat,No,7.5,7.8,Positive,Low,Adequate Sleep,Good
+184,18,Male,Graduate,Other,3.9,Facebook,Yes,7.3,8.5,Positive,Moderate,Adequate Sleep,Good
+744,19,Female,High School,Other,4.5,LinkedIn,Yes,6.1,6.3,Neutral,Moderate,Moderate Sleep,Average
+803,20,Male,Graduate,Other,3.5,TikTok,Yes,7.1,8.1,Positive,Moderate,Adequate Sleep,Good
+934,18,Male,Graduate,Other,7.3,Twitter,Yes,5.3,5.0,Negative,High,Moderate Sleep,Average
+227,21,Female,High School,USA,3.7,Facebook,No,7.5,8.3,Positive,Moderate,Adequate Sleep,Good
+648,23,Male,Undergraduate,USA,4.7,YouTube,Yes,6.9,6.2,Neutral,Moderate,Moderate Sleep,Average
+523,18,Male,High School,Other,5.3,YouTube,Yes,6.9,6.4,Neutral,Moderate,Moderate Sleep,Average
+388,20,Male,Graduate,Australia,7.3,Twitter,Yes,5.3,6.0,Negative,High,Moderate Sleep,Average
+629,19,Female,Graduate,India,3.8,LinkedIn,No,7.4,6.9,Neutral,Moderate,Adequate Sleep,Average
+69,22,Female,Graduate,India,8.4,Instagram,No,6.0,5.5,Negative,High,Moderate Sleep,Average
+551,19,Female,Undergraduate,Other,8.3,Twitter,No,4.7,4.6,Negative,High,Low Sleep,Average
+309,21,Male,Undergraduate,Other,4.0,Snapchat,No,6.6,6.9,Neutral,Moderate,Moderate Sleep,Average
+256,23,Female,Undergraduate,India,7.6,YouTube,Yes,4.7,4.8,Negative,High,Low Sleep,Average
+121,23,Female,High School,Other,5.3,Facebook,Yes,7.3,6.2,Neutral,Moderate,Adequate Sleep,Average
+149,18,Male,High School,Other,5.9,Snapchat,No,6.2,6.1,Neutral,Moderate,Moderate Sleep,Average
+628,22,Female,Undergraduate,Other,4.1,TikTok,No,6.4,6.9,Neutral,Moderate,Moderate Sleep,Average
+390,22,Male,High School,Other,5.6,TikTok,Yes,6.1,6.3,Neutral,Moderate,Moderate Sleep,Average
+908,21,Female,High School,Other,8.4,Facebook,Yes,5.2,5.1,Negative,High,Moderate Sleep,Average
+251,20,Male,Undergraduate,Australia,5.8,Snapchat,Yes,5.8,4.9,Negative,Moderate,Moderate Sleep,Average
+645,24,Female,Graduate,Other,8.2,YouTube,Yes,4.5,5.6,Negative,High,Low Sleep,Average
+771,21,Male,Graduate,Other,4.8,Twitter,Yes,6.6,7.0,Neutral,Moderate,Moderate Sleep,Average
+474,21,Female,High School,Germany,7.6,Snapchat,Yes,4.9,5.1,Negative,High,Low Sleep,Average
+271,22,Female,High School,Other,3.1,Twitter,No,8.5,7.0,Positive,Moderate,Adequate Sleep,Average
+365,18,Male,Undergraduate,Other,7.5,Instagram,No,5.4,5.5,Negative,High,Moderate Sleep,Average
+509,20,Female,Graduate,Other,3.9,Snapchat,Yes,6.3,6.2,Neutral,Moderate,Moderate Sleep,Average
+317,20,Female,Undergraduate,USA,7.1,LinkedIn,Yes,6.0,4.1,Negative,High,Moderate Sleep,Average
+298,22,Male,Undergraduate,Other,6.3,TikTok,Yes,5.4,6.0,Negative,High,Moderate Sleep,Average
+729,24,Female,Undergraduate,Other,6.2,LinkedIn,Yes,6.0,4.8,Negative,High,Moderate Sleep,Average
+613,21,Female,Graduate,Other,4.9,LinkedIn,Yes,6.8,6.3,Neutral,Moderate,Moderate Sleep,Average
+649,18,Male,Graduate,India,3.0,Instagram,Yes,7.7,8.5,Positive,Low,Adequate Sleep,Good
+581,19,Male,Undergraduate,Other,8.0,Twitter,Yes,4.8,4.9,Negative,High,Low Sleep,Average
+401,21,Female,Undergraduate,Other,8.2,Facebook,Yes,5.7,5.0,Negative,High,Moderate Sleep,Average
+967,18,Female,Undergraduate,Other,6.0,TikTok,Yes,5.5,5.0,Negative,Moderate,Moderate Sleep,Average
+252,19,Female,Undergraduate,Other,4.8,YouTube,No,6.9,6.9,Neutral,Moderate,Moderate Sleep,Average
+951,24,Female,Graduate,Other,5.3,Instagram,No,6.4,6.8,Neutral,Moderate,Moderate Sleep,Average
+556,22,Female,Undergraduate,Other,4.5,Instagram,Yes,6.6,6.8,Neutral,Moderate,Moderate Sleep,Average
+616,23,Female,Undergraduate,India,1.7,Twitter,No,7.0,8.9,Positive,Low,Moderate Sleep,Good
+601,18,Male,Graduate,Germany,6.1,YouTube,Yes,4.6,5.1,Negative,High,Low Sleep,Average
+217,18,Male,Graduate,Canada,1.9,Twitter,No,7.3,8.9,Positive,Low,Adequate Sleep,Good
+700,21,Male,Undergraduate,Other,7.7,Instagram,No,5.8,5.1,Negative,High,Moderate Sleep,Average
+513,21,Female,Undergraduate,Other,6.9,Instagram,Yes,5.2,5.9,Negative,High,Moderate Sleep,Average
+448,24,Male,Graduate,Other,5.9,Twitter,Yes,5.9,4.4,Negative,Moderate,Moderate Sleep,Average
+598,20,Male,Graduate,Australia,2.4,YouTube,No,8.7,7.2,Positive,Low,Adequate Sleep,Good
+346,18,Male,High School,Other,6.5,LinkedIn,Yes,5.0,5.0,Negative,High,Low Sleep,Average
+202,20,Male,Graduate,Other,2.6,LinkedIn,Yes,8.8,8.5,Positive,Low,Adequate Sleep,Good
+525,20,Male,Graduate,Other,6.9,TikTok,Yes,5.3,5.1,Negative,High,Moderate Sleep,Average
+165,19,Female,Graduate,Germany,5.4,Snapchat,Yes,7.3,6.3,Neutral,Moderate,Adequate Sleep,Average
+18,21,Male,Graduate,Australia,4.7,Instagram,Yes,7.4,6.6,Neutral,Moderate,Adequate Sleep,Average
+992,21,Male,High School,Other,2.9,Facebook,Yes,8.7,8.9,Positive,Low,Adequate Sleep,Good
+480,21,Male,High School,Other,1.7,Instagram,No,8.1,7.8,Positive,Low,Adequate Sleep,Good
+80,23,Female,High School,Other,6.2,TikTok,Yes,6.0,4.3,Negative,High,Moderate Sleep,Average
+216,23,Male,Graduate,Other,5.6,TikTok,Yes,5.5,4.2,Negative,Moderate,Moderate Sleep,Average
+768,19,Female,Graduate,Other,4.5,TikTok,Yes,6.5,6.8,Neutral,Moderate,Moderate Sleep,Average
+810,24,Female,Graduate,Other,8.0,Snapchat,No,5.6,6.0,Negative,High,Moderate Sleep,Average
+210,21,Male,High School,Australia,3.5,Twitter,Yes,7.4,6.7,Neutral,Moderate,Adequate Sleep,Average
+306,22,Male,Undergraduate,Canada,4.8,Twitter,No,6.9,6.1,Neutral,Moderate,Moderate Sleep,Average
+796,24,Female,Undergraduate,Other,2.3,YouTube,No,8.8,8.5,Positive,Low,Adequate Sleep,Good
+316,22,Male,Graduate,Other,8.0,LinkedIn,Yes,4.5,5.4,Negative,High,Low Sleep,Average
+10,22,Male,Graduate,Other,6.6,Snapchat,Yes,5.2,5.2,Negative,High,Moderate Sleep,Average
+846,22,Male,Graduate,Other,1.6,TikTok,Yes,8.2,8.6,Positive,Low,Adequate Sleep,Good
+624,22,Female,Graduate,Canada,6.8,Instagram,Yes,5.4,4.4,Negative,High,Moderate Sleep,Average
+937,19,Male,Graduate,UK,1.8,TikTok,No,7.6,8.3,Positive,Low,Adequate Sleep,Good
+417,20,Female,Undergraduate,Other,3.9,TikTok,No,8.8,8.5,Positive,Moderate,Adequate Sleep,Good
+268,24,Male,High School,Other,6.7,Snapchat,No,5.4,5.4,Negative,High,Moderate Sleep,Average
+825,23,Male,Undergraduate,Other,7.8,Twitter,Yes,5.7,5.9,Negative,High,Moderate Sleep,Average
+747,20,Female,Graduate,Other,5.0,TikTok,Yes,7.4,6.7,Neutral,Moderate,Adequate Sleep,Average
+83,18,Female,Undergraduate,Other,7.6,Facebook,No,4.5,5.9,Negative,High,Low Sleep,Average
+947,21,Female,Undergraduate,Other,1.7,Instagram,No,8.7,7.4,Positive,Low,Adequate Sleep,Good
+794,22,Female,High School,Other,5.8,LinkedIn,No,6.7,6.5,Neutral,Moderate,Moderate Sleep,Average
+472,21,Male,High School,India,6.4,Snapchat,No,5.5,5.9,Negative,High,Moderate Sleep,Average
+341,22,Female,Undergraduate,Other,2.5,Snapchat,No,8.0,8.6,Positive,Low,Adequate Sleep,Good
+491,24,Male,Graduate,Germany,5.2,YouTube,Yes,6.5,6.4,Neutral,Moderate,Moderate Sleep,Average
+563,23,Male,Undergraduate,Other,5.2,TikTok,Yes,6.8,6.9,Neutral,Moderate,Moderate Sleep,Average
+829,20,Female,Graduate,Germany,6.8,TikTok,Yes,5.1,4.9,Negative,High,Moderate Sleep,Average
+360,22,Female,Undergraduate,Other,7.1,LinkedIn,Yes,6.0,4.1,Negative,High,Moderate Sleep,Average
+282,21,Female,High School,Canada,4.7,Facebook,No,7.1,6.5,Neutral,Moderate,Adequate Sleep,Average
+540,19,Male,Undergraduate,Canada,7.7,Facebook,Yes,5.4,4.4,Negative,High,Moderate Sleep,Average
+580,21,Female,High School,Other,2.6,LinkedIn,No,8.9,8.3,Positive,Low,Adequate Sleep,Good
+625,19,Female,Undergraduate,Other,6.2,TikTok,Yes,5.0,4.8,Negative,High,Low Sleep,Average
+946,22,Male,Undergraduate,Australia,5.7,Snapchat,Yes,7.4,6.9,Neutral,Moderate,Adequate Sleep,Average
+615,20,Female,Graduate,USA,2.9,Twitter,No,7.3,7.1,Positive,Low,Adequate Sleep,Good
+798,19,Female,High School,Other,4.2,Facebook,Yes,6.9,6.7,Neutral,Moderate,Moderate Sleep,Average
+54,21,Male,Graduate,Canada,3.8,YouTube,Yes,9.0,8.5,Positive,Moderate,Adequate Sleep,Good
+222,23,Female,Graduate,India,3.6,Instagram,No,7.6,7.9,Positive,Moderate,Adequate Sleep,Good
+952,24,Female,Undergraduate,Other,2.1,Instagram,No,8.0,8.7,Positive,Low,Adequate Sleep,Good
+875,23,Female,High School,Other,4.7,Twitter,No,7.3,6.0,Neutral,Moderate,Adequate Sleep,Average
+687,24,Male,High School,Other,7.7,LinkedIn,Yes,5.8,4.4,Negative,High,Moderate Sleep,Average
+754,23,Female,High School,Other,7.2,Facebook,No,5.6,4.6,Negative,High,Moderate Sleep,Average
+226,23,Male,Graduate,India,8.4,Twitter,No,5.6,5.7,Negative,High,Moderate Sleep,Average
+655,22,Female,Graduate,India,4.8,Instagram,No,7.0,6.3,Neutral,Moderate,Moderate Sleep,Average
+181,21,Female,Graduate,India,2.6,TikTok,Yes,8.7,7.5,Positive,Low,Adequate Sleep,Good
+59,20,Male,Undergraduate,Other,8.1,Twitter,Yes,4.6,4.7,Negative,High,Low Sleep,Average
+366,19,Male,High School,Other,6.3,TikTok,Yes,5.4,4.9,Negative,High,Moderate Sleep,Average
+171,20,Male,Graduate,Other,7.6,LinkedIn,Yes,4.6,5.0,Negative,High,Low Sleep,Average
+582,20,Female,High School,Other,6.1,YouTube,Yes,5.1,4.1,Negative,High,Moderate Sleep,Average
+34,24,Female,Graduate,Other,3.3,Facebook,No,7.2,7.3,Positive,Moderate,Adequate Sleep,Good
+99,23,Female,Undergraduate,Other,6.9,TikTok,Yes,5.9,4.6,Negative,High,Moderate Sleep,Average
+376,20,Male,High School,Other,2.9,YouTube,No,7.6,7.6,Positive,Low,Adequate Sleep,Good
+689,24,Male,High School,Other,5.6,TikTok,Yes,5.6,5.3,Negative,Moderate,Moderate Sleep,Average
+132,19,Male,High School,Other,4.3,YouTube,Yes,6.4,6.4,Neutral,Moderate,Moderate Sleep,Average
+981,21,Male,High School,Other,6.8,Twitter,Yes,4.6,4.0,Negative,High,Low Sleep,Poor
+89,23,Female,Undergraduate,Other,5.4,Instagram,No,6.6,6.3,Neutral,Moderate,Moderate Sleep,Average
+995,19,Male,Graduate,Other,8.1,YouTube,No,4.5,5.8,Negative,High,Low Sleep,Average
+187,22,Female,Undergraduate,Other,7.3,TikTok,Yes,4.8,5.7,Negative,High,Low Sleep,Average
+792,24,Male,Graduate,Other,3.7,LinkedIn,No,8.5,8.0,Positive,Moderate,Adequate Sleep,Good
+823,18,Male,High School,India,3.7,LinkedIn,Yes,8.6,7.4,Positive,Moderate,Adequate Sleep,Good
+454,24,Male,Undergraduate,Canada,6.3,Facebook,Yes,5.6,4.5,Negative,High,Moderate Sleep,Average
+378,22,Male,High School,Other,5.6,Instagram,Yes,5.8,5.2,Negative,Moderate,Moderate Sleep,Average
+113,24,Female,High School,Other,3.7,YouTube,Yes,7.4,6.7,Neutral,Moderate,Adequate Sleep,Average
+318,21,Male,Graduate,Germany,7.2,LinkedIn,Yes,5.1,4.3,Negative,High,Moderate Sleep,Average
+903,18,Male,Undergraduate,Other,7.0,YouTube,No,5.2,4.9,Negative,High,Moderate Sleep,Average
+636,24,Female,Undergraduate,Germany,5.5,Twitter,Yes,4.6,4.8,Negative,Moderate,Low Sleep,Average
+573,19,Female,High School,Other,5.4,Facebook,No,6.7,6.6,Neutral,Moderate,Moderate Sleep,Average
+681,18,Male,Undergraduate,Other,2.3,TikTok,No,8.1,7.1,Positive,Low,Adequate Sleep,Good
+138,18,Male,High School,Other,5.9,Facebook,No,5.1,4.1,Negative,Moderate,Moderate Sleep,Average
+830,19,Male,High School,Other,5.3,Facebook,Yes,6.8,6.4,Neutral,Moderate,Moderate Sleep,Average
+962,20,Male,Graduate,Other,2.0,LinkedIn,No,8.2,7.7,Positive,Low,Adequate Sleep,Good
+693,24,Male,Undergraduate,Other,1.6,Snapchat,No,8.9,7.4,Positive,Low,Adequate Sleep,Good
+253,21,Female,High School,Australia,5.7,LinkedIn,Yes,6.8,6.6,Neutral,Moderate,Moderate Sleep,Average
+921,23,Female,High School,Germany,6.6,Instagram,No,4.6,6.0,Negative,High,Low Sleep,Average
+720,22,Male,High School,Other,6.6,LinkedIn,Yes,4.8,4.7,Negative,High,Low Sleep,Average
+342,20,Female,Undergraduate,Other,6.9,Instagram,Yes,4.5,4.4,Negative,High,Low Sleep,Average
+813,18,Male,High School,Other,3.7,LinkedIn,Yes,7.9,8.2,Positive,Moderate,Adequate Sleep,Good
+446,23,Male,Undergraduate,USA,2.3,LinkedIn,No,7.5,7.4,Positive,Low,Adequate Sleep,Good
+517,24,Female,Undergraduate,Other,6.7,Snapchat,No,4.9,4.2,Negative,High,Low Sleep,Average
+486,20,Female,Graduate,Other,6.3,LinkedIn,Yes,5.7,5.3,Negative,High,Moderate Sleep,Average
+258,21,Female,Undergraduate,India,4.2,TikTok,No,6.1,6.5,Neutral,Moderate,Moderate Sleep,Average
+204,21,Female,High School,Other,2.3,Twitter,Yes,7.0,8.4,Positive,Low,Moderate Sleep,Good
+393,23,Female,Undergraduate,Australia,2.2,Instagram,No,8.6,7.7,Positive,Low,Adequate Sleep,Good
+704,23,Male,Graduate,Other,3.6,TikTok,No,8.6,7.9,Positive,Moderate,Adequate Sleep,Good
+980,19,Male,Graduate,Other,3.3,Instagram,No,8.2,7.3,Positive,Moderate,Adequate Sleep,Good
+612,19,Male,High School,Other,6.5,TikTok,Yes,5.0,4.2,Negative,High,Low Sleep,Average
+872,18,Male,Undergraduate,Other,7.4,Twitter,Yes,4.9,4.3,Negative,High,Low Sleep,Average
+635,23,Female,Graduate,Other,4.7,Twitter,No,7.3,6.3,Neutral,Moderate,Adequate Sleep,Average
+948,24,Female,Undergraduate,Other,3.8,Facebook,No,6.8,6.9,Neutral,Moderate,Moderate Sleep,Average
+414,23,Female,Undergraduate,Germany,6.1,Snapchat,Yes,5.3,5.7,Negative,High,Moderate Sleep,Average
+717,18,Male,High School,Canada,6.1,Instagram,Yes,5.6,4.6,Negative,High,Moderate Sleep,Average
+881,18,Female,Undergraduate,Other,7.7,Facebook,No,5.4,4.0,Negative,High,Moderate Sleep,Poor
+39,18,Male,High School,Other,5.0,Snapchat,Yes,6.5,6.8,Neutral,Moderate,Moderate Sleep,Average
+597,20,Female,Graduate,Other,5.9,YouTube,Yes,5.0,5.6,Negative,Moderate,Low Sleep,Average
+373,18,Female,Undergraduate,Other,8.0,Twitter,Yes,5.4,5.7,Negative,High,Moderate Sleep,Average
+407,20,Male,Graduate,Germany,4.4,YouTube,No,6.1,6.5,Neutral,Moderate,Moderate Sleep,Average
+274,20,Male,High School,India,7.5,LinkedIn,No,5.2,5.2,Negative,High,Moderate Sleep,Average
+112,22,Male,Graduate,India,5.5,Twitter,Yes,7.1,7.0,Neutral,Moderate,Adequate Sleep,Average
+969,22,Male,Undergraduate,Other,6.0,Instagram,Yes,5.8,5.5,Negative,Moderate,Moderate Sleep,Average
+891,21,Male,Undergraduate,Canada,2.1,Twitter,No,8.8,7.0,Positive,Low,Adequate Sleep,Average
+585,22,Male,Undergraduate,Other,4.1,Facebook,No,6.7,6.3,Neutral,Moderate,Moderate Sleep,Average
+167,18,Female,Graduate,Other,5.6,Twitter,Yes,5.6,4.4,Negative,Moderate,Moderate Sleep,Average
+66,23,Male,Undergraduate,India,1.8,Instagram,No,7.8,7.0,Positive,Low,Adequate Sleep,Average
+19,22,Male,Graduate,Other,4.7,Facebook,Yes,6.6,6.9,Neutral,Moderate,Moderate Sleep,Average
+278,23,Male,Undergraduate,UK,3.9,Twitter,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+622,22,Female,Undergraduate,Other,6.6,YouTube,Yes,5.0,4.1,Negative,High,Low Sleep,Average
+465,21,Male,High School,Other,5.9,Facebook,Yes,4.6,5.2,Negative,Moderate,Low Sleep,Average
+697,24,Female,High School,Other,3.8,Facebook,Yes,7.5,8.8,Positive,Moderate,Adequate Sleep,Good
+427,18,Female,High School,USA,7.2,YouTube,Yes,5.5,5.8,Negative,High,Moderate Sleep,Average
+707,24,Female,Graduate,Other,7.5,YouTube,No,4.9,4.9,Negative,High,Low Sleep,Average
+526,18,Male,High School,Other,1.6,Snapchat,No,8.4,7.7,Positive,Low,Adequate Sleep,Good
+245,22,Male,High School,UK,8.1,Snapchat,Yes,5.4,5.1,Negative,High,Moderate Sleep,Average
+228,18,Male,Undergraduate,Other,7.1,Instagram,Yes,5.9,4.8,Negative,High,Moderate Sleep,Average
+313,23,Male,High School,India,2.7,Instagram,No,8.8,8.4,Positive,Low,Adequate Sleep,Good
+850,24,Male,Graduate,Other,5.8,Snapchat,Yes,4.8,4.9,Negative,Moderate,Low Sleep,Average
+455,21,Male,High School,USA,6.8,Facebook,Yes,5.7,5.6,Negative,High,Moderate Sleep,Average
+668,24,Male,Undergraduate,Other,7.4,Twitter,Yes,5.3,4.1,Negative,High,Moderate Sleep,Average
+584,22,Female,Undergraduate,Canada,4.1,YouTube,Yes,7.2,6.3,Neutral,Moderate,Adequate Sleep,Average
+345,22,Male,Undergraduate,Other,6.3,Snapchat,Yes,5.6,4.2,Negative,High,Moderate Sleep,Average
+398,24,Male,Graduate,Other,7.5,Instagram,Yes,5.7,5.7,Negative,High,Moderate Sleep,Average
+332,18,Female,Undergraduate,Other,8.0,TikTok,Yes,4.8,5.3,Negative,High,Low Sleep,Average
+254,19,Male,Graduate,India,5.9,YouTube,No,6.0,7.0,Neutral,Moderate,Moderate Sleep,Average
+701,24,Male,Graduate,USA,4.4,TikTok,No,6.3,6.2,Neutral,Moderate,Moderate Sleep,Average
+896,24,Male,High School,Other,7.0,YouTube,Yes,5.6,5.7,Negative,High,Moderate Sleep,Average
+344,21,Female,Graduate,Other,8.0,Twitter,No,5.2,5.6,Negative,High,Moderate Sleep,Average
+331,21,Male,High School,Canada,2.5,Instagram,No,7.0,8.2,Positive,Low,Moderate Sleep,Good
+949,19,Female,Graduate,Australia,6.2,Facebook,Yes,5.2,5.9,Negative,High,Moderate Sleep,Average
+262,21,Female,High School,Other,7.4,LinkedIn,Yes,4.6,5.4,Negative,High,Low Sleep,Average
+755,20,Female,High School,USA,4.6,YouTube,No,6.1,6.7,Neutral,Moderate,Moderate Sleep,Average
+879,18,Male,Graduate,Other,6.3,Facebook,Yes,4.8,5.0,Negative,High,Low Sleep,Average
+77,24,Female,Undergraduate,Germany,3.2,TikTok,No,7.9,7.4,Positive,Moderate,Adequate Sleep,Good
+68,19,Female,Graduate,Other,5.4,LinkedIn,No,7.1,6.5,Neutral,Moderate,Adequate Sleep,Average
+807,24,Male,Undergraduate,Other,2.5,LinkedIn,No,7.9,8.8,Positive,Low,Adequate Sleep,Good
+74,21,Female,Graduate,Other,2.0,LinkedIn,No,8.7,8.4,Positive,Low,Adequate Sleep,Good
+326,23,Female,Undergraduate,Other,2.8,Twitter,No,8.5,8.3,Positive,Low,Adequate Sleep,Good
+817,22,Female,High School,Other,5.2,TikTok,Yes,6.3,6.8,Neutral,Moderate,Moderate Sleep,Average
+97,21,Male,Graduate,Other,5.2,YouTube,No,6.7,6.8,Neutral,Moderate,Moderate Sleep,Average
+560,21,Female,High School,Other,8.1,YouTube,Yes,5.6,4.5,Negative,High,Moderate Sleep,Average
+907,18,Male,Graduate,Other,2.8,Instagram,No,7.3,8.2,Positive,Low,Adequate Sleep,Good
+292,19,Male,High School,Other,5.9,LinkedIn,No,7.4,6.5,Neutral,Moderate,Adequate Sleep,Average
+626,22,Male,High School,Other,1.6,TikTok,No,7.7,7.8,Positive,Low,Adequate Sleep,Good
+265,18,Female,High School,Other,7.6,Snapchat,Yes,5.4,5.8,Negative,High,Moderate Sleep,Average
+529,18,Female,High School,USA,1.9,YouTube,No,7.9,7.2,Positive,Low,Adequate Sleep,Good
+507,18,Female,High School,Other,2.9,Snapchat,No,8.2,7.4,Positive,Low,Adequate Sleep,Good
+93,18,Female,Undergraduate,USA,2.1,Instagram,No,8.7,7.9,Positive,Low,Adequate Sleep,Good
+42,18,Male,High School,Other,5.8,LinkedIn,Yes,5.9,5.5,Negative,Moderate,Moderate Sleep,Average
+816,18,Female,High School,UK,3.6,Twitter,Yes,7.1,7.0,Neutral,Moderate,Adequate Sleep,Average
+87,18,Male,Graduate,USA,3.9,YouTube,Yes,6.0,6.7,Neutral,Moderate,Moderate Sleep,Average
+726,20,Male,Undergraduate,Other,8.1,LinkedIn,No,5.9,5.9,Negative,High,Moderate Sleep,Average
+637,20,Male,High School,Other,8.2,Twitter,Yes,5.2,5.4,Negative,High,Moderate Sleep,Average
+710,23,Male,Undergraduate,Canada,6.0,Snapchat,Yes,6.5,6.1,Neutral,Moderate,Moderate Sleep,Average
+75,19,Female,Graduate,Other,6.1,Facebook,Yes,4.6,4.3,Negative,High,Low Sleep,Average
+354,22,Female,High School,Other,7.2,TikTok,Yes,4.5,5.9,Negative,High,Low Sleep,Average
+340,21,Female,Graduate,Other,2.5,Facebook,No,8.7,8.3,Positive,Low,Adequate Sleep,Good
+145,19,Male,Undergraduate,UK,3.8,Snapchat,Yes,6.6,6.8,Neutral,Moderate,Moderate Sleep,Average
+528,22,Male,Undergraduate,USA,5.5,YouTube,Yes,5.2,4.6,Negative,Moderate,Moderate Sleep,Average
+49,20,Male,Graduate,India,5.6,Snapchat,Yes,5.8,5.1,Negative,Moderate,Moderate Sleep,Average
+443,22,Female,Undergraduate,Other,4.5,Snapchat,Yes,6.7,6.9,Neutral,Moderate,Moderate Sleep,Average
+578,20,Male,High School,Other,2.8,LinkedIn,No,8.5,8.7,Positive,Low,Adequate Sleep,Good
+901,20,Female,Undergraduate,Other,5.5,LinkedIn,No,6.5,6.8,Neutral,Moderate,Moderate Sleep,Average
+785,18,Female,Undergraduate,Other,6.3,LinkedIn,No,5.1,4.2,Negative,High,Moderate Sleep,Average
+175,22,Male,High School,Other,4.0,YouTube,No,8.5,8.5,Positive,Moderate,Adequate Sleep,Good
+638,22,Female,High School,UK,5.1,Facebook,Yes,7.1,6.1,Neutral,Moderate,Adequate Sleep,Average
+516,20,Female,Undergraduate,Other,4.9,Twitter,No,6.0,7.0,Neutral,Moderate,Moderate Sleep,Average
+180,24,Female,Undergraduate,Australia,2.2,LinkedIn,No,7.1,7.1,Positive,Low,Adequate Sleep,Good
+324,23,Female,High School,Other,4.0,Instagram,Yes,7.1,8.0,Positive,Moderate,Adequate Sleep,Good
+476,21,Female,High School,Other,5.1,LinkedIn,No,6.9,6.0,Neutral,Moderate,Moderate Sleep,Average
+86,22,Male,High School,Other,3.7,YouTube,No,7.4,9.0,Positive,Moderate,Adequate Sleep,Good
+876,19,Male,High School,Other,4.4,TikTok,No,7.0,6.2,Neutral,Moderate,Moderate Sleep,Average
+805,20,Male,Undergraduate,USA,7.7,TikTok,Yes,5.6,5.3,Negative,High,Moderate Sleep,Average
+136,19,Male,Undergraduate,USA,6.0,LinkedIn,Yes,5.5,4.7,Negative,Moderate,Moderate Sleep,Average
+806,22,Female,Graduate,Other,7.0,Instagram,Yes,5.8,4.3,Negative,High,Moderate Sleep,Average
+955,19,Female,Undergraduate,Other,5.2,Twitter,No,6.8,6.2,Neutral,Moderate,Moderate Sleep,Average
+966,18,Male,High School,Other,6.5,Snapchat,No,5.4,4.1,Negative,High,Moderate Sleep,Average
+319,20,Female,Graduate,Other,3.2,TikTok,No,8.6,7.5,Positive,Moderate,Adequate Sleep,Good
+749,23,Female,Graduate,Other,4.3,TikTok,No,6.1,6.3,Neutral,Moderate,Moderate Sleep,Average
+32,22,Male,Undergraduate,Australia,6.2,YouTube,No,5.5,4.8,Negative,High,Moderate Sleep,Average
+569,20,Female,Graduate,USA,6.4,Facebook,Yes,5.5,5.7,Negative,High,Moderate Sleep,Average
+25,24,Male,Graduate,India,8.1,LinkedIn,Yes,5.1,5.1,Negative,High,Moderate Sleep,Average
+595,21,Male,Undergraduate,Other,5.2,Facebook,No,7.3,6.6,Neutral,Moderate,Adequate Sleep,Average
+844,22,Male,Undergraduate,Other,6.9,Snapchat,Yes,4.6,5.2,Negative,High,Low Sleep,Average
+588,22,Male,Undergraduate,Other,2.6,YouTube,No,7.7,8.9,Positive,Low,Adequate Sleep,Good
+760,22,Female,Graduate,Other,1.6,LinkedIn,Yes,7.1,7.4,Positive,Low,Adequate Sleep,Good
+974,21,Male,High School,Other,3.8,Snapchat,No,6.7,6.8,Neutral,Moderate,Moderate Sleep,Average
+35,22,Female,Undergraduate,Other,7.4,TikTok,Yes,5.2,5.1,Negative,High,Moderate Sleep,Average
+607,20,Female,Undergraduate,Other,6.4,TikTok,No,5.8,4.1,Negative,High,Moderate Sleep,Average
+229,19,Male,Undergraduate,USA,5.1,Twitter,No,7.3,6.6,Neutral,Moderate,Adequate Sleep,Average
+62,18,Male,Graduate,UK,6.3,Snapchat,Yes,5.8,5.6,Negative,High,Moderate Sleep,Average
+545,23,Female,Graduate,UK,5.7,Snapchat,Yes,5.5,4.5,Negative,Moderate,Moderate Sleep,Average
+508,24,Female,Graduate,Other,7.3,YouTube,Yes,5.6,5.0,Negative,High,Moderate Sleep,Average
+499,19,Female,Graduate,Other,4.4,LinkedIn,No,6.9,6.5,Neutral,Moderate,Moderate Sleep,Average
+26,19,Male,Undergraduate,Other,6.5,LinkedIn,Yes,5.4,5.8,Negative,High,Moderate Sleep,Average
+114,23,Male,High School,Other,3.8,YouTube,No,6.7,6.3,Neutral,Moderate,Moderate Sleep,Average
+192,24,Male,Graduate,Other,4.8,YouTube,No,6.7,6.1,Neutral,Moderate,Moderate Sleep,Average
+449,18,Female,Undergraduate,Other,2.5,LinkedIn,No,7.3,7.3,Positive,Low,Adequate Sleep,Good
+657,18,Female,Graduate,Other,2.8,Twitter,No,8.6,8.0,Positive,Low,Adequate Sleep,Good
+263,21,Male,Graduate,Australia,7.2,TikTok,Yes,4.7,5.8,Negative,High,Low Sleep,Average
+12,19,Female,Graduate,UK,8.4,Snapchat,Yes,5.0,4.5,Negative,High,Low Sleep,Average
+522,20,Female,High School,USA,2.5,Facebook,Yes,8.0,9.0,Positive,Low,Adequate Sleep,Good
+82,19,Male,High School,Other,8.4,Snapchat,Yes,4.8,5.4,Negative,High,Low Sleep,Average
+893,21,Male,High School,India,2.5,Snapchat,No,7.4,8.0,Positive,Low,Adequate Sleep,Good
+984,22,Female,High School,Germany,6.6,Snapchat,Yes,4.7,5.4,Negative,High,Low Sleep,Average
+473,19,Female,Undergraduate,Other,3.7,LinkedIn,No,6.1,6.6,Neutral,Moderate,Moderate Sleep,Average
+818,22,Female,Undergraduate,Other,2.9,Facebook,No,7.0,7.2,Positive,Low,Moderate Sleep,Good
+490,23,Male,Undergraduate,Other,3.3,Instagram,No,8.8,9.0,Positive,Moderate,Adequate Sleep,Good
+973,24,Male,Graduate,Other,7.4,Twitter,Yes,5.6,5.1,Negative,High,Moderate Sleep,Average
+799,22,Female,Undergraduate,Australia,3.0,YouTube,No,8.3,7.8,Positive,Low,Adequate Sleep,Good
+71,22,Male,Undergraduate,Other,6.8,Facebook,Yes,5.2,4.3,Negative,High,Moderate Sleep,Average
+456,23,Female,Graduate,India,2.6,Facebook,Yes,7.7,8.7,Positive,Low,Adequate Sleep,Good
+125,22,Male,Undergraduate,Other,6.7,Facebook,Yes,5.1,4.7,Negative,High,Moderate Sleep,Average
+821,23,Female,High School,Other,6.7,Instagram,Yes,5.8,5.5,Negative,High,Moderate Sleep,Average
+162,21,Male,Undergraduate,Canada,3.6,YouTube,Yes,6.2,6.1,Neutral,Moderate,Moderate Sleep,Average
+308,23,Male,High School,Australia,3.4,YouTube,No,8.7,7.8,Positive,Moderate,Adequate Sleep,Good
+361,20,Male,Undergraduate,Other,6.8,YouTube,Yes,6.0,5.1,Negative,High,Moderate Sleep,Average
+910,18,Male,Undergraduate,Other,2.4,Twitter,Yes,7.3,8.4,Positive,Low,Adequate Sleep,Good
+148,18,Male,High School,Other,6.0,Snapchat,Yes,5.0,5.5,Negative,Moderate,Low Sleep,Average
+939,23,Female,Graduate,Other,7.4,Instagram,Yes,4.6,4.3,Negative,High,Low Sleep,Average
+930,23,Female,Undergraduate,Other,4.5,Twitter,Yes,6.9,6.1,Neutral,Moderate,Moderate Sleep,Average
+714,23,Male,Graduate,Other,6.6,TikTok,No,5.6,5.0,Negative,High,Moderate Sleep,Average
+234,19,Male,High School,India,3.6,Facebook,No,8.8,7.9,Positive,Moderate,Adequate Sleep,Good
+21,20,Male,Graduate,Other,2.0,LinkedIn,No,7.6,7.6,Positive,Low,Adequate Sleep,Good
+492,21,Female,Undergraduate,India,3.9,Facebook,No,7.8,7.1,Positive,Moderate,Adequate Sleep,Good
+650,20,Male,High School,Other,5.5,Instagram,No,6.7,6.8,Neutral,Moderate,Moderate Sleep,Average
+993,18,Male,High School,Other,6.7,Instagram,No,4.8,5.8,Negative,High,Low Sleep,Average
+543,21,Male,Undergraduate,Other,8.2,Snapchat,No,4.9,5.6,Negative,High,Low Sleep,Average
+200,21,Female,High School,Other,5.8,TikTok,Yes,5.6,6.0,Negative,Moderate,Moderate Sleep,Average
+968,18,Female,High School,Other,5.9,Snapchat,Yes,4.6,5.6,Negative,Moderate,Low Sleep,Average
+128,18,Male,Undergraduate,USA,7.2,Instagram,Yes,5.9,4.4,Negative,High,Moderate Sleep,Average
+236,24,Male,Graduate,Other,6.5,Instagram,No,5.3,4.8,Negative,High,Moderate Sleep,Average
+822,19,Female,Undergraduate,USA,2.9,LinkedIn,No,8.9,7.4,Positive,Low,Adequate Sleep,Good
+740,24,Male,Undergraduate,Other,6.3,TikTok,Yes,5.7,5.6,Negative,High,Moderate Sleep,Average
+653,18,Male,High School,Australia,4.4,Twitter,Yes,6.1,6.5,Neutral,Moderate,Moderate Sleep,Average
+999,21,Female,Undergraduate,Other,7.1,TikTok,Yes,5.5,4.8,Negative,High,Moderate Sleep,Average
+772,20,Female,High School,UK,3.8,TikTok,No,7.2,8.1,Positive,Moderate,Adequate Sleep,Good
+590,22,Female,Undergraduate,Other,7.9,Instagram,Yes,5.4,4.7,Negative,High,Moderate Sleep,Average
+505,19,Female,High School,Other,5.6,LinkedIn,Yes,6.3,6.4,Neutral,Moderate,Moderate Sleep,Average
+642,20,Female,High School,Other,6.3,YouTube,Yes,5.2,4.6,Negative,High,Moderate Sleep,Average
+88,21,Male,Undergraduate,Other,3.2,TikTok,No,7.1,7.1,Positive,Moderate,Adequate Sleep,Good
+811,20,Male,Undergraduate,Other,2.0,Snapchat,Yes,7.1,9.0,Positive,Low,Adequate Sleep,Good
+276,23,Male,Undergraduate,Australia,7.6,Snapchat,Yes,5.9,4.1,Negative,High,Moderate Sleep,Average
+898,23,Female,Graduate,Other,7.4,YouTube,Yes,5.7,4.2,Negative,High,Moderate Sleep,Average
+279,21,Male,Undergraduate,Other,5.6,YouTube,Yes,4.9,5.5,Negative,Moderate,Low Sleep,Average
+804,19,Female,High School,Other,4.6,LinkedIn,Yes,7.2,6.5,Neutral,Moderate,Adequate Sleep,Average
+154,19,Female,Graduate,USA,6.1,Facebook,Yes,4.8,4.2,Negative,High,Low Sleep,Average
+273,20,Female,Undergraduate,Other,4.2,Snapchat,No,6.2,6.7,Neutral,Moderate,Moderate Sleep,Average
+832,22,Female,Undergraduate,Other,3.7,LinkedIn,No,6.2,6.9,Neutral,Moderate,Moderate Sleep,Average
+651,23,Male,Undergraduate,Other,6.1,LinkedIn,No,5.6,4.5,Negative,High,Moderate Sleep,Average
+466,19,Female,Graduate,USA,6.1,TikTok,Yes,5.5,5.6,Negative,High,Moderate Sleep,Average
+849,20,Male,High School,USA,2.7,LinkedIn,No,7.6,8.9,Positive,Low,Adequate Sleep,Good
+665,20,Male,Undergraduate,Other,6.0,Snapchat,No,5.8,4.9,Negative,Moderate,Moderate Sleep,Average
+212,23,Male,Graduate,Other,6.4,TikTok,Yes,5.4,4.6,Negative,High,Moderate Sleep,Average
+498,21,Male,Graduate,UK,5.7,YouTube,Yes,5.3,5.8,Negative,Moderate,Moderate Sleep,Average
+249,20,Male,High School,Other,7.0,Instagram,Yes,5.3,5.1,Negative,High,Moderate Sleep,Average
+196,23,Female,Graduate,Other,7.7,Facebook,Yes,5.7,4.6,Negative,High,Moderate Sleep,Average
+435,19,Male,Graduate,Other,6.3,TikTok,Yes,4.8,4.0,Negative,High,Low Sleep,Poor
+336,20,Female,Undergraduate,Other,5.7,Twitter,Yes,5.2,5.5,Negative,Moderate,Moderate Sleep,Average
+482,18,Male,Undergraduate,Other,8.2,LinkedIn,Yes,5.2,4.6,Negative,High,Moderate Sleep,Average
+194,19,Female,Undergraduate,Other,6.4,Twitter,Yes,5.5,4.4,Negative,High,Moderate Sleep,Average
+690,22,Male,High School,India,6.6,TikTok,Yes,4.7,4.3,Negative,High,Low Sleep,Average
+514,18,Female,Undergraduate,Other,6.0,LinkedIn,Yes,4.6,5.4,Negative,Moderate,Low Sleep,Average
+779,21,Female,High School,Germany,5.9,LinkedIn,Yes,5.1,5.9,Negative,Moderate,Moderate Sleep,Average
+716,23,Female,Undergraduate,Australia,7.4,LinkedIn,No,5.1,4.3,Negative,High,Moderate Sleep,Average
+661,19,Male,Graduate,Other,5.8,Snapchat,Yes,5.6,4.5,Negative,Moderate,Moderate Sleep,Average
+470,21,Female,High School,Other,5.8,Instagram,Yes,6.0,4.4,Negative,Moderate,Moderate Sleep,Average
+553,21,Male,High School,Other,1.8,LinkedIn,No,9.0,8.2,Positive,Low,Adequate Sleep,Good
+877,18,Male,Graduate,Other,6.5,Snapchat,No,5.4,4.1,Negative,High,Moderate Sleep,Average
+797,23,Male,Undergraduate,Other,3.8,Instagram,Yes,6.5,6.6,Neutral,Moderate,Moderate Sleep,Average
+264,18,Male,High School,Other,8.0,TikTok,Yes,5.6,4.5,Negative,High,Moderate Sleep,Average
+835,19,Male,Undergraduate,India,7.7,Twitter,Yes,5.5,4.7,Negative,High,Moderate Sleep,Average
+61,19,Male,Undergraduate,Other,8.1,Snapchat,Yes,5.2,5.0,Negative,High,Moderate Sleep,Average
+675,22,Male,Undergraduate,Other,6.2,TikTok,No,5.2,5.8,Negative,High,Moderate Sleep,Average
+191,18,Female,Undergraduate,Other,4.9,Facebook,No,7.1,6.6,Neutral,Moderate,Adequate Sleep,Average
+269,23,Male,High School,Other,3.9,YouTube,No,8.5,8.9,Positive,Moderate,Adequate Sleep,Good
+394,21,Male,Undergraduate,Other,6.6,Twitter,No,5.0,6.0,Negative,High,Low Sleep,Average
+320,22,Male,High School,Other,6.2,Instagram,No,4.7,4.4,Negative,High,Low Sleep,Average
+924,24,Male,Graduate,UK,2.4,Facebook,No,7.5,7.1,Positive,Low,Adequate Sleep,Good
+544,19,Male,Undergraduate,Other,3.6,Instagram,Yes,8.7,8.5,Positive,Moderate,Adequate Sleep,Good
+8,18,Male,High School,Other,2.8,Instagram,Yes,8.8,8.6,Positive,Low,Adequate Sleep,Good
+411,23,Male,High School,Other,1.6,YouTube,No,7.1,8.1,Positive,Low,Adequate Sleep,Good
+91,22,Male,High School,USA,7.3,Facebook,Yes,5.9,4.4,Negative,High,Moderate Sleep,Average
+221,18,Female,High School,Canada,6.8,YouTube,Yes,5.2,5.2,Negative,High,Moderate Sleep,Average
+197,22,Male,Undergraduate,Other,7.7,Facebook,Yes,5.0,6.0,Negative,High,Low Sleep,Average
+912,23,Female,Graduate,Germany,5.5,LinkedIn,No,7.3,6.9,Neutral,Moderate,Adequate Sleep,Average
+438,22,Male,High School,Other,6.2,TikTok,No,5.5,5.9,Negative,High,Moderate Sleep,Average
+885,24,Female,Graduate,Other,4.6,LinkedIn,Yes,6.8,6.4,Neutral,Moderate,Moderate Sleep,Average
+589,20,Male,Graduate,Other,7.2,Facebook,Yes,5.6,5.6,Negative,High,Moderate Sleep,Average
+362,24,Male,Graduate,Other,3.3,TikTok,Yes,7.7,7.7,Positive,Moderate,Adequate Sleep,Good
+297,23,Male,Graduate,Other,5.4,YouTube,Yes,6.6,6.4,Neutral,Moderate,Moderate Sleep,Average
+501,23,Female,Undergraduate,Other,3.2,TikTok,No,7.6,9.0,Positive,Moderate,Adequate Sleep,Good
+841,18,Female,Graduate,Other,3.7,Snapchat,No,7.9,7.3,Positive,Moderate,Adequate Sleep,Good
+954,19,Female,High School,Other,6.3,Snapchat,Yes,5.7,5.4,Negative,High,Moderate Sleep,Average
+989,21,Female,Undergraduate,Australia,7.5,YouTube,Yes,5.0,4.8,Negative,High,Low Sleep,Average
+775,23,Female,Graduate,Other,6.0,Facebook,Yes,6.0,5.7,Negative,Moderate,Moderate Sleep,Average
+299,20,Male,High School,India,8.2,TikTok,No,5.8,5.9,Negative,High,Moderate Sleep,Average
+122,18,Female,High School,Other,6.1,YouTube,Yes,5.5,4.5,Negative,High,Moderate Sleep,Average
+763,19,Female,Graduate,Other,8.2,Instagram,Yes,4.5,5.8,Negative,High,Low Sleep,Average
+259,24,Male,Graduate,Other,5.3,LinkedIn,No,7.0,6.2,Neutral,Moderate,Moderate Sleep,Average
+857,22,Male,Undergraduate,Other,5.8,YouTube,Yes,7.2,6.0,Neutral,Moderate,Adequate Sleep,Average
+115,22,Female,Undergraduate,USA,7.2,YouTube,Yes,4.6,5.4,Negative,High,Low Sleep,Average
+734,23,Male,Undergraduate,UK,4.0,Snapchat,No,7.2,6.2,Neutral,Moderate,Adequate Sleep,Average
+293,20,Female,Undergraduate,Other,3.3,LinkedIn,No,7.5,8.3,Positive,Moderate,Adequate Sleep,Good
+938,22,Male,High School,India,6.1,Snapchat,Yes,4.5,5.8,Negative,High,Low Sleep,Average
+211,18,Female,High School,India,6.8,Facebook,No,4.8,4.2,Negative,High,Low Sleep,Average
+410,24,Male,Undergraduate,Other,3.4,Snapchat,No,7.1,8.3,Positive,Moderate,Adequate Sleep,Good
+541,24,Female,High School,Other,7.7,Instagram,Yes,4.8,4.8,Negative,High,Low Sleep,Average
+670,23,Female,High School,Other,7.6,Instagram,Yes,4.7,5.6,Negative,High,Low Sleep,Average
+510,24,Female,Graduate,India,4.7,Snapchat,No,6.6,6.8,Neutral,Moderate,Moderate Sleep,Average
+978,20,Male,Graduate,Other,4.9,Facebook,Yes,7.4,6.1,Neutral,Moderate,Adequate Sleep,Average
+133,23,Male,Undergraduate,Other,8.0,LinkedIn,Yes,4.9,5.9,Negative,High,Low Sleep,Average
+812,24,Male,Graduate,Other,7.2,YouTube,No,5.9,5.9,Negative,High,Moderate Sleep,Average
+605,22,Female,High School,USA,1.7,LinkedIn,No,7.9,8.3,Positive,Low,Adequate Sleep,Good
+640,24,Female,High School,Other,4.6,TikTok,No,6.8,6.5,Neutral,Moderate,Moderate Sleep,Average
+836,18,Male,High School,Australia,4.4,Facebook,Yes,6.5,6.5,Neutral,Moderate,Moderate Sleep,Average
+423,24,Female,High School,Other,3.7,TikTok,No,8.8,8.8,Positive,Moderate,Adequate Sleep,Good
+945,18,Female,High School,Other,1.8,YouTube,No,7.9,8.0,Positive,Low,Adequate Sleep,Good
+536,23,Female,High School,USA,7.7,YouTube,No,4.9,5.8,Negative,High,Low Sleep,Average
+733,18,Male,Graduate,USA,4.5,Facebook,Yes,7.2,6.5,Neutral,Moderate,Adequate Sleep,Average
+484,22,Male,High School,Australia,8.1,Facebook,Yes,5.2,5.5,Negative,High,Moderate Sleep,Average
+711,23,Male,Undergraduate,Other,3.5,YouTube,No,7.8,7.2,Positive,Moderate,Adequate Sleep,Good
+190,21,Female,Undergraduate,Canada,3.4,Instagram,No,7.0,7.3,Positive,Moderate,Moderate Sleep,Good
+762,20,Male,High School,Other,4.0,TikTok,Yes,7.1,7.3,Positive,Moderate,Adequate Sleep,Good
+683,24,Male,Graduate,Other,3.8,TikTok,Yes,6.0,6.1,Neutral,Moderate,Moderate Sleep,Average
+478,23,Male,Graduate,India,3.8,Twitter,Yes,6.6,6.7,Neutral,Moderate,Moderate Sleep,Average
+942,18,Male,Undergraduate,Other,5.6,Twitter,No,6.9,6.0,Neutral,Moderate,Moderate Sleep,Average
+860,23,Female,Undergraduate,Australia,4.3,Instagram,No,6.4,6.5,Neutral,Moderate,Moderate Sleep,Average
+95,22,Female,Undergraduate,UK,4.1,Snapchat,No,6.1,6.2,Neutral,Moderate,Moderate Sleep,Average
+450,21,Female,Undergraduate,India,2.5,YouTube,No,7.2,7.0,Positive,Low,Adequate Sleep,Average
+208,23,Male,High School,India,4.5,LinkedIn,Yes,6.2,6.4,Neutral,Moderate,Moderate Sleep,Average
+255,22,Female,High School,Other,7.7,Facebook,No,5.8,5.5,Negative,High,Moderate Sleep,Average
+944,24,Male,Graduate,USA,5.2,Facebook,Yes,7.3,6.1,Neutral,Moderate,Adequate Sleep,Average
+643,22,Female,High School,Australia,8.0,Facebook,Yes,5.1,4.9,Negative,High,Moderate Sleep,Average
+550,23,Male,Undergraduate,Other,6.9,Snapchat,Yes,5.7,5.7,Negative,High,Moderate Sleep,Average
+367,20,Male,High School,Canada,4.3,LinkedIn,No,6.6,6.7,Neutral,Moderate,Moderate Sleep,Average
+463,20,Male,High School,Other,3.5,YouTube,No,8.3,8.2,Positive,Moderate,Adequate Sleep,Good
+666,21,Male,Undergraduate,UK,7.6,LinkedIn,Yes,6.0,4.5,Negative,High,Moderate Sleep,Average
+659,19,Female,Graduate,Other,6.1,LinkedIn,Yes,5.8,4.1,Negative,High,Moderate Sleep,Average
+676,19,Male,Graduate,Other,7.0,YouTube,Yes,5.4,5.9,Negative,High,Moderate Sleep,Average
+770,18,Male,Undergraduate,Other,6.0,YouTube,Yes,5.9,4.1,Negative,Moderate,Moderate Sleep,Average
+669,24,Male,High School,Other,7.0,LinkedIn,Yes,5.0,4.5,Negative,High,Low Sleep,Average
+403,23,Female,Graduate,Other,2.7,Instagram,No,7.8,8.8,Positive,Low,Adequate Sleep,Good
+311,21,Male,High School,USA,3.9,Snapchat,No,7.1,7.5,Positive,Moderate,Adequate Sleep,Good
+494,19,Female,Graduate,Other,5.5,Twitter,Yes,5.4,5.2,Negative,Moderate,Moderate Sleep,Average
+172,22,Male,Graduate,Other,1.9,Facebook,No,8.4,8.5,Positive,Low,Adequate Sleep,Good
+158,23,Female,Undergraduate,Other,1.8,LinkedIn,No,8.2,7.2,Positive,Low,Adequate Sleep,Good
+685,23,Male,High School,Other,4.9,Facebook,Yes,6.3,6.1,Neutral,Moderate,Moderate Sleep,Average
+748,20,Male,Undergraduate,UK,4.3,LinkedIn,Yes,6.2,6.2,Neutral,Moderate,Moderate Sleep,Average
+440,19,Female,High School,Other,2.9,YouTube,Yes,7.1,8.8,Positive,Low,Adequate Sleep,Good
+497,22,Female,Graduate,Germany,7.2,Facebook,Yes,5.4,5.7,Negative,High,Moderate Sleep,Average
+433,22,Male,Undergraduate,Other,7.9,LinkedIn,Yes,4.7,4.1,Negative,High,Low Sleep,Average
+105,19,Female,Undergraduate,Germany,2.5,Instagram,No,8.3,7.2,Positive,Low,Adequate Sleep,Good
+694,21,Female,Graduate,Other,3.8,LinkedIn,No,7.4,7.3,Positive,Moderate,Adequate Sleep,Good
+266,20,Female,Undergraduate,Other,5.8,Snapchat,Yes,7.2,6.1,Neutral,Moderate,Adequate Sleep,Average
+240,20,Male,Undergraduate,Other,5.9,Facebook,Yes,5.8,4.7,Negative,Moderate,Moderate Sleep,Average
+151,22,Male,High School,Other,2.6,Instagram,No,7.5,8.8,Positive,Low,Adequate Sleep,Good
+280,18,Female,Graduate,Other,5.2,Twitter,Yes,6.8,6.9,Neutral,Moderate,Moderate Sleep,Average
+964,21,Male,High School,Other,1.7,Snapchat,No,8.5,7.7,Positive,Low,Adequate Sleep,Good
+719,20,Male,Graduate,Australia,2.8,Twitter,No,7.0,7.8,Positive,Low,Moderate Sleep,Good
+445,19,Male,Graduate,Other,3.8,Facebook,No,7.4,8.8,Positive,Moderate,Adequate Sleep,Good
+29,24,Male,High School,Other,5.1,LinkedIn,Yes,6.5,6.8,Neutral,Moderate,Moderate Sleep,Average
+205,23,Male,Graduate,India,3.7,Instagram,Yes,6.5,6.9,Neutral,Moderate,Moderate Sleep,Average
+976,23,Female,Undergraduate,India,1.5,Snapchat,No,7.2,7.7,Positive,Low,Adequate Sleep,Good
+531,18,Female,Graduate,UK,3.5,Facebook,No,7.9,8.5,Positive,Moderate,Adequate Sleep,Good
+439,23,Male,Graduate,Other,3.8,Facebook,No,6.5,6.4,Neutral,Moderate,Moderate Sleep,Average
+673,21,Female,Undergraduate,Other,4.1,YouTube,No,6.2,6.6,Neutral,Moderate,Moderate Sleep,Average
+902,21,Female,High School,Other,5.4,Snapchat,Yes,6.3,6.5,Neutral,Moderate,Moderate Sleep,Average
+591,21,Female,Graduate,Other,6.7,YouTube,Yes,5.5,4.9,Negative,High,Moderate Sleep,Average
+888,21,Male,High School,Other,7.4,Facebook,Yes,5.3,5.5,Negative,High,Moderate Sleep,Average
+621,24,Male,Undergraduate,India,3.8,Facebook,No,6.3,6.8,Neutral,Moderate,Moderate Sleep,Average
+471,19,Male,Graduate,Other,7.4,LinkedIn,Yes,5.7,5.7,Negative,High,Moderate Sleep,Average
+709,22,Female,Undergraduate,Other,2.0,LinkedIn,No,7.5,8.3,Positive,Low,Adequate Sleep,Good
+356,22,Male,Graduate,Other,7.3,Facebook,Yes,5.8,5.3,Negative,High,Moderate Sleep,Average
+142,24,Female,High School,Canada,5.8,Facebook,Yes,5.5,4.1,Negative,Moderate,Moderate Sleep,Average
+468,22,Female,Undergraduate,Canada,7.2,Snapchat,Yes,5.1,4.6,Negative,High,Moderate Sleep,Average
+943,24,Female,Graduate,Other,3.6,LinkedIn,No,8.4,7.6,Positive,Moderate,Adequate Sleep,Good
+680,21,Female,High School,Other,7.6,TikTok,Yes,5.2,4.1,Negative,High,Moderate Sleep,Average
+623,22,Female,Undergraduate,Other,3.8,TikTok,No,7.4,6.8,Neutral,Moderate,Adequate Sleep,Average
+757,21,Male,Undergraduate,Other,6.1,Twitter,Yes,5.8,4.4,Negative,High,Moderate Sleep,Average
+667,20,Female,Graduate,UK,2.9,TikTok,No,7.5,7.9,Positive,Low,Adequate Sleep,Good
+882,24,Female,High School,Other,3.7,Instagram,Yes,8.8,9.0,Positive,Moderate,Adequate Sleep,Good
+641,21,Female,Undergraduate,Australia,7.0,Facebook,Yes,5.9,4.1,Negative,High,Moderate Sleep,Average
+67,22,Female,Undergraduate,Other,3.9,Instagram,No,7.7,8.3,Positive,Moderate,Adequate Sleep,Good
+36,19,Male,High School,Other,6.0,YouTube,Yes,5.6,4.2,Negative,Moderate,Moderate Sleep,Average
+81,18,Male,Undergraduate,Other,2.3,TikTok,No,8.0,7.2,Positive,Low,Adequate Sleep,Good
+51,22,Female,Undergraduate,Other,2.3,TikTok,Yes,8.0,8.5,Positive,Low,Adequate Sleep,Good
+887,19,Male,High School,India,3.5,Twitter,Yes,6.0,7.0,Neutral,Moderate,Moderate Sleep,Average
+916,22,Male,High School,Other,7.8,Instagram,No,6.0,5.3,Negative,High,Moderate Sleep,Average
+886,19,Male,Undergraduate,UK,7.4,Instagram,Yes,5.2,4.7,Negative,High,Moderate Sleep,Average
+416,20,Female,Undergraduate,Germany,3.2,LinkedIn,No,8.9,7.5,Positive,Moderate,Adequate Sleep,Good
+351,23,Male,Graduate,Australia,5.8,Twitter,Yes,4.8,5.0,Negative,Moderate,Low Sleep,Average
+396,21,Female,Undergraduate,Other,6.9,Instagram,Yes,5.7,4.6,Negative,High,Moderate Sleep,Average
+839,22,Male,High School,Other,2.6,Twitter,No,8.2,7.2,Positive,Low,Adequate Sleep,Good
+481,20,Male,Undergraduate,Other,2.3,YouTube,No,7.2,7.4,Positive,Low,Adequate Sleep,Good
+988,23,Male,Graduate,USA,5.5,Instagram,Yes,5.9,4.3,Negative,Moderate,Moderate Sleep,Average
+756,24,Male,Graduate,Australia,4.0,Snapchat,No,8.6,8.6,Positive,Moderate,Adequate Sleep,Good
+349,19,Male,Undergraduate,Other,6.2,LinkedIn,No,4.7,4.3,Negative,High,Low Sleep,Average
+963,18,Male,Graduate,Other,4.7,Snapchat,No,6.1,6.6,Neutral,Moderate,Moderate Sleep,Average
+429,20,Female,Graduate,UK,3.7,YouTube,No,8.6,8.4,Positive,Moderate,Adequate Sleep,Good
+855,19,Female,Undergraduate,Other,6.0,LinkedIn,No,6.0,5.8,Negative,Moderate,Moderate Sleep,Average
+538,24,Male,Graduate,Other,7.8,TikTok,Yes,5.0,4.8,Negative,High,Low Sleep,Average
+413,20,Male,Graduate,USA,3.9,Instagram,No,6.6,6.8,Neutral,Moderate,Moderate Sleep,Average
+713,19,Female,Undergraduate,Other,7.2,YouTube,Yes,5.9,5.0,Negative,High,Moderate Sleep,Average
+96,21,Female,High School,Other,6.2,Twitter,No,5.4,5.4,Negative,High,Moderate Sleep,Average
+561,21,Female,Undergraduate,Canada,7.7,Twitter,Yes,5.6,4.5,Negative,High,Moderate Sleep,Average
+1,22,Male,High School,USA,4.0,Twitter,No,7.6,8.6,Positive,Moderate,Adequate Sleep,Good
+647,22,Female,Undergraduate,USA,4.2,LinkedIn,No,6.8,6.5,Neutral,Moderate,Moderate Sleep,Average
+769,24,Female,Graduate,USA,3.9,LinkedIn,No,7.2,6.7,Neutral,Moderate,Adequate Sleep,Average
+527,21,Male,High School,UK,4.7,TikTok,Yes,6.2,6.3,Neutral,Moderate,Moderate Sleep,Average
+195,23,Male,High School,India,7.3,Snapchat,No,5.0,5.8,Negative,High,Low Sleep,Average
+139,23,Female,High School,India,6.4,TikTok,No,5.3,4.9,Negative,High,Moderate Sleep,Average
+38,20,Female,Graduate,Other,3.3,YouTube,No,7.4,7.1,Positive,Moderate,Adequate Sleep,Good
+696,19,Female,Graduate,Other,6.7,Twitter,Yes,6.0,4.6,Negative,High,Moderate Sleep,Average
+235,21,Male,High School,Other,7.6,Facebook,Yes,5.1,4.3,Negative,High,Moderate Sleep,Average
+464,23,Male,High School,Other,4.5,Instagram,Yes,6.6,6.3,Neutral,Moderate,Moderate Sleep,Average
+303,19,Male,Graduate,Other,3.0,YouTube,No,7.1,8.3,Positive,Low,Adequate Sleep,Good
+604,21,Female,High School,Other,6.2,Facebook,No,5.1,4.6,Negative,High,Moderate Sleep,Average
+727,18,Female,High School,Other,6.6,Instagram,Yes,5.4,5.4,Negative,High,Moderate Sleep,Average
+503,23,Male,Graduate,Other,8.4,Twitter,Yes,4.6,5.6,Negative,High,Low Sleep,Average
+409,23,Female,Undergraduate,UK,7.0,Snapchat,Yes,5.6,5.9,Negative,High,Moderate Sleep,Average
+848,23,Female,High School,USA,7.9,Snapchat,Yes,5.8,5.1,Negative,High,Moderate Sleep,Average
+600,24,Female,Graduate,Other,3.6,Facebook,No,8.4,8.9,Positive,Moderate,Adequate Sleep,Good
+861,24,Male,Undergraduate,Canada,5.5,Snapchat,Yes,4.6,5.1,Negative,Moderate,Low Sleep,Average
+243,21,Male,Graduate,Other,2.0,Instagram,No,7.1,7.7,Positive,Low,Adequate Sleep,Good
+705,19,Male,High School,Australia,5.8,Facebook,Yes,7.4,6.2,Neutral,Moderate,Adequate Sleep,Average
+940,18,Female,Graduate,Other,6.3,YouTube,Yes,5.5,4.2,Negative,High,Moderate Sleep,Average
+127,19,Male,Undergraduate,Other,3.2,LinkedIn,No,9.0,8.3,Positive,Moderate,Adequate Sleep,Good
+333,24,Female,High School,Other,1.7,YouTube,No,8.5,8.8,Positive,Low,Adequate Sleep,Good
+55,18,Female,Graduate,Other,7.0,Snapchat,Yes,4.8,4.4,Negative,High,Low Sleep,Average
+339,22,Male,Undergraduate,Other,4.8,Snapchat,No,6.4,6.4,Neutral,Moderate,Moderate Sleep,Average
+307,24,Female,Undergraduate,Other,6.4,Facebook,No,5.0,4.5,Negative,High,Low Sleep,Average
+609,23,Male,Undergraduate,India,1.8,TikTok,Yes,8.7,7.5,Positive,Low,Adequate Sleep,Good
+996,18,Male,Graduate,Other,7.0,Twitter,Yes,5.1,4.8,Negative,High,Moderate Sleep,Average
+820,22,Male,High School,Other,2.6,YouTube,No,7.7,8.4,Positive,Low,Adequate Sleep,Good
+533,21,Female,High School,Other,1.7,Twitter,No,7.3,8.0,Positive,Low,Adequate Sleep,Good
+911,20,Male,Graduate,Other,5.0,Instagram,No,7.0,6.8,Neutral,Moderate,Moderate Sleep,Average
+972,23,Male,Undergraduate,Other,6.0,Instagram,Yes,5.4,5.1,Negative,Moderate,Moderate Sleep,Average
+905,19,Female,Undergraduate,Other,8.3,YouTube,No,5.9,4.7,Negative,High,Moderate Sleep,Average
+870,21,Male,High School,Other,3.7,LinkedIn,No,7.0,8.5,Positive,Moderate,Moderate Sleep,Good
+381,18,Female,Graduate,Other,8.4,Snapchat,Yes,5.5,5.6,Negative,High,Moderate Sleep,Average
+359,19,Female,Undergraduate,Other,5.5,Twitter,No,5.1,5.3,Negative,Moderate,Moderate Sleep,Average
+284,21,Male,Graduate,Other,8.0,YouTube,Yes,5.0,4.6,Negative,High,Low Sleep,Average
+547,22,Male,Undergraduate,Australia,2.2,YouTube,No,8.6,8.6,Positive,Low,Adequate Sleep,Good
+502,22,Female,Undergraduate,Other,7.2,Twitter,Yes,5.9,5.3,Negative,High,Moderate Sleep,Average
+173,18,Male,Graduate,Other,5.9,Instagram,Yes,5.6,4.5,Negative,Moderate,Moderate Sleep,Average
+884,24,Male,Undergraduate,Other,7.0,Instagram,Yes,5.8,5.1,Negative,High,Moderate Sleep,Average
+163,18,Female,Graduate,Germany,1.9,YouTube,No,7.7,7.8,Positive,Low,Adequate Sleep,Good
+759,20,Male,Graduate,Other,6.0,YouTube,Yes,5.3,5.0,Negative,Moderate,Moderate Sleep,Average
+923,18,Male,High School,India,5.3,Snapchat,No,6.3,6.6,Neutral,Moderate,Moderate Sleep,Average
+241,18,Male,Undergraduate,Other,7.1,Snapchat,No,4.6,5.2,Negative,High,Low Sleep,Average
+880,22,Female,Graduate,Other,6.2,YouTube,Yes,5.6,4.6,Negative,High,Moderate Sleep,Average
+1,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+2,22,Male,Graduate,India,2.1,Twitter,No,7.5,8.0,Neutral,Low,Adequate Sleep,Good
+3,20,Female,Undergraduate,USA,6.0,TikTok,Yes,5.0,5.0,Negative,Moderate,Low Sleep,Average
+4,18,Male,High School,UK,3.0,YouTube,No,7.0,7.0,Positive,Low,Moderate Sleep,Average
+5,21,Male,Graduate,Canada,4.5,Facebook,Yes,6.0,6.0,Negative,Moderate,Moderate Sleep,Average
+6,19,Female,Undergraduate,Australia,7.2,Instagram,Yes,4.5,4.0,Negative,High,Low Sleep,Poor
+7,23,Male,Graduate,Germany,1.5,LinkedIn,No,8.0,9.0,Neutral,Low,Adequate Sleep,Good
+8,20,Female,Undergraduate,Brazil,5.8,Snapchat,Yes,6.0,6.0,Negative,Moderate,Moderate Sleep,Average
+9,18,Male,High School,Japan,4.0,TikTok,No,6.5,7.0,Positive,Moderate,Moderate Sleep,Average
+10,21,Female,Graduate,South Korea,3.3,Instagram,No,7.0,7.0,Positive,Moderate,Moderate Sleep,Average
+11,19,Male,Undergraduate,France,4.8,Snapchat,Yes,6.2,5.0,Negative,Moderate,Moderate Sleep,Average
+12,20,Female,Undergraduate,Spain,5.5,TikTok,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+13,22,Male,Graduate,Italy,2.8,LinkedIn,No,7.2,8.0,Positive,Low,Adequate Sleep,Good
+14,18,Female,High School,Mexico,6.5,Instagram,Yes,5.5,5.0,Negative,High,Moderate Sleep,Average
+15,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7.0,Positive,Moderate,Moderate Sleep,Average
+16,20,Female,Undergraduate,China,4.2,TikTok,Yes,6.0,6.0,Negative,Moderate,Moderate Sleep,Average
+17,24,Male,Graduate,Sweden,2.0,LinkedIn,No,7.8,8.0,Neutral,Low,Adequate Sleep,Good
+18,19,Female,High School,Norway,5.0,Instagram,Yes,5.7,5.0,Negative,Moderate,Moderate Sleep,Average
+19,21,Male,Undergraduate,Denmark,3.5,Facebook,No,6.7,7.0,Positive,Moderate,Moderate Sleep,Average
+20,20,Female,Undergraduate,Netherlands,4.7,Snapchat,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+21,18,Male,High School,Belgium,5.3,TikTok,Yes,5.5,5.0,Negative,Moderate,Moderate Sleep,Average
+22,23,Female,Graduate,Switzerland,2.5,LinkedIn,No,7.3,8.0,Positive,Low,Adequate Sleep,Good
+23,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+24,20,Female,Undergraduate,Portugal,5.7,TikTok,Yes,5.4,5.0,Negative,Moderate,Moderate Sleep,Average
+25,22,Male,Graduate,Greece,3.2,Facebook,No,6.9,7.0,Positive,Moderate,Moderate Sleep,Average
+26,19,Female,High School,Ireland,6.1,Instagram,Yes,5.2,5.0,Negative,High,Moderate Sleep,Average
+27,21,Male,Undergraduate,New Zealand,3.8,YouTube,No,6.6,7.0,Positive,Moderate,Moderate Sleep,Average
+28,20,Female,Undergraduate,Singapore,4.4,TikTok,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+29,24,Male,Graduate,Malaysia,2.2,LinkedIn,No,7.4,8.0,Neutral,Low,Adequate Sleep,Good
+30,19,Female,High School,Thailand,5.9,Instagram,Yes,5.3,5.0,Negative,Moderate,Moderate Sleep,Average
+31,21,Male,Undergraduate,Vietnam,3.6,Facebook,No,6.7,7.0,Positive,Moderate,Moderate Sleep,Average
+32,20,Female,Undergraduate,Philippines,4.8,Snapchat,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+33,18,Male,High School,Indonesia,5.4,TikTok,Yes,5.4,5.0,Negative,Moderate,Moderate Sleep,Average
+34,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8.0,Positive,Low,Adequate Sleep,Good
+35,19,Male,Undergraduate,Hong Kong,4.7,Instagram,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+36,20,Female,Undergraduate,Turkey,5.6,TikTok,Yes,5.5,5.0,Negative,Moderate,Moderate Sleep,Average
+37,22,Male,Graduate,Israel,3.1,Facebook,No,6.8,7.0,Positive,Moderate,Moderate Sleep,Average
+38,19,Female,High School,UAE,6.2,Instagram,Yes,5.1,5.0,Negative,High,Moderate Sleep,Average
+39,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.5,7.0,Negative,Moderate,Moderate Sleep,Average
+40,20,Female,Undergraduate,Morocco,4.5,TikTok,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+41,24,Male,Graduate,South Africa,2.3,LinkedIn,No,7.3,8.0,Positive,Low,Adequate Sleep,Good
+42,19,Female,High School,Nigeria,5.8,Instagram,Yes,5.4,5.0,Negative,Moderate,Moderate Sleep,Average
+43,21,Male,Undergraduate,Kenya,3.7,Facebook,No,6.6,7.0,Positive,Moderate,Moderate Sleep,Average
+44,20,Female,Undergraduate,Ghana,4.6,Snapchat,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+45,18,Male,High School,Argentina,5.5,TikTok,Yes,5.3,5.0,Negative,Moderate,Moderate Sleep,Average
+46,23,Female,Graduate,Chile,2.7,LinkedIn,No,7.1,8.0,Positive,Low,Adequate Sleep,Good
+47,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+48,20,Female,Undergraduate,Peru,5.5,TikTok,Yes,5.6,5.0,Negative,Moderate,Moderate Sleep,Average
+49,22,Male,Graduate,Venezuela,3.3,Facebook,No,6.7,7.0,Positive,Moderate,Moderate Sleep,Average
+50,19,Female,High School,Ecuador,6.3,Instagram,Yes,5.2,5.0,Negative,High,Moderate Sleep,Average
+51,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7.0,Negative,Moderate,Moderate Sleep,Average
+52,20,Female,Undergraduate,Paraguay,4.7,TikTok,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+53,24,Male,Graduate,Bolivia,2.4,LinkedIn,No,7.2,8.0,Positive,Low,Adequate Sleep,Good
+54,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.5,5.0,Negative,Moderate,Moderate Sleep,Average
+55,21,Male,Undergraduate,Panama,3.6,Facebook,No,6.5,7.0,Positive,Moderate,Moderate Sleep,Average
+56,20,Female,Undergraduate,Jamaica,4.9,Snapchat,Yes,5.6,6.0,Negative,Moderate,Moderate Sleep,Average
+57,18,Male,High School,Trinidad,5.6,TikTok,Yes,5.2,5.0,Negative,Moderate,Moderate Sleep,Average
+58,23,Female,Graduate,Bahamas,2.8,LinkedIn,No,7.0,8.0,Positive,Low,Moderate Sleep,Good
+59,19,Male,Undergraduate,Iceland,4.6,Instagram,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+60,20,Female,Undergraduate,Finland,5.4,TikTok,Yes,5.7,5.0,Negative,Moderate,Moderate Sleep,Average
+61,22,Male,Graduate,Poland,3.1,Facebook,No,7.1,7.0,Positive,Moderate,Adequate Sleep,Average
+62,19,Female,Undergraduate,Romania,5.6,Instagram,Yes,5.6,5.0,Negative,Moderate,Moderate Sleep,Average
+63,20,Male,Undergraduate,Hungary,4.2,TikTok,Yes,6.0,6.0,Negative,Moderate,Moderate Sleep,Average
+64,18,Female,High School,Czech Republic,6.1,Snapchat,Yes,5.2,4.0,Negative,High,Moderate Sleep,Poor
+65,23,Male,Graduate,Slovakia,2.3,LinkedIn,No,7.4,8.0,Neutral,Low,Adequate Sleep,Good
+66,21,Female,Undergraduate,Croatia,4.8,Instagram,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+67,20,Male,Undergraduate,Serbia,3.9,YouTube,No,6.5,7.0,Negative,Moderate,Moderate Sleep,Average
+68,19,Female,High School,Slovenia,5.7,TikTok,Yes,5.4,5.0,Negative,Moderate,Moderate Sleep,Average
+69,22,Male,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,8.0,Positive,Low,Adequate Sleep,Good
+70,20,Female,Undergraduate,Estonia,4.5,Instagram,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+71,18,Male,High School,Latvia,5.4,Snapchat,Yes,5.5,5.0,Negative,Moderate,Moderate Sleep,Average
+72,21,Female,Graduate,Lithuania,3.2,Facebook,No,6.8,7.0,Positive,Moderate,Moderate Sleep,Average
+73,19,Male,Undergraduate,Ukraine,4.9,TikTok,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+74,20,Female,Undergraduate,Moldova,5.8,Instagram,Yes,5.3,5.0,Negative,Moderate,Moderate Sleep,Average
+75,23,Male,Graduate,Belarus,2.5,LinkedIn,No,7.3,8.0,Positive,Low,Adequate Sleep,Good
+76,21,Female,Undergraduate,Kazakhstan,4.6,Snapchat,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+77,19,Male,High School,Uzbekistan,5.5,TikTok,Yes,5.4,5.0,Negative,Moderate,Moderate Sleep,Average
+78,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7.0,7.0,Positive,Low,Moderate Sleep,Average
+79,20,Male,Undergraduate,Tajikistan,4.7,YouTube,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+80,18,Female,High School,Armenia,5.9,Instagram,Yes,5.2,5.0,Negative,Moderate,Moderate Sleep,Average
+81,21,Male,Graduate,Georgia,3.0,LinkedIn,No,7.1,8.0,Positive,Low,Adequate Sleep,Good
+82,19,Female,Undergraduate,Azerbaijan,4.8,TikTok,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+83,20,Male,Undergraduate,Cyprus,3.8,Facebook,No,6.6,7.0,Negative,Moderate,Moderate Sleep,Average
+84,22,Female,Graduate,Malta,2.7,LinkedIn,No,7.2,8.0,Positive,Low,Adequate Sleep,Good
+85,18,Male,High School,Luxembourg,5.6,Snapchat,Yes,5.3,5.0,Negative,Moderate,Moderate Sleep,Average
+86,21,Female,Undergraduate,Monaco,4.5,Instagram,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+87,19,Male,High School,Andorra,5.3,TikTok,Yes,5.5,5.0,Negative,Moderate,Moderate Sleep,Average
+88,23,Female,Graduate,San Marino,2.6,LinkedIn,No,7.3,8.0,Positive,Low,Adequate Sleep,Good
+89,20,Male,Undergraduate,Vatican City,4.4,YouTube,Yes,6.0,6.0,Negative,Moderate,Moderate Sleep,Average
+90,18,Female,High School,Liechtenstein,5.8,Instagram,Yes,5.2,5.0,Negative,Moderate,Moderate Sleep,Average
+91,22,Male,Graduate,Montenegro,2.9,Facebook,No,7.0,7.0,Positive,Low,Moderate Sleep,Average
+92,19,Female,Undergraduate,Albania,4.7,TikTok,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+93,21,Male,Undergraduate,North Macedonia,3.7,Snapchat,No,6.5,7.0,Negative,Moderate,Moderate Sleep,Average
+94,20,Female,High School,Kosovo,5.5,Instagram,Yes,5.4,5.0,Negative,Moderate,Moderate Sleep,Average
+95,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8.0,Positive,Low,Adequate Sleep,Good
+96,19,Female,Undergraduate,Qatar,4.9,TikTok,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+97,18,Male,High School,Kuwait,5.7,Snapchat,Yes,5.3,5.0,Negative,Moderate,Moderate Sleep,Average
+98,22,Female,Graduate,Bahrain,2.8,LinkedIn,No,7.1,8.0,Positive,Low,Adequate Sleep,Good
+99,20,Male,Undergraduate,Oman,4.6,Instagram,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+100,21,Female,Undergraduate,Jordan,5.4,TikTok,Yes,5.5,5.0,Negative,Moderate,Moderate Sleep,Average
+101,19,Male,High School,Lebanon,5.8,YouTube,Yes,5.2,5.0,Negative,Moderate,Moderate Sleep,Average
+102,23,Female,Graduate,Iraq,2.5,LinkedIn,No,7.3,8.0,Positive,Low,Adequate Sleep,Good
+103,20,Male,Undergraduate,Yemen,4.7,Facebook,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+104,18,Female,High School,Syria,5.6,Instagram,Yes,5.4,5.0,Negative,Moderate,Moderate Sleep,Average
+105,22,Male,Graduate,Afghanistan,2.9,LinkedIn,No,7.0,7.0,Positive,Low,Moderate Sleep,Average
+106,19,Female,Undergraduate,Pakistan,4.8,TikTok,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+107,21,Male,Undergraduate,Nepal,3.8,YouTube,No,6.6,7.0,Negative,Moderate,Moderate Sleep,Average
+108,20,Female,High School,Bhutan,5.5,Snapchat,Yes,5.5,5.0,Negative,Moderate,Moderate Sleep,Average
+109,23,Male,Graduate,Sri Lanka,2.6,LinkedIn,No,7.2,8.0,Positive,Low,Adequate Sleep,Good
+110,19,Female,Undergraduate,Maldives,4.9,Instagram,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+111,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+112,21,Female,Undergraduate,India,5.8,TikTok,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+113,19,Male,Undergraduate,Nepal,4.9,Facebook,No,7.1,7.0,Positive,Moderate,Adequate Sleep,Average
+114,22,Female,Graduate,Pakistan,5.5,Instagram,Yes,6.0,5.0,Negative,Moderate,Moderate Sleep,Average
+115,20,Male,Undergraduate,Sri Lanka,5.2,TikTok,Yes,6.3,6.0,Negative,Moderate,Moderate Sleep,Average
+116,19,Female,Undergraduate,Maldives,4.8,Instagram,No,7.2,8.0,Positive,Moderate,Adequate Sleep,Good
+117,21,Male,Graduate,Bangladesh,6.0,Facebook,Yes,5.8,5.0,Negative,Moderate,Moderate Sleep,Average
+118,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6.0,Negative,Moderate,Moderate Sleep,Average
+119,22,Male,Graduate,Nepal,4.7,TikTok,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+120,19,Female,Undergraduate,Pakistan,5.4,Instagram,Yes,6.2,5.0,Negative,Moderate,Moderate Sleep,Average
+121,20,Male,Undergraduate,Sri Lanka,5.9,Facebook,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+122,21,Female,Graduate,Maldives,4.6,Instagram,No,7.4,8.0,Positive,Moderate,Adequate Sleep,Good
+123,19,Male,Undergraduate,Bangladesh,5.3,TikTok,Yes,6.3,5.0,Negative,Moderate,Moderate Sleep,Average
+124,22,Female,Graduate,India,5.8,Instagram,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+125,20,Male,Undergraduate,Nepal,4.5,Facebook,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+126,21,Female,Graduate,Pakistan,5.2,Instagram,Yes,6.4,5.0,Negative,Moderate,Moderate Sleep,Average
+127,19,Male,Undergraduate,Sri Lanka,5.7,TikTok,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+128,20,Female,Undergraduate,Maldives,4.4,Instagram,No,7.6,8.0,Positive,Moderate,Adequate Sleep,Good
+129,22,Male,Graduate,Bangladesh,5.1,Facebook,Yes,6.5,5.0,Negative,Moderate,Moderate Sleep,Average
+130,21,Female,Graduate,India,5.6,Instagram,Yes,5.6,6.0,Negative,Moderate,Moderate Sleep,Average
+131,19,Male,Undergraduate,Nepal,4.3,TikTok,No,7.7,7.0,Positive,Moderate,Adequate Sleep,Average
+132,20,Female,Undergraduate,Pakistan,5.0,Instagram,Yes,6.6,5.0,Negative,Moderate,Moderate Sleep,Average
+133,22,Male,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,6.0,Negative,Moderate,Moderate Sleep,Average
+134,21,Female,Graduate,Maldives,4.2,Instagram,No,7.8,8.0,Positive,Moderate,Adequate Sleep,Good
+135,19,Male,Undergraduate,Bangladesh,4.9,TikTok,Yes,6.7,5.0,Negative,Moderate,Moderate Sleep,Average
+136,20,Female,Undergraduate,India,5.4,Instagram,Yes,5.4,6.0,Negative,Moderate,Moderate Sleep,Average
+137,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7.0,Positive,Moderate,Adequate Sleep,Average
+138,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5.0,Negative,Moderate,Moderate Sleep,Average
+139,19,Male,Undergraduate,Sri Lanka,5.3,TikTok,Yes,5.3,6.0,Negative,Moderate,Moderate Sleep,Average
+140,20,Female,Undergraduate,Maldives,4.0,Instagram,No,8.0,8.0,Positive,Moderate,Adequate Sleep,Good
+141,22,Male,Graduate,Bangladesh,4.7,Facebook,Yes,6.9,5.0,Negative,Moderate,Moderate Sleep,Average
+142,21,Female,Graduate,India,5.2,Instagram,Yes,5.2,6.0,Negative,Moderate,Moderate Sleep,Average
+143,19,Male,Undergraduate,Nepal,3.9,TikTok,No,8.1,7.0,Positive,Moderate,Adequate Sleep,Average
+144,20,Female,Undergraduate,Pakistan,4.6,Instagram,Yes,7.0,5.0,Negative,Moderate,Moderate Sleep,Average
+145,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6.0,Negative,Moderate,Moderate Sleep,Average
+146,21,Female,Graduate,Maldives,3.8,Instagram,No,8.2,8.0,Positive,Moderate,Adequate Sleep,Good
+147,19,Male,Undergraduate,Bangladesh,4.5,TikTok,Yes,7.1,5.0,Negative,Moderate,Adequate Sleep,Average
+148,20,Female,Undergraduate,India,5.0,Instagram,Yes,5.0,6.0,Negative,Moderate,Low Sleep,Average
+149,22,Male,Graduate,Nepal,3.7,Facebook,No,8.3,7.0,Positive,Moderate,Adequate Sleep,Average
+150,21,Female,Graduate,Pakistan,4.4,Instagram,Yes,7.2,5.0,Negative,Moderate,Adequate Sleep,Average
+151,19,Male,Undergraduate,Sri Lanka,4.9,TikTok,Yes,4.9,6.0,Negative,Moderate,Low Sleep,Average
+152,20,Female,Undergraduate,Maldives,3.6,Instagram,No,8.4,8.0,Positive,Moderate,Adequate Sleep,Good
+153,22,Male,Graduate,Bangladesh,4.3,Facebook,Yes,7.3,5.0,Negative,Moderate,Adequate Sleep,Average
+154,21,Female,Graduate,India,4.8,Instagram,Yes,4.8,6.0,Negative,Moderate,Low Sleep,Average
+155,19,Male,Undergraduate,Nepal,3.5,TikTok,No,8.5,7.0,Positive,Moderate,Adequate Sleep,Average
+156,20,Female,Undergraduate,Pakistan,4.2,Instagram,Yes,7.4,5.0,Negative,Moderate,Adequate Sleep,Average
+157,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6.0,Negative,Moderate,Low Sleep,Average
+158,21,Female,Graduate,Maldives,3.4,Instagram,No,8.6,8.0,Positive,Moderate,Adequate Sleep,Good
+159,19,Male,Undergraduate,Bangladesh,4.1,TikTok,Yes,7.5,5.0,Negative,Moderate,Adequate Sleep,Average
+160,20,Female,Undergraduate,India,4.6,Instagram,Yes,4.6,6.0,Negative,Moderate,Low Sleep,Average
+161,19,Female,Undergraduate,Bangladesh,5.3,Instagram,Yes,6.1,5.0,Negative,Moderate,Moderate Sleep,Average
+162,21,Male,Graduate,India,4.8,Facebook,No,7.2,7.0,Negative,Moderate,Adequate Sleep,Average
+163,20,Female,Undergraduate,Nepal,5.5,TikTok,Yes,5.9,6.0,Negative,Moderate,Moderate Sleep,Average
+164,22,Male,Graduate,Pakistan,4.7,Instagram,Yes,6.3,5.0,Negative,Moderate,Moderate Sleep,Average
+165,19,Female,Undergraduate,Sri Lanka,5.1,Facebook,No,7.0,7.0,Positive,Moderate,Moderate Sleep,Average
+166,21,Male,Graduate,Maldives,5.4,TikTok,Yes,6.0,6.0,Negative,Moderate,Moderate Sleep,Average
+167,20,Female,Undergraduate,Bangladesh,4.9,Instagram,Yes,6.4,5.0,Negative,Moderate,Moderate Sleep,Average
+168,22,Male,Graduate,India,5.2,Facebook,No,7.1,7.0,Negative,Moderate,Adequate Sleep,Average
+169,19,Female,Undergraduate,Nepal,5.6,TikTok,Yes,5.8,6.0,Negative,Moderate,Moderate Sleep,Average
+170,21,Male,Graduate,Pakistan,4.6,Instagram,Yes,6.5,5.0,Negative,Moderate,Moderate Sleep,Average
+171,20,Female,Undergraduate,Sri Lanka,5.0,Facebook,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+172,22,Male,Graduate,Maldives,5.3,TikTok,Yes,5.7,6.0,Negative,Moderate,Moderate Sleep,Average
+173,19,Female,Undergraduate,Bangladesh,4.8,Instagram,Yes,6.6,5.0,Negative,Moderate,Moderate Sleep,Average
+174,21,Male,Graduate,India,5.1,Facebook,No,7.4,7.0,Negative,Moderate,Adequate Sleep,Average
+175,20,Female,Undergraduate,Nepal,5.7,TikTok,Yes,5.6,6.0,Negative,Moderate,Moderate Sleep,Average
+176,22,Male,Graduate,Pakistan,4.5,Instagram,Yes,6.7,5.0,Negative,Moderate,Moderate Sleep,Average
+177,19,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+178,21,Male,Graduate,Maldives,5.2,TikTok,Yes,5.5,6.0,Negative,Moderate,Moderate Sleep,Average
+179,20,Female,Undergraduate,Bangladesh,4.7,Instagram,Yes,6.8,5.0,Negative,Moderate,Moderate Sleep,Average
+180,22,Male,Graduate,India,5.0,Facebook,No,7.6,7.0,Negative,Moderate,Adequate Sleep,Average
+181,19,Female,Undergraduate,Nepal,5.8,TikTok,Yes,5.4,6.0,Negative,Moderate,Moderate Sleep,Average
+182,21,Male,Graduate,Pakistan,4.4,Instagram,Yes,6.9,5.0,Negative,Moderate,Moderate Sleep,Average
+183,20,Female,Undergraduate,Sri Lanka,4.8,Facebook,No,7.7,7.0,Positive,Moderate,Adequate Sleep,Average
+184,22,Male,Graduate,Maldives,5.1,TikTok,Yes,5.3,6.0,Negative,Moderate,Moderate Sleep,Average
+185,19,Female,Undergraduate,Bangladesh,4.6,Instagram,Yes,7.0,5.0,Negative,Moderate,Moderate Sleep,Average
+186,21,Male,Graduate,India,4.9,Facebook,No,7.8,7.0,Negative,Moderate,Adequate Sleep,Average
+187,20,Female,Undergraduate,Nepal,5.9,TikTok,Yes,5.2,6.0,Negative,Moderate,Moderate Sleep,Average
+188,22,Male,Graduate,Pakistan,4.3,Instagram,Yes,7.1,5.0,Negative,Moderate,Adequate Sleep,Average
+189,19,Female,Undergraduate,Sri Lanka,4.7,Facebook,No,7.9,7.0,Positive,Moderate,Adequate Sleep,Average
+190,21,Male,Graduate,Maldives,5.0,TikTok,Yes,5.1,6.0,Negative,Moderate,Moderate Sleep,Average
+191,20,Female,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.2,5.0,Negative,Moderate,Adequate Sleep,Average
+192,22,Male,Graduate,India,4.8,Facebook,No,8.0,7.0,Negative,Moderate,Adequate Sleep,Average
+193,19,Female,Undergraduate,Nepal,6.0,TikTok,Yes,5.0,6.0,Negative,Moderate,Low Sleep,Average
+194,21,Male,Graduate,Pakistan,4.2,Instagram,Yes,7.3,5.0,Negative,Moderate,Adequate Sleep,Average
+195,20,Female,Undergraduate,Sri Lanka,4.6,Facebook,No,8.1,7.0,Positive,Moderate,Adequate Sleep,Average
+196,22,Male,Graduate,Maldives,4.9,TikTok,Yes,4.9,6.0,Negative,Moderate,Low Sleep,Average
+197,19,Female,Undergraduate,Bangladesh,4.4,Instagram,Yes,7.4,5.0,Negative,Moderate,Adequate Sleep,Average
+198,21,Male,Graduate,India,4.7,Facebook,No,8.2,7.0,Negative,Moderate,Adequate Sleep,Average
+199,20,Female,Undergraduate,Nepal,6.1,TikTok,Yes,4.8,6.0,Negative,High,Low Sleep,Average
+200,22,Male,Graduate,Pakistan,4.1,Instagram,Yes,7.5,5.0,Negative,Moderate,Adequate Sleep,Average
+201,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,7.0,Positive,Moderate,Adequate Sleep,Average
+202,21,Male,Graduate,Maldives,4.8,TikTok,Yes,4.7,6.0,Negative,Moderate,Low Sleep,Average
+203,20,Female,Undergraduate,Bangladesh,4.3,Instagram,Yes,7.6,5.0,Negative,Moderate,Adequate Sleep,Average
+204,22,Male,Graduate,India,4.6,Facebook,No,8.4,7.0,Negative,Moderate,Adequate Sleep,Average
+205,19,Female,Undergraduate,Nepal,6.2,TikTok,Yes,4.6,6.0,Negative,High,Low Sleep,Average
+206,21,Male,Graduate,Pakistan,4.0,Instagram,Yes,7.7,5.0,Negative,Moderate,Adequate Sleep,Average
+207,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,7.0,Positive,Moderate,Adequate Sleep,Average
+208,22,Male,Graduate,Maldives,4.7,TikTok,Yes,4.5,6.0,Negative,Moderate,Low Sleep,Average
+209,19,Female,Undergraduate,Bangladesh,4.2,Instagram,Yes,7.8,5.0,Negative,Moderate,Adequate Sleep,Average
+210,21,Male,Graduate,India,4.5,Facebook,No,8.6,7.0,Negative,Moderate,Adequate Sleep,Average
+211,20,Female,Undergraduate,Nepal,6.3,TikTok,Yes,4.4,6.0,Negative,High,Low Sleep,Average
+212,22,Male,Graduate,Pakistan,3.9,Instagram,Yes,7.9,5.0,Negative,Moderate,Adequate Sleep,Average
+213,19,Female,Undergraduate,Sri Lanka,4.3,Facebook,No,8.7,7.0,Positive,Moderate,Adequate Sleep,Average
+214,21,Male,Graduate,Maldives,4.6,TikTok,Yes,4.3,6.0,Negative,Moderate,Low Sleep,Average
+215,20,Female,Undergraduate,Bangladesh,4.1,Instagram,Yes,8.0,5.0,Negative,Moderate,Adequate Sleep,Average
+216,22,Male,Graduate,India,4.4,Facebook,No,8.8,7.0,Negative,Moderate,Adequate Sleep,Average
+217,19,Female,Undergraduate,Nepal,6.4,TikTok,Yes,4.2,6.0,Negative,High,Low Sleep,Average
+218,21,Male,Graduate,Pakistan,3.8,Instagram,Yes,8.1,5.0,Negative,Moderate,Adequate Sleep,Average
+219,20,Female,Undergraduate,Sri Lanka,4.2,Facebook,No,8.9,7.0,Positive,Moderate,Adequate Sleep,Average
+220,22,Male,Graduate,Maldives,4.5,TikTok,Yes,4.1,6.0,Negative,Moderate,Low Sleep,Average
+221,19,Female,Undergraduate,USA,6.5,Instagram,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+222,21,Male,Graduate,UK,5.8,TikTok,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+223,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.5,8.0,Positive,Moderate,Adequate Sleep,Good
+224,22,Male,Graduate,Germany,4.2,Facebook,No,7.8,7.0,Positive,Moderate,Adequate Sleep,Average
+225,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8.0,Neutral,Moderate,Adequate Sleep,Good
+226,21,Male,Graduate,Italy,5.5,Instagram,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+227,20,Female,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+228,22,Male,Graduate,Russia,4.8,VKontakte,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+229,19,Female,Undergraduate,USA,7.0,TikTok,Yes,5.8,4.0,Negative,High,Moderate Sleep,Poor
+230,21,Male,Graduate,UK,5.5,Instagram,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+231,20,Female,Undergraduate,Australia,4.7,Facebook,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+232,22,Male,Graduate,Germany,4.0,Instagram,No,7.9,8.0,Positive,Moderate,Adequate Sleep,Good
+233,19,Female,Undergraduate,Japan,3.5,LINE,No,8.0,8.0,Neutral,Moderate,Adequate Sleep,Good
+234,21,Male,Graduate,Italy,5.7,TikTok,Yes,6.5,5.0,Negative,Moderate,Moderate Sleep,Average
+235,20,Female,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+236,22,Male,Graduate,Russia,4.5,VKontakte,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+237,19,Female,Undergraduate,USA,6.8,Instagram,Yes,5.9,4.0,Negative,High,Moderate Sleep,Poor
+238,21,Male,Graduate,UK,5.6,Facebook,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+239,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+240,22,Male,Graduate,Germany,4.1,Facebook,No,7.7,8.0,Positive,Moderate,Adequate Sleep,Good
+241,19,Female,Undergraduate,Japan,3.7,LINE,No,7.8,8.0,Neutral,Moderate,Adequate Sleep,Good
+242,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5.0,Negative,Moderate,Moderate Sleep,Average
+243,20,Female,Undergraduate,South Korea,5.1,KakaoTalk,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+244,22,Male,Graduate,Russia,4.7,VKontakte,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+245,19,Female,Undergraduate,USA,6.9,TikTok,Yes,5.7,4.0,Negative,High,Moderate Sleep,Poor
+246,21,Male,Graduate,UK,5.7,Instagram,Yes,6.4,6.0,Negative,Moderate,Moderate Sleep,Average
+247,20,Female,Undergraduate,Australia,4.8,Facebook,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+248,22,Male,Graduate,Germany,3.9,Instagram,No,7.8,8.0,Positive,Moderate,Adequate Sleep,Good
+249,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8.0,Neutral,Moderate,Adequate Sleep,Good
+250,21,Male,Graduate,Italy,5.6,TikTok,Yes,6.6,5.0,Negative,Moderate,Moderate Sleep,Average
+251,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+252,22,Male,Graduate,Russia,4.6,VKontakte,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+253,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.8,4.0,Negative,High,Moderate Sleep,Poor
+254,21,Male,Graduate,UK,5.4,Facebook,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+255,20,Female,Undergraduate,Australia,4.4,Instagram,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+256,22,Male,Graduate,Germany,4.0,Facebook,No,7.6,8.0,Positive,Moderate,Adequate Sleep,Good
+257,19,Female,Undergraduate,Japan,3.4,LINE,No,8.2,8.0,Neutral,Moderate,Adequate Sleep,Good
+258,21,Male,Graduate,Italy,5.3,Instagram,Yes,6.8,5.0,Negative,Moderate,Moderate Sleep,Average
+259,20,Female,Undergraduate,South Korea,5.0,KakaoTalk,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+260,22,Male,Graduate,Russia,4.4,VKontakte,No,7.6,7.0,Positive,Moderate,Adequate Sleep,Average
+261,19,Female,Undergraduate,USA,6.6,TikTok,Yes,5.6,4.0,Negative,High,Moderate Sleep,Poor
+262,21,Male,Graduate,UK,5.3,Instagram,Yes,6.3,6.0,Negative,Moderate,Moderate Sleep,Average
+263,20,Female,Undergraduate,Australia,4.3,Facebook,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+264,22,Male,Graduate,Germany,3.8,Instagram,No,7.7,8.0,Positive,Moderate,Adequate Sleep,Good
+265,19,Female,Undergraduate,Japan,3.3,LINE,No,8.3,8.0,Neutral,Moderate,Adequate Sleep,Good
+266,21,Male,Graduate,Italy,5.2,TikTok,Yes,6.9,5.0,Negative,Moderate,Moderate Sleep,Average
+267,20,Female,Undergraduate,South Korea,4.8,KakaoTalk,Yes,7.0,6.0,Negative,Moderate,Moderate Sleep,Average
+268,22,Male,Graduate,Russia,4.3,VKontakte,No,7.7,7.0,Positive,Moderate,Adequate Sleep,Average
+269,19,Female,Undergraduate,USA,6.4,Instagram,Yes,5.7,4.0,Negative,High,Moderate Sleep,Poor
+270,21,Male,Graduate,UK,5.2,Facebook,Yes,6.4,6.0,Negative,Moderate,Moderate Sleep,Average
+271,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+272,22,Male,Graduate,Germany,3.7,Facebook,No,7.8,8.0,Positive,Moderate,Adequate Sleep,Good
+273,19,Female,Undergraduate,Japan,3.2,LINE,No,8.4,8.0,Neutral,Moderate,Adequate Sleep,Good
+274,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5.0,Negative,Moderate,Moderate Sleep,Average
+275,20,Female,Undergraduate,South Korea,4.7,KakaoTalk,Yes,7.1,6.0,Negative,Moderate,Adequate Sleep,Average
+276,22,Male,Graduate,Russia,4.2,VKontakte,No,7.8,7.0,Positive,Moderate,Adequate Sleep,Average
+277,19,Female,Undergraduate,USA,6.6,TikTok,Yes,5.5,4.0,Negative,High,Moderate Sleep,Poor
+278,21,Male,Graduate,UK,5.1,Instagram,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+279,20,Female,Undergraduate,Australia,4.4,Facebook,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+280,22,Male,Graduate,Germany,3.6,Instagram,No,7.9,8.0,Positive,Moderate,Adequate Sleep,Good
+281,19,Female,Undergraduate,Japan,3.1,LINE,No,8.5,8.0,Neutral,Moderate,Adequate Sleep,Good
+282,21,Male,Graduate,Italy,5.3,TikTok,Yes,6.8,5.0,Negative,Moderate,Moderate Sleep,Average
+283,20,Female,Undergraduate,South Korea,4.6,KakaoTalk,Yes,7.2,6.0,Negative,Moderate,Adequate Sleep,Average
+284,22,Male,Graduate,Russia,4.1,VKontakte,No,7.9,7.0,Positive,Moderate,Adequate Sleep,Average
+285,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.4,4.0,Negative,High,Moderate Sleep,Poor
+286,21,Male,Graduate,UK,5.0,Facebook,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+287,20,Female,Undergraduate,Australia,4.3,Instagram,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+288,22,Male,Graduate,Germany,3.5,Facebook,No,8.0,8.0,Positive,Moderate,Adequate Sleep,Good
+289,19,Female,Undergraduate,Japan,3.0,LINE,No,8.6,8.0,Neutral,Low,Adequate Sleep,Good
+290,21,Male,Graduate,Italy,5.2,Instagram,Yes,6.9,5.0,Negative,Moderate,Moderate Sleep,Average
+291,20,Female,Undergraduate,South Korea,4.5,KakaoTalk,Yes,7.3,6.0,Negative,Moderate,Adequate Sleep,Average
+292,22,Male,Graduate,Russia,4.0,VKontakte,No,8.0,7.0,Positive,Moderate,Adequate Sleep,Average
+293,19,Female,Undergraduate,USA,6.8,TikTok,Yes,5.3,4.0,Negative,High,Moderate Sleep,Poor
+294,21,Male,Graduate,UK,4.9,Instagram,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+295,20,Female,Undergraduate,Australia,4.2,Facebook,No,7.6,7.0,Positive,Moderate,Adequate Sleep,Average
+296,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8.0,Positive,Moderate,Adequate Sleep,Good
+297,19,Female,Undergraduate,Japan,2.9,LINE,No,8.7,8.0,Neutral,Low,Adequate Sleep,Good
+298,21,Male,Graduate,Italy,5.1,TikTok,Yes,7.0,5.0,Negative,Moderate,Moderate Sleep,Average
+299,20,Female,Undergraduate,South Korea,4.4,KakaoTalk,Yes,7.4,6.0,Negative,Moderate,Adequate Sleep,Average
+300,22,Male,Graduate,Russia,3.9,VKontakte,No,8.1,7.0,Positive,Moderate,Adequate Sleep,Average
+301,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.2,4.0,Negative,High,Moderate Sleep,Poor
+302,21,Male,Graduate,UK,4.8,Facebook,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+303,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7.0,Positive,Moderate,Adequate Sleep,Average
+304,22,Male,Graduate,Germany,3.3,Facebook,No,8.2,8.0,Positive,Moderate,Adequate Sleep,Good
+305,19,Female,Undergraduate,Japan,2.8,LINE,No,8.8,8.0,Neutral,Low,Adequate Sleep,Good
+306,21,Male,Graduate,Italy,5.0,Instagram,Yes,7.1,5.0,Negative,Moderate,Adequate Sleep,Average
+307,20,Female,Undergraduate,South Korea,4.3,KakaoTalk,Yes,7.5,6.0,Negative,Moderate,Adequate Sleep,Average
+308,22,Male,Graduate,Russia,3.8,VKontakte,No,8.2,7.0,Positive,Moderate,Adequate Sleep,Average
+309,19,Female,Undergraduate,USA,7.0,TikTok,Yes,5.1,4.0,Negative,High,Moderate Sleep,Poor
+310,21,Male,Graduate,UK,4.7,Instagram,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+311,20,Female,Undergraduate,Australia,4.0,Facebook,No,7.8,7.0,Positive,Moderate,Adequate Sleep,Average
+312,22,Male,Graduate,Germany,3.2,Instagram,No,8.3,8.0,Positive,Moderate,Adequate Sleep,Good
+313,19,Female,Undergraduate,Japan,2.7,LINE,No,8.9,8.0,Neutral,Low,Adequate Sleep,Good
+314,21,Male,Graduate,Italy,4.9,TikTok,Yes,7.2,5.0,Negative,Moderate,Adequate Sleep,Average
+315,20,Female,Undergraduate,South Korea,4.2,KakaoTalk,Yes,7.6,6.0,Negative,Moderate,Adequate Sleep,Average
+316,22,Male,Graduate,Russia,3.7,VKontakte,No,8.3,7.0,Positive,Moderate,Adequate Sleep,Average
+317,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.0,4.0,Negative,High,Low Sleep,Poor
+318,21,Male,Graduate,UK,4.6,Facebook,Yes,7.0,6.0,Negative,Moderate,Moderate Sleep,Average
+319,20,Female,Undergraduate,Australia,3.9,Instagram,No,7.9,7.0,Positive,Moderate,Adequate Sleep,Average
+320,22,Male,Graduate,Germany,3.1,Facebook,No,8.4,8.0,Positive,Moderate,Adequate Sleep,Good
+321,19,Female,Undergraduate,Spain,5.2,Instagram,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+322,21,Male,Graduate,Denmark,4.1,Facebook,No,7.8,8.0,Positive,Moderate,Adequate Sleep,Good
+323,20,Female,Undergraduate,Ireland,5.0,Instagram,Yes,7.0,7.0,Negative,Moderate,Moderate Sleep,Average
+324,22,Male,Graduate,India,5.8,WhatsApp,Yes,6.5,5.0,Negative,Moderate,Moderate Sleep,Average
+325,19,Female,Undergraduate,Switzerland,4.0,Instagram,No,7.9,8.0,Positive,Moderate,Adequate Sleep,Good
+326,21,Male,Graduate,Turkey,5.5,Instagram,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+327,20,Female,Undergraduate,USA,6.8,TikTok,Yes,5.5,5.0,Negative,High,Moderate Sleep,Average
+328,22,Male,Graduate,Mexico,5.6,WhatsApp,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+329,19,Female,Undergraduate,France,4.5,Instagram,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+330,21,Male,Graduate,Canada,5.3,Instagram,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+331,20,Female,Undergraduate,Spain,5.1,TikTok,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+332,22,Male,Graduate,Denmark,3.9,Facebook,No,7.9,8.0,Positive,Moderate,Adequate Sleep,Good
+333,19,Female,Undergraduate,Ireland,4.8,Instagram,Yes,7.1,7.0,Negative,Moderate,Adequate Sleep,Average
+334,21,Male,Graduate,India,5.9,WhatsApp,Yes,6.4,5.0,Negative,Moderate,Moderate Sleep,Average
+335,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8.0,8.0,Positive,Moderate,Adequate Sleep,Good
+336,22,Male,Graduate,Turkey,5.4,TikTok,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+337,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.4,5.0,Negative,High,Moderate Sleep,Average
+338,21,Male,Graduate,Mexico,5.7,WhatsApp,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+339,20,Female,Undergraduate,France,4.4,Instagram,No,7.6,7.0,Positive,Moderate,Adequate Sleep,Average
+340,22,Male,Graduate,Canada,5.2,TikTok,Yes,7.0,6.0,Negative,Moderate,Moderate Sleep,Average
+341,19,Female,Undergraduate,Spain,5.0,Instagram,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+342,21,Male,Graduate,Denmark,3.8,Facebook,No,8.0,8.0,Positive,Moderate,Adequate Sleep,Good
+343,20,Female,Undergraduate,Ireland,4.7,TikTok,Yes,7.2,7.0,Negative,Moderate,Adequate Sleep,Average
+344,22,Male,Graduate,India,6.0,WhatsApp,Yes,6.3,5.0,Negative,Moderate,Moderate Sleep,Average
+345,19,Female,Undergraduate,Switzerland,3.7,Instagram,No,8.1,8.0,Positive,Moderate,Adequate Sleep,Good
+346,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+347,20,Female,Undergraduate,USA,7.0,TikTok,Yes,5.3,5.0,Negative,High,Moderate Sleep,Average
+348,22,Male,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,6.0,Negative,Moderate,Moderate Sleep,Average
+349,19,Female,Undergraduate,France,4.3,Instagram,No,7.7,7.0,Positive,Moderate,Adequate Sleep,Average
+350,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6.0,Negative,Moderate,Adequate Sleep,Average
+351,20,Female,Undergraduate,Spain,4.9,TikTok,Yes,7.0,6.0,Negative,Moderate,Moderate Sleep,Average
+352,22,Male,Graduate,Denmark,3.7,Facebook,No,8.1,8.0,Positive,Moderate,Adequate Sleep,Good
+353,19,Female,Undergraduate,Ireland,4.6,Instagram,Yes,7.3,7.0,Negative,Moderate,Adequate Sleep,Average
+354,21,Male,Graduate,India,6.1,WhatsApp,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+355,20,Female,Undergraduate,Switzerland,3.6,Instagram,No,8.2,8.0,Positive,Moderate,Adequate Sleep,Good
+356,22,Male,Graduate,Turkey,5.2,TikTok,Yes,7.0,6.0,Negative,Moderate,Moderate Sleep,Average
+357,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.2,5.0,Negative,High,Moderate Sleep,Average
+358,21,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.3,6.0,Negative,Moderate,Moderate Sleep,Average
+359,20,Female,Undergraduate,France,4.2,Instagram,No,7.8,7.0,Positive,Moderate,Adequate Sleep,Average
+360,22,Male,Graduate,Canada,5.0,TikTok,Yes,7.2,6.0,Negative,Moderate,Adequate Sleep,Average
+361,19,Female,Undergraduate,Spain,4.8,Instagram,Yes,7.1,6.0,Negative,Moderate,Adequate Sleep,Average
+362,21,Male,Graduate,Denmark,3.6,Facebook,No,8.2,8.0,Positive,Moderate,Adequate Sleep,Good
+363,20,Female,Undergraduate,Ireland,4.5,TikTok,Yes,7.4,7.0,Negative,Moderate,Adequate Sleep,Average
+364,22,Male,Graduate,India,6.2,WhatsApp,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+365,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8.0,Positive,Moderate,Adequate Sleep,Good
+366,21,Male,Graduate,Turkey,5.1,Instagram,Yes,7.1,6.0,Negative,Moderate,Adequate Sleep,Average
+367,20,Female,Undergraduate,USA,7.2,TikTok,Yes,5.1,5.0,Negative,High,Moderate Sleep,Average
+368,22,Male,Graduate,Mexico,6.0,WhatsApp,Yes,6.2,6.0,Negative,Moderate,Moderate Sleep,Average
+369,19,Female,Undergraduate,France,4.1,Instagram,No,7.9,7.0,Positive,Moderate,Adequate Sleep,Average
+370,21,Male,Graduate,Canada,4.9,Instagram,Yes,7.3,6.0,Negative,Moderate,Adequate Sleep,Average
+371,20,Female,Undergraduate,Spain,4.7,TikTok,Yes,7.2,6.0,Negative,Moderate,Adequate Sleep,Average
+372,22,Male,Graduate,Denmark,3.5,Facebook,No,8.3,8.0,Positive,Moderate,Adequate Sleep,Good
+373,19,Female,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,7.0,Negative,Moderate,Adequate Sleep,Average
+374,21,Male,Graduate,India,6.3,WhatsApp,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+375,20,Female,Undergraduate,Switzerland,3.4,Instagram,No,8.4,8.0,Positive,Moderate,Adequate Sleep,Good
+376,22,Male,Graduate,Turkey,5.0,TikTok,Yes,7.2,6.0,Negative,Moderate,Adequate Sleep,Average
+377,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5.0,5.0,Negative,High,Low Sleep,Average
+378,21,Male,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,6.0,Negative,High,Moderate Sleep,Average
+379,20,Female,Undergraduate,France,4.0,Instagram,No,8.0,7.0,Positive,Moderate,Adequate Sleep,Average
+380,22,Male,Graduate,Canada,4.8,TikTok,Yes,7.4,6.0,Negative,Moderate,Adequate Sleep,Average
+381,19,Female,Undergraduate,Spain,4.6,Instagram,Yes,7.3,6.0,Negative,Moderate,Adequate Sleep,Average
+382,21,Male,Graduate,Denmark,3.4,Facebook,No,8.4,8.0,Positive,Moderate,Adequate Sleep,Good
+383,20,Female,Undergraduate,Ireland,4.3,TikTok,Yes,7.6,7.0,Negative,Moderate,Adequate Sleep,Average
+384,22,Male,Graduate,India,6.4,WhatsApp,Yes,5.9,5.0,Negative,High,Moderate Sleep,Average
+385,19,Female,Undergraduate,Switzerland,3.3,Instagram,No,8.5,8.0,Positive,Moderate,Adequate Sleep,Good
+386,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.3,6.0,Negative,Moderate,Adequate Sleep,Average
+387,20,Female,Undergraduate,USA,7.4,TikTok,Yes,4.9,5.0,Negative,High,Low Sleep,Average
+388,22,Male,Graduate,Mexico,6.2,WhatsApp,Yes,6.0,6.0,Negative,High,Moderate Sleep,Average
+389,19,Female,Undergraduate,France,3.9,Instagram,No,8.1,7.0,Positive,Moderate,Adequate Sleep,Average
+390,21,Male,Graduate,Canada,4.7,Instagram,Yes,7.5,6.0,Negative,Moderate,Adequate Sleep,Average
+391,20,Female,Undergraduate,Spain,4.5,TikTok,Yes,7.4,6.0,Negative,Moderate,Adequate Sleep,Average
+392,22,Male,Graduate,Denmark,3.3,Facebook,No,8.5,8.0,Positive,Moderate,Adequate Sleep,Good
+393,19,Female,Undergraduate,Ireland,4.2,Instagram,Yes,7.7,7.0,Negative,Moderate,Adequate Sleep,Average
+394,21,Male,Graduate,India,6.5,WhatsApp,Yes,5.8,5.0,Negative,High,Moderate Sleep,Average
+395,20,Female,Undergraduate,Switzerland,3.2,Instagram,No,8.6,8.0,Positive,Moderate,Adequate Sleep,Good
+396,22,Male,Graduate,Turkey,4.8,TikTok,Yes,7.4,6.0,Negative,Moderate,Adequate Sleep,Average
+397,19,Female,Undergraduate,USA,7.5,Instagram,Yes,4.8,5.0,Negative,High,Low Sleep,Average
+398,21,Male,Graduate,Mexico,6.3,WhatsApp,Yes,5.9,6.0,Negative,High,Moderate Sleep,Average
+399,20,Female,Undergraduate,France,3.8,Instagram,No,8.2,7.0,Positive,Moderate,Adequate Sleep,Average
+400,22,Male,Graduate,Canada,4.6,TikTok,Yes,7.6,6.0,Negative,Moderate,Adequate Sleep,Average
+401,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6.0,Negative,Moderate,Adequate Sleep,Average
+402,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8.0,Positive,Moderate,Adequate Sleep,Good
+403,20,Female,Undergraduate,Ireland,4.1,TikTok,Yes,7.8,7.0,Negative,Moderate,Adequate Sleep,Average
+404,22,Male,Graduate,India,6.6,WhatsApp,Yes,5.7,5.0,Negative,High,Moderate Sleep,Average
+405,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8.0,Positive,Moderate,Adequate Sleep,Good
+406,21,Male,Graduate,Turkey,4.7,Instagram,Yes,7.5,6.0,Negative,Moderate,Adequate Sleep,Average
+407,20,Female,Undergraduate,USA,7.6,TikTok,Yes,4.7,5.0,Negative,High,Low Sleep,Average
+408,22,Male,Graduate,Mexico,6.4,WhatsApp,Yes,5.8,6.0,Negative,High,Moderate Sleep,Average
+409,19,Female,Undergraduate,France,3.7,Instagram,No,8.3,7.0,Positive,Moderate,Adequate Sleep,Average
+410,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6.0,Negative,Moderate,Adequate Sleep,Average
+411,20,Female,Undergraduate,Spain,4.3,TikTok,Yes,7.6,6.0,Negative,Moderate,Adequate Sleep,Average
+412,22,Male,Graduate,Denmark,3.1,Facebook,No,8.7,8.0,Positive,Moderate,Adequate Sleep,Good
+413,19,Female,Undergraduate,Ireland,4.0,Instagram,Yes,7.9,7.0,Negative,Moderate,Adequate Sleep,Average
+414,21,Male,Graduate,India,6.7,WhatsApp,Yes,5.6,5.0,Negative,High,Moderate Sleep,Average
+415,20,Female,Undergraduate,Switzerland,3.0,Instagram,No,8.8,8.0,Positive,Low,Adequate Sleep,Good
+416,22,Male,Graduate,Turkey,4.6,TikTok,Yes,7.6,6.0,Negative,Moderate,Adequate Sleep,Average
+417,19,Female,Undergraduate,USA,7.7,Instagram,Yes,4.6,5.0,Negative,High,Low Sleep,Average
+418,21,Male,Graduate,Mexico,6.5,WhatsApp,Yes,5.7,6.0,Negative,High,Moderate Sleep,Average
+419,20,Female,Undergraduate,France,3.6,Instagram,No,8.4,7.0,Positive,Moderate,Adequate Sleep,Average
+420,22,Male,Graduate,Canada,4.4,TikTok,Yes,7.8,6.0,Negative,Moderate,Adequate Sleep,Average
+421,19,Female,Undergraduate,Spain,4.2,Instagram,Yes,7.7,6.0,Negative,Moderate,Adequate Sleep,Average
+422,21,Male,Graduate,Denmark,3.0,Facebook,No,8.8,8.0,Positive,Low,Adequate Sleep,Good
+423,20,Female,Undergraduate,Ireland,3.9,TikTok,Yes,8.0,7.0,Negative,Moderate,Adequate Sleep,Average
+424,22,Male,Graduate,India,6.8,WhatsApp,Yes,5.5,5.0,Negative,High,Moderate Sleep,Average
+425,19,Female,Undergraduate,Switzerland,2.9,Instagram,No,8.9,8.0,Positive,Low,Adequate Sleep,Good
+426,21,Male,Graduate,Turkey,4.5,Instagram,Yes,7.7,6.0,Negative,Moderate,Adequate Sleep,Average
+427,20,Female,Undergraduate,USA,7.8,TikTok,Yes,4.5,5.0,Negative,High,Low Sleep,Average
+428,22,Male,Graduate,Mexico,6.6,WhatsApp,Yes,5.6,6.0,Negative,High,Moderate Sleep,Average
+429,19,Female,Undergraduate,France,3.5,Instagram,No,8.5,7.0,Positive,Moderate,Adequate Sleep,Average
+430,21,Male,Graduate,Canada,4.3,Instagram,Yes,7.9,6.0,Negative,Moderate,Adequate Sleep,Average
+431,20,Female,Undergraduate,Spain,4.1,TikTok,Yes,7.8,6.0,Negative,Moderate,Adequate Sleep,Average
+432,22,Male,Graduate,Denmark,2.9,Facebook,No,8.9,8.0,Positive,Low,Adequate Sleep,Good
+433,19,Female,Undergraduate,Ireland,3.8,Instagram,Yes,8.1,7.0,Negative,Moderate,Adequate Sleep,Average
+434,21,Male,Graduate,India,6.9,WhatsApp,Yes,5.4,5.0,Negative,High,Moderate Sleep,Average
+435,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9.0,8.0,Positive,Low,Adequate Sleep,Good
+436,22,Male,Graduate,Turkey,4.4,TikTok,Yes,7.8,6.0,Negative,Moderate,Adequate Sleep,Average
+437,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.4,5.0,Negative,High,Low Sleep,Average
+438,21,Male,Graduate,Mexico,6.7,WhatsApp,Yes,5.5,6.0,Negative,High,Moderate Sleep,Average
+439,20,Female,Undergraduate,France,3.4,Instagram,No,8.6,7.0,Positive,Moderate,Adequate Sleep,Average
+440,22,Male,Graduate,Canada,4.2,TikTok,Yes,8.0,6.0,Negative,Moderate,Adequate Sleep,Average
+441,19,Female,Undergraduate,Spain,4.0,Instagram,Yes,7.9,6.0,Negative,Moderate,Adequate Sleep,Average
+442,21,Male,Graduate,Denmark,2.8,Facebook,No,9.0,8.0,Positive,Low,Adequate Sleep,Good
+443,20,Female,Undergraduate,Ireland,3.7,TikTok,Yes,8.2,7.0,Negative,Moderate,Adequate Sleep,Average
+444,22,Male,Graduate,India,7.0,WhatsApp,Yes,5.3,5.0,Negative,High,Moderate Sleep,Average
+445,19,Female,Undergraduate,Switzerland,2.7,Instagram,No,9.1,8.0,Positive,Low,Adequate Sleep,Good
+446,21,Male,Graduate,Turkey,4.3,Instagram,Yes,7.9,6.0,Negative,Moderate,Adequate Sleep,Average
+447,20,Female,Undergraduate,USA,8.0,TikTok,Yes,4.3,5.0,Negative,High,Low Sleep,Average
+448,22,Male,Graduate,Mexico,6.8,WhatsApp,Yes,5.4,6.0,Negative,High,Moderate Sleep,Average
+449,19,Female,Undergraduate,France,3.3,Instagram,No,8.7,7.0,Positive,Moderate,Adequate Sleep,Average
+450,21,Male,Graduate,Canada,4.1,Instagram,Yes,8.1,6.0,Negative,Moderate,Adequate Sleep,Average
+451,20,Female,Undergraduate,Spain,3.9,TikTok,Yes,8.0,6.0,Negative,Moderate,Adequate Sleep,Average
+452,22,Male,Graduate,Denmark,2.7,Facebook,No,9.1,8.0,Positive,Low,Adequate Sleep,Good
+453,19,Female,Undergraduate,Ireland,3.6,Instagram,Yes,8.3,7.0,Negative,Moderate,Adequate Sleep,Average
+454,21,Male,Graduate,India,7.1,WhatsApp,Yes,5.2,5.0,Negative,High,Moderate Sleep,Average
+455,20,Female,Undergraduate,Switzerland,2.6,Instagram,No,9.2,8.0,Positive,Low,Adequate Sleep,Good
+456,22,Male,Graduate,Turkey,4.2,TikTok,Yes,8.0,6.0,Negative,Moderate,Adequate Sleep,Average
+457,19,Female,Undergraduate,USA,8.1,Instagram,Yes,4.2,5.0,Negative,High,Low Sleep,Average
+458,21,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.3,6.0,Negative,High,Moderate Sleep,Average
+459,20,Female,Undergraduate,France,3.2,Instagram,No,8.8,7.0,Positive,Moderate,Adequate Sleep,Average
+460,22,Male,Graduate,Canada,4.0,TikTok,Yes,8.2,6.0,Negative,Moderate,Adequate Sleep,Average
+461,19,Female,Undergraduate,Spain,3.8,Instagram,Yes,8.1,6.0,Negative,Moderate,Adequate Sleep,Average
+462,21,Male,Graduate,Denmark,2.6,Facebook,No,9.2,8.0,Positive,Low,Adequate Sleep,Good
+463,20,Female,Undergraduate,Ireland,3.5,TikTok,Yes,8.4,7.0,Negative,Moderate,Adequate Sleep,Average
+464,22,Male,Graduate,India,7.2,WhatsApp,Yes,5.1,5.0,Negative,High,Moderate Sleep,Average
+465,19,Female,Undergraduate,Switzerland,2.5,Instagram,No,9.3,8.0,Positive,Low,Adequate Sleep,Good
+466,21,Male,Graduate,Turkey,4.1,Instagram,Yes,8.1,6.0,Negative,Moderate,Adequate Sleep,Average
+467,20,Female,Undergraduate,USA,8.2,TikTok,Yes,4.1,5.0,Negative,High,Low Sleep,Average
+468,22,Male,Graduate,Mexico,7.0,WhatsApp,Yes,5.2,6.0,Negative,High,Moderate Sleep,Average
+469,19,Female,Undergraduate,France,3.1,Instagram,No,8.9,7.0,Positive,Moderate,Adequate Sleep,Average
+470,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6.0,Negative,Moderate,Adequate Sleep,Average
+471,20,Female,Undergraduate,Spain,3.7,TikTok,Yes,8.2,6.0,Negative,Moderate,Adequate Sleep,Average
+472,22,Male,Graduate,Denmark,2.5,Facebook,No,9.3,8.0,Positive,Low,Adequate Sleep,Good
+473,19,Female,Undergraduate,Ireland,3.4,Instagram,Yes,8.5,7.0,Negative,Moderate,Adequate Sleep,Average
+474,21,Male,Graduate,India,7.3,WhatsApp,Yes,5.0,5.0,Negative,High,Low Sleep,Average
+475,20,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.4,8.0,Positive,Low,Adequate Sleep,Good
+476,22,Male,Graduate,Turkey,4.0,TikTok,Yes,8.2,6.0,Negative,Moderate,Adequate Sleep,Average
+477,19,Female,Undergraduate,USA,8.3,Instagram,Yes,4.0,5.0,Negative,High,Low Sleep,Average
+478,21,Male,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,6.0,Negative,High,Moderate Sleep,Average
+479,20,Female,Undergraduate,France,3.0,Instagram,No,9.0,7.0,Positive,Low,Adequate Sleep,Average
+480,22,Male,Graduate,Canada,3.8,TikTok,Yes,8.4,6.0,Negative,Moderate,Adequate Sleep,Average
+481,19,Female,Undergraduate,Spain,3.6,Instagram,Yes,8.3,6.0,Negative,Moderate,Adequate Sleep,Average
+482,21,Male,Graduate,Denmark,2.4,Facebook,No,9.4,8.0,Positive,Low,Adequate Sleep,Good
+483,20,Female,Undergraduate,Ireland,3.3,TikTok,Yes,8.6,7.0,Negative,Moderate,Adequate Sleep,Average
+484,22,Male,Graduate,India,7.4,WhatsApp,Yes,4.9,5.0,Negative,High,Low Sleep,Average
+485,19,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.5,8.0,Positive,Low,Adequate Sleep,Good
+486,21,Male,Graduate,Turkey,3.9,Instagram,Yes,8.3,6.0,Negative,Moderate,Adequate Sleep,Average
+487,20,Female,Undergraduate,USA,8.4,TikTok,Yes,3.9,5.0,Negative,High,Low Sleep,Average
+488,22,Male,Graduate,Mexico,7.2,WhatsApp,Yes,5.0,6.0,Negative,High,Low Sleep,Average
+489,19,Female,Undergraduate,France,2.9,Instagram,No,9.1,7.0,Positive,Low,Adequate Sleep,Average
+490,21,Male,Graduate,Canada,3.7,Instagram,Yes,8.5,6.0,Negative,Moderate,Adequate Sleep,Average
+491,20,Female,Undergraduate,Spain,3.5,TikTok,Yes,8.4,6.0,Negative,Moderate,Adequate Sleep,Average
+492,22,Male,Graduate,Denmark,2.3,Facebook,No,9.5,8.0,Positive,Low,Adequate Sleep,Good
+493,19,Female,Undergraduate,Ireland,3.2,Instagram,Yes,8.7,7.0,Negative,Moderate,Adequate Sleep,Average
+494,21,Male,Graduate,India,7.5,WhatsApp,Yes,4.8,5.0,Negative,High,Low Sleep,Average
+495,20,Female,Undergraduate,Switzerland,2.2,Instagram,No,9.6,8.0,Positive,Low,Adequate Sleep,Good
+496,22,Male,Graduate,Turkey,3.8,TikTok,Yes,8.4,6.0,Negative,Moderate,Adequate Sleep,Average
+497,19,Female,Undergraduate,USA,8.5,Instagram,Yes,3.8,5.0,Negative,High,Low Sleep,Average
+498,21,Male,Graduate,Mexico,7.3,WhatsApp,Yes,4.9,6.0,Negative,High,Low Sleep,Average
+499,20,Female,Undergraduate,France,2.8,Instagram,No,9.2,7.0,Positive,Low,Adequate Sleep,Average
+500,22,Male,Graduate,Canada,3.6,TikTok,Yes,8.6,6.0,Negative,Moderate,Adequate Sleep,Average
+501,19,Female,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.3,6.0,Negative,High,Moderate Sleep,Average
+502,21,Male,Graduate,China,4.5,WeChat,No,7.8,7.0,Positive,Moderate,Adequate Sleep,Average
+503,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8.0,Positive,Moderate,Adequate Sleep,Good
+504,22,Male,Graduate,New Zealand,4.7,Instagram,Yes,7.5,7.0,Negative,Moderate,Adequate Sleep,Average
+505,19,Female,Undergraduate,Singapore,5.1,TikTok,Yes,7.0,6.0,Negative,Moderate,Moderate Sleep,Average
+506,21,Male,Graduate,Malaysia,5.5,WhatsApp,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+507,20,Female,Undergraduate,UAE,6.5,Instagram,Yes,6.5,5.0,Negative,High,Moderate Sleep,Average
+508,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7.0,Positive,Moderate,Adequate Sleep,Average
+509,19,Female,Undergraduate,India,6.8,WhatsApp,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+510,21,Male,Graduate,Canada,4.8,Instagram,Yes,7.4,7.0,Negative,Moderate,Adequate Sleep,Average
+511,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6.0,Negative,High,Moderate Sleep,Average
+512,22,Male,Graduate,China,4.4,WeChat,No,7.9,7.0,Positive,Moderate,Adequate Sleep,Average
+513,19,Female,Undergraduate,Netherlands,3.7,TikTok,No,8.3,8.0,Positive,Moderate,Adequate Sleep,Good
+514,21,Male,Graduate,New Zealand,4.6,Instagram,Yes,7.6,7.0,Negative,Moderate,Adequate Sleep,Average
+515,20,Female,Undergraduate,Singapore,5.2,TikTok,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+516,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+517,19,Female,Undergraduate,UAE,6.6,Instagram,Yes,6.4,5.0,Negative,High,Moderate Sleep,Average
+518,21,Male,Graduate,Poland,4.1,Facebook,No,8.0,7.0,Positive,Moderate,Adequate Sleep,Average
+519,20,Female,Undergraduate,India,6.9,WhatsApp,Yes,5.9,5.0,Negative,High,Moderate Sleep,Average
+520,22,Male,Graduate,Canada,4.7,TikTok,Yes,7.5,7.0,Negative,Moderate,Adequate Sleep,Average
+521,19,Female,Undergraduate,Brazil,6.0,WhatsApp,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+522,21,Male,Graduate,China,4.3,WeChat,No,8.0,7.0,Positive,Moderate,Adequate Sleep,Average
+523,20,Female,Undergraduate,Netherlands,3.6,Instagram,No,8.4,8.0,Positive,Moderate,Adequate Sleep,Good
+524,22,Male,Graduate,New Zealand,4.5,Facebook,Yes,7.7,7.0,Negative,Moderate,Adequate Sleep,Average
+525,19,Female,Undergraduate,Singapore,5.3,TikTok,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+526,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+527,20,Female,Undergraduate,UAE,6.7,Instagram,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+528,22,Male,Graduate,Poland,4.0,Facebook,No,8.1,7.0,Positive,Moderate,Adequate Sleep,Average
+529,19,Female,Undergraduate,India,7.0,WhatsApp,Yes,5.8,5.0,Negative,High,Moderate Sleep,Average
+530,21,Male,Graduate,Canada,4.6,Instagram,Yes,7.6,7.0,Negative,Moderate,Adequate Sleep,Average
+531,20,Female,Undergraduate,Brazil,5.9,TikTok,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+532,22,Male,Graduate,China,4.2,WeChat,No,8.1,7.0,Positive,Moderate,Adequate Sleep,Average
+533,19,Female,Undergraduate,Netherlands,3.5,Instagram,No,8.5,8.0,Positive,Moderate,Adequate Sleep,Good
+534,21,Male,Graduate,New Zealand,4.4,Facebook,Yes,7.8,7.0,Negative,Moderate,Adequate Sleep,Average
+535,20,Female,Undergraduate,Singapore,5.4,TikTok,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+536,22,Male,Graduate,Malaysia,5.8,WhatsApp,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+537,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+538,21,Male,Graduate,Poland,3.9,Facebook,No,8.2,7.0,Positive,Moderate,Adequate Sleep,Average
+539,20,Female,Undergraduate,India,7.1,WhatsApp,Yes,5.7,5.0,Negative,High,Moderate Sleep,Average
+540,22,Male,Graduate,Canada,4.5,TikTok,Yes,7.7,7.0,Negative,Moderate,Adequate Sleep,Average
+541,19,Female,Undergraduate,Brazil,5.8,WhatsApp,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+542,21,Male,Graduate,China,4.1,WeChat,No,8.2,7.0,Positive,Moderate,Adequate Sleep,Average
+543,20,Female,Undergraduate,Netherlands,3.4,Instagram,No,8.6,8.0,Positive,Moderate,Adequate Sleep,Good
+544,22,Male,Graduate,New Zealand,4.3,Instagram,Yes,7.9,7.0,Negative,Moderate,Adequate Sleep,Average
+545,19,Female,Undergraduate,Singapore,5.5,TikTok,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+546,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,6.0,Negative,Moderate,Moderate Sleep,Average
+547,20,Female,Undergraduate,UAE,6.9,Instagram,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+548,22,Male,Graduate,Poland,3.8,Facebook,No,8.3,7.0,Positive,Moderate,Adequate Sleep,Average
+549,19,Female,Undergraduate,India,7.2,WhatsApp,Yes,5.6,5.0,Negative,High,Moderate Sleep,Average
+550,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7.0,Negative,Moderate,Adequate Sleep,Average
+551,20,Female,Undergraduate,Brazil,5.7,TikTok,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+552,22,Male,Graduate,China,4.0,WeChat,No,8.3,7.0,Positive,Moderate,Adequate Sleep,Average
+553,19,Female,Undergraduate,Netherlands,3.3,Instagram,No,8.7,8.0,Positive,Moderate,Adequate Sleep,Good
+554,21,Male,Graduate,New Zealand,4.2,Facebook,Yes,8.0,7.0,Negative,Moderate,Adequate Sleep,Average
+555,20,Female,Undergraduate,Singapore,5.6,TikTok,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+556,22,Male,Graduate,Malaysia,6.0,WhatsApp,Yes,6.3,6.0,Negative,Moderate,Moderate Sleep,Average
+557,19,Female,Undergraduate,UAE,7.0,Instagram,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+558,21,Male,Graduate,Poland,3.7,Facebook,No,8.4,7.0,Positive,Moderate,Adequate Sleep,Average
+559,20,Female,Undergraduate,India,7.3,WhatsApp,Yes,5.5,5.0,Negative,High,Moderate Sleep,Average
+560,22,Male,Graduate,Canada,4.3,TikTok,Yes,7.9,7.0,Negative,Moderate,Adequate Sleep,Average
+561,19,Female,Undergraduate,Brazil,5.6,WhatsApp,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+562,21,Male,Graduate,China,3.9,WeChat,No,8.4,7.0,Positive,Moderate,Adequate Sleep,Average
+563,20,Female,Undergraduate,Netherlands,3.2,Instagram,No,8.8,8.0,Positive,Moderate,Adequate Sleep,Good
+564,22,Male,Graduate,New Zealand,4.1,Instagram,Yes,8.1,7.0,Negative,Moderate,Adequate Sleep,Average
+565,19,Female,Undergraduate,Singapore,5.7,TikTok,Yes,6.4,6.0,Negative,Moderate,Moderate Sleep,Average
+566,21,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,6.0,Negative,High,Moderate Sleep,Average
+567,20,Female,Undergraduate,UAE,7.1,Instagram,Yes,5.9,5.0,Negative,High,Moderate Sleep,Average
+568,22,Male,Graduate,Poland,3.6,Facebook,No,8.5,7.0,Positive,Moderate,Adequate Sleep,Average
+569,19,Female,Undergraduate,India,7.4,WhatsApp,Yes,5.4,5.0,Negative,High,Moderate Sleep,Average
+570,21,Male,Graduate,Canada,4.2,Instagram,Yes,8.0,7.0,Negative,Moderate,Adequate Sleep,Average
+571,20,Female,Undergraduate,Spain,6.1,Instagram,Yes,7.2,5.0,Negative,High,Adequate Sleep,Average
+572,23,Male,Graduate,Denmark,3.8,Twitter,No,7.8,8.0,Positive,Moderate,Adequate Sleep,Good
+573,19,Female,Undergraduate,Ireland,5.5,TikTok,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+574,22,Male,Graduate,India,7.2,Facebook,Yes,5.9,4.0,Negative,High,Moderate Sleep,Poor
+575,21,Female,Undergraduate,Switzerland,4.2,Instagram,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+576,24,Male,Graduate,Turkey,6.8,TikTok,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+577,20,Female,Undergraduate,USA,5.9,Instagram,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+578,22,Male,Graduate,Mexico,6.5,Facebook,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+579,19,Female,Undergraduate,France,4.7,Twitter,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+580,23,Male,Graduate,Canada,5.2,Instagram,Yes,7.0,6.0,Negative,Moderate,Moderate Sleep,Average
+581,21,Female,Undergraduate,UK,6.3,TikTok,Yes,6.4,5.0,Negative,High,Moderate Sleep,Average
+582,24,Male,Graduate,Italy,4.9,Facebook,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+583,20,Female,Undergraduate,Russia,6.7,Instagram,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+584,22,Male,Graduate,China,5.8,WeChat,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+585,19,Female,Undergraduate,Japan,4.5,Twitter,No,7.6,8.0,Positive,Moderate,Adequate Sleep,Good
+586,23,Male,Graduate,Poland,6.4,Facebook,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+587,21,Female,Undergraduate,Finland,4.1,Instagram,No,7.7,7.0,Positive,Moderate,Adequate Sleep,Average
+588,24,Male,Graduate,Spain,6.6,TikTok,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+589,20,Female,Undergraduate,Denmark,4.4,Instagram,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+590,22,Male,Graduate,Ireland,5.7,Twitter,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+591,19,Female,Undergraduate,India,7.0,Instagram,Yes,5.8,4.0,Negative,High,Moderate Sleep,Poor
+592,23,Male,Graduate,Switzerland,4.3,Facebook,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+593,21,Female,Undergraduate,Turkey,6.9,TikTok,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+594,24,Male,Graduate,USA,5.6,Instagram,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+595,20,Female,Undergraduate,Mexico,6.2,Facebook,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+596,21,Male,Undergraduate,France,5.8,Instagram,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+597,23,Female,Graduate,Canada,4.9,TikTok,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+598,20,Male,Undergraduate,UK,6.4,Facebook,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+599,22,Female,Graduate,Italy,5.1,Twitter,No,7.1,7.0,Positive,Moderate,Adequate Sleep,Average
+600,19,Male,Undergraduate,Russia,6.7,Instagram,Yes,6.0,4.0,Negative,High,Moderate Sleep,Poor
+601,24,Female,Graduate,China,5.5,WeChat,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+602,21,Male,Undergraduate,Japan,4.3,Twitter,No,7.6,8.0,Positive,Moderate,Adequate Sleep,Good
+603,23,Female,Graduate,Poland,6.2,Instagram,Yes,6.4,5.0,Negative,High,Moderate Sleep,Average
+604,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+605,22,Female,Graduate,Spain,6.3,TikTok,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+606,19,Male,Undergraduate,Denmark,4.7,Instagram,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+607,24,Female,Graduate,Ireland,5.9,Twitter,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+608,21,Male,Undergraduate,India,7.1,Facebook,Yes,5.7,4.0,Negative,High,Moderate Sleep,Poor
+609,23,Female,Graduate,Switzerland,4.4,Instagram,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+610,20,Male,Undergraduate,Turkey,6.6,TikTok,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+611,22,Female,Graduate,USA,5.4,Instagram,Yes,6.9,6.0,Negative,Moderate,Moderate Sleep,Average
+612,19,Male,Undergraduate,Mexico,6.5,Facebook,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+613,24,Female,Graduate,France,4.8,Twitter,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+614,21,Male,Undergraduate,Canada,5.7,Instagram,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+615,23,Female,Graduate,UK,6.1,TikTok,Yes,6.4,5.0,Negative,High,Moderate Sleep,Average
+616,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+617,22,Female,Graduate,Russia,6.8,Instagram,Yes,5.9,4.0,Negative,High,Moderate Sleep,Poor
+618,19,Male,Undergraduate,China,5.6,WeChat,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+619,24,Female,Graduate,Japan,4.2,Twitter,No,7.5,8.0,Positive,Moderate,Adequate Sleep,Good
+620,21,Male,Undergraduate,Poland,6.3,TikTok,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+621,23,Female,Graduate,Finland,4.4,Instagram,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+622,20,Male,Undergraduate,Spain,6.5,Facebook,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+623,22,Female,Graduate,Denmark,4.6,Twitter,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+624,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+625,24,Female,Graduate,India,7.0,TikTok,Yes,5.8,4.0,Negative,High,Moderate Sleep,Poor
+626,21,Male,Undergraduate,Switzerland,4.5,Facebook,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+627,23,Female,Graduate,Turkey,6.7,Instagram,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+628,20,Male,Undergraduate,USA,5.5,Twitter,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+629,22,Female,Graduate,Mexico,6.4,Facebook,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+630,19,Male,Undergraduate,France,4.7,Instagram,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+631,24,Female,Graduate,Canada,5.6,TikTok,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+632,21,Male,Undergraduate,UK,6.2,Facebook,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+633,23,Female,Graduate,Italy,4.8,Twitter,No,7.1,7.0,Positive,Moderate,Adequate Sleep,Average
+634,20,Male,Undergraduate,Russia,6.9,Instagram,Yes,5.9,4.0,Negative,High,Moderate Sleep,Poor
+635,22,Female,Graduate,China,5.7,WeChat,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+636,19,Male,Undergraduate,Japan,4.4,Twitter,No,7.4,8.0,Positive,Moderate,Adequate Sleep,Good
+637,24,Female,Graduate,Poland,6.1,TikTok,Yes,6.4,5.0,Negative,High,Moderate Sleep,Average
+638,21,Male,Undergraduate,Finland,4.3,Instagram,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+639,23,Female,Graduate,Spain,6.4,Facebook,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+640,20,Male,Undergraduate,Denmark,4.5,Twitter,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+641,22,Female,Graduate,Ireland,5.9,Instagram,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+642,19,Male,Undergraduate,India,7.2,TikTok,Yes,5.7,4.0,Negative,High,Moderate Sleep,Poor
+643,24,Female,Graduate,Switzerland,4.6,Facebook,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+644,21,Male,Undergraduate,Turkey,6.8,Instagram,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+645,23,Female,Graduate,USA,5.3,Twitter,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+646,22,Male,Graduate,Mexico,6.3,Facebook,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+647,20,Female,Undergraduate,France,4.8,Instagram,No,7.1,7.0,Positive,Moderate,Adequate Sleep,Average
+648,23,Male,Graduate,Canada,5.7,TikTok,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+649,21,Female,Undergraduate,UK,6.2,Twitter,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+650,24,Male,Graduate,Italy,4.7,Facebook,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+651,19,Female,Undergraduate,Russia,6.8,Instagram,Yes,5.9,4.0,Negative,High,Moderate Sleep,Poor
+652,22,Male,Graduate,China,5.6,WeChat,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+653,20,Female,Undergraduate,Japan,4.3,Twitter,No,7.5,8.0,Positive,Moderate,Adequate Sleep,Good
+654,23,Male,Graduate,Poland,6.2,TikTok,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+655,21,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+656,24,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+657,19,Female,Undergraduate,Denmark,4.6,Twitter,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+658,22,Male,Graduate,Ireland,5.8,Instagram,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+659,20,Female,Undergraduate,India,7.1,TikTok,Yes,5.8,4.0,Negative,High,Moderate Sleep,Poor
+660,23,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+661,21,Female,Undergraduate,Turkey,6.7,Instagram,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+662,24,Male,Graduate,USA,5.4,Twitter,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+663,19,Female,Undergraduate,Mexico,6.4,TikTok,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+664,22,Male,Graduate,France,4.7,Facebook,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+665,20,Female,Undergraduate,Canada,5.6,Instagram,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+666,23,Male,Graduate,UK,6.3,Twitter,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+667,21,Female,Undergraduate,Italy,4.8,TikTok,No,7.1,7.0,Positive,Moderate,Adequate Sleep,Average
+668,24,Male,Graduate,Russia,6.9,Instagram,Yes,5.9,4.0,Negative,High,Moderate Sleep,Poor
+669,19,Female,Undergraduate,China,5.7,WeChat,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+670,22,Male,Graduate,Japan,4.4,Twitter,No,7.4,8.0,Positive,Moderate,Adequate Sleep,Good
+671,20,Female,Undergraduate,Poland,6.1,Facebook,Yes,6.4,5.0,Negative,High,Moderate Sleep,Average
+672,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7.0,Positive,Moderate,Adequate Sleep,Average
+673,21,Female,Undergraduate,Spain,6.4,TikTok,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+674,24,Male,Graduate,Denmark,4.5,Twitter,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+675,19,Female,Undergraduate,Ireland,5.9,Instagram,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+676,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4.0,Negative,High,Moderate Sleep,Poor
+677,20,Female,Undergraduate,Switzerland,4.6,TikTok,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+678,23,Male,Graduate,Turkey,6.8,Instagram,Yes,6.0,5.0,Negative,High,Moderate Sleep,Average
+679,21,Female,Undergraduate,USA,5.3,Twitter,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+680,24,Male,Graduate,Mexico,6.2,Facebook,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+681,19,Female,Undergraduate,France,4.7,Instagram,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+682,22,Male,Graduate,Canada,5.8,TikTok,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+683,20,Female,Undergraduate,UK,6.1,Twitter,Yes,6.4,5.0,Negative,High,Moderate Sleep,Average
+684,23,Male,Graduate,Italy,4.8,Facebook,No,7.1,7.0,Positive,Moderate,Adequate Sleep,Average
+685,21,Female,Undergraduate,Russia,6.7,Instagram,Yes,6.0,4.0,Negative,High,Moderate Sleep,Poor
+686,24,Male,Graduate,China,5.5,WeChat,Yes,6.8,6.0,Negative,Moderate,Moderate Sleep,Average
+687,19,Female,Undergraduate,Japan,4.2,Twitter,No,7.5,8.0,Positive,Moderate,Adequate Sleep,Good
+688,22,Male,Graduate,Poland,6.3,TikTok,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+689,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7.0,Positive,Moderate,Adequate Sleep,Average
+690,23,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+691,21,Female,Undergraduate,Denmark,4.6,Twitter,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+692,24,Male,Graduate,Ireland,5.9,Instagram,Yes,6.5,6.0,Negative,Moderate,Moderate Sleep,Average
+693,19,Female,Undergraduate,India,7.0,TikTok,Yes,5.8,4.0,Negative,High,Moderate Sleep,Poor
+694,22,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7.0,Positive,Moderate,Adequate Sleep,Average
+695,20,Female,Undergraduate,Turkey,6.6,Instagram,Yes,6.1,5.0,Negative,High,Moderate Sleep,Average
+696,23,Male,Graduate,USA,5.5,Twitter,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+697,21,Female,Undergraduate,Mexico,6.3,TikTok,Yes,6.2,5.0,Negative,High,Moderate Sleep,Average
+698,24,Male,Graduate,France,4.8,Facebook,No,7.1,7.0,Positive,Moderate,Adequate Sleep,Average
+699,19,Female,Undergraduate,Canada,5.7,Instagram,Yes,6.6,6.0,Negative,Moderate,Moderate Sleep,Average
+700,22,Male,Graduate,UK,6.2,Twitter,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
+701,20,Female,Undergraduate,Italy,4.7,TikTok,No,7.2,7.0,Positive,Moderate,Adequate Sleep,Average
+702,23,Male,Graduate,Russia,6.8,Instagram,Yes,5.9,4.0,Negative,High,Moderate Sleep,Poor
+703,21,Female,Undergraduate,China,5.6,WeChat,Yes,6.7,6.0,Negative,Moderate,Moderate Sleep,Average
+704,24,Male,Graduate,Japan,4.3,Twitter,No,7.5,8.0,Positive,Moderate,Adequate Sleep,Good
+705,19,Female,Undergraduate,Poland,6.2,Facebook,Yes,6.3,5.0,Negative,High,Moderate Sleep,Average
